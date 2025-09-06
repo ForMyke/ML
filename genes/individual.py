@@ -37,15 +37,19 @@ def mix_humans(humanA: List[int], humanB: List[int], params: Params) -> Tuple[Li
 def mix_humans_verbose(humanA: List[int], humanB: List[int], params: Params):
     """
     Igual que mix_humans pero también devuelve 'events' para auditar.
-    Ahora cada hijo muta exactamente 2 genes elegidos al azar.
+    Opción A: el número de genes mutados por hijo depende de
+              mutationProbability * numAttributes (al menos 1).
     """
     nHuman1: List[int] = []
     nHuman2: List[int] = []
     events = []
 
-    # Selecciona 2 genes distintos para mutar en cada hijo
-    mut_positions_child1 = random.sample(range(params.numAttributes), 2)
-    mut_positions_child2 = random.sample(range(params.numAttributes), 2)
+    # Número de mutaciones por hijo según la probabilidad configurada
+    k = max(1, int(round(params.mutationProbability * params.numAttributes)))
+
+    # Selecciona k genes distintos para mutar en cada hijo
+    mut_positions_child1 = set(random.sample(range(params.numAttributes), min(k, params.numAttributes)))
+    mut_positions_child2 = set(random.sample(range(params.numAttributes), min(k, params.numAttributes)))
 
     for i in range(params.numAttributes):
         choose = random.randint(0, 1) == 0  # True => H1 toma ceil(media) salvo mutación

@@ -4,7 +4,7 @@ from dataclasses import dataclass
 class Params:
     numgen: int = 100
     numCouples: int = 50
-    mutationProbability: float = 0.20
+    mutationProbability: float = 0.01
     numAttributes: int = 20
     MIN_LIM: int = 1
     MAX_LIM: int = 9
