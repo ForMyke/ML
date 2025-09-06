@@ -14,16 +14,16 @@ def check_perfect(human: List[int], params: Params) -> bool:
 
 def mix_humans(humanA: List[int], humanB: List[int], params: Params) -> Tuple[List[int], List[int]]:
     """Poder relacionarse (recombinación + posible mutación)"""
-    nHuman1, nHuman2 = [], []
+    # (versión original existente)
+    nHuman1: List[int] = []
+    nHuman2: List[int] = []
     for i in range(params.numAttributes):
-        choose = (random.randint(0, params.numgen) % 2 == 0)
+        choose = random.randint(0, 1) == 0
         media = (humanA[i] + humanB[i]) / 2
         al1 = random.randint(0, params.numgen) <= params.limit
         al2 = random.randint(0, params.numgen) <= params.limit
-
         a_val = random_number_mutation(params) if al1 else (ceil(media) if choose else floor(media))
         b_val = random_number_mutation(params) if al2 else (floor(media) if choose else ceil(media))
-
         if choose:
             nHuman1.append(a_val)
             nHuman2.append(b_val)
@@ -31,3 +31,41 @@ def mix_humans(humanA: List[int], humanB: List[int], params: Params) -> Tuple[Li
             nHuman1.append(b_val)
             nHuman2.append(a_val)
     return nHuman1, nHuman2
+
+def mix_humans_verbose(humanA: List[int], humanB: List[int], params: Params):
+    """
+    Igual que mix_humans pero también devuelve 'events' para auditar
+    qué pasó atributo por atributo (mutación / media / orden).
+    """
+    nHuman1: List[int] = []
+    nHuman2: List[int] = []
+    events = []
+    for i in range(params.numAttributes):
+        choose = random.randint(0, 1) == 0  # True => H1 toma ceil(media) salvo mutación
+        media = (humanA[i] + humanB[i]) / 2
+        mut1 = random.randint(0, params.numgen) <= params.limit
+        mut2 = random.randint(0, params.numgen) <= params.limit
+
+        a_val = random_number_mutation(params) if mut1 else (ceil(media) if choose else floor(media))
+        b_val = random_number_mutation(params) if mut2 else (floor(media) if choose else ceil(media))
+
+        if choose:
+            c1, c2 = a_val, b_val
+            ev1_mut, ev2_mut = mut1, mut2
+        else:
+            c1, c2 = b_val, a_val
+            ev1_mut, ev2_mut = mut2, mut1
+
+        nHuman1.append(c1)
+        nHuman2.append(c2)
+        events.append({
+            "attr": i,
+            "parents": (humanA[i], humanB[i]),
+            "avg": media,
+            "chooseAfirst": choose,
+            "child1": c1,
+            "child2": c2,
+            "mut_child1": ev1_mut,
+            "mut_child2": ev2_mut
+        })
+    return nHuman1, nHuman2, events
