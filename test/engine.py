@@ -1,7 +1,9 @@
 # test/engine.py
 from typing import List, Dict, Optional, Tuple
 from .variables import Params
+from collections import deque
 from genes.individual import gen_human, check_perfect, mix_humans_verbose
+import random as _r
 
 # {'id': int, 'genes': list[int], 'gen': int,
 #  'parents': (madre_id, padre_id),
@@ -10,6 +12,16 @@ from genes.individual import gen_human, check_perfect, mix_humans_verbose
 #  'relaxed': bool}
 Person = Dict[str, object]
 
+# ---------- Scoring (heurística “mejores primero”) ----------
+def individual_score(genes: List[int]) -> int:
+    """Puntaje simple del individuo: suma de genes."""
+    return sum(genes)
+
+def pair_score(w_genes: List[int], m_genes: List[int]) -> int:
+    """Puntaje de compatibilidad de pareja (mujer, hombre)."""
+    return sum(w_genes) + sum(m_genes)
+
+# ---------- Modelo ----------
 def make_person(next_id: int, genes: list[int], gen: int,
                 parents: Tuple[Optional[int], Optional[int]] = (None, None),
                 gp: Optional[set] = None,                     # abuelos
@@ -33,6 +45,7 @@ def print_population(population: List[Person], gen: int):
         r = "relajado" if p.get("relaxed") else "normal"
         print(f"[id={p['id']:5d}] gen={p['gen']:3d}  madre={madre} padre={padre}  ({r})  atributos: {genes_str}")
 
+# ---------- Parentesco (hasta bisabuelos) ----------
 def are_related(a: Person, b: Person) -> bool:
     """
     True si comparten:
@@ -60,9 +73,9 @@ def are_related(a: Person, b: Person) -> bool:
 
     return False
 
+# ---------- Hopcroft–Karp ----------
 def hopcroft_karp(adj: List[List[int]], n_left: int, n_right: int) -> Tuple[dict, List[int]]:
     """Devuelve matching dict L->R y lista de nodos izquierdos no emparejados."""
-    from collections import deque
     INF = 10**9
     pairU = [-1] * n_left
     pairV = [-1] * n_right
@@ -104,52 +117,99 @@ def hopcroft_karp(adj: List[List[int]], n_left: int, n_right: int) -> Tuple[dict
     unmatched = [u for u in range(n_left) if pairU[u] == -1]
     return {u: pairU[u] for u in range(n_left) if pairU[u] != -1}, unmatched
 
+# ---------- Emparejamiento con heurística de calidad ----------
 def schedule_pairs(men: List[Person], women: List[Person], params: Params) -> List[Tuple[int, int, bool]]:
-    """Empareja evitando parentesco hasta bisabuelos; si faltan 2 parejas, los últimos 4 actúan como pivote.
-       Devuelve (idx_hombre, idx_mujer, relajado?)."""
-    import random as _r
+    """
+    Empareja evitando parentesco hasta bisabuelos.
+    Heurística “mejores primero”:
+      - Para cada hombre, ordena sus aristas (mujeres permitidas) por mayor pair_score.
+      - En el post-proceso (unmatched), elige la mejor mujer disponible por score.
+    Respeta pivote: últimos 2 hombres se pueden emparejar sin restricción si es necesario.
+    Devuelve (idx_hombre, idx_mujer, relajado?).
+    """
     n = len(men)
-    adj: List[List[int]] = []
+
+    # Precompute scores
+    men_scores   = [individual_score(m["genes"]) for m in men]
+    women_scores = [individual_score(w["genes"]) for w in women]
+
+    # Para cada hombre i, construir lista de (j, score_ij) sólo si NO son parientes
+    adj_scored: List[List[Tuple[int, int]]] = []
     for i, m in enumerate(men):
-        edges = [j for j, w in enumerate(women) if not are_related(m, w)]
-        _r.shuffle(edges)
-        adj.append(edges)
+        edges_scored = []
+        for j, w in enumerate(women):
+            if not are_related(m, w):
+                s = pair_score(w["genes"], m["genes"])
+                edges_scored.append((j, s))
+        # Ordenamos por score descendente; desempate aleatorio para diversidad
+        _r.shuffle(edges_scored)
+        edges_scored.sort(key=lambda t: t[1], reverse=True)
+        adj_scored.append(edges_scored)
+
+    # Adyacencia para HK (sólo los índices), preservando el orden por score
+    adj: List[List[int]] = [[j for (j, _) in edges] for edges in adj_scored]
 
     matching, unmatched = hopcroft_karp(adj, n, n)
 
     pairs: List[Tuple[int, int, bool]] = []
-    # matching “normal”
+    # matching normal
     for i in range(n):
         if i in matching:
             pairs.append((i, matching[i], False))
 
-    # Relajación: “últimos 4” (2 parejas) pueden mezclarse libremente
+    # Relaxation pivot: últimos 2 hombres
     last2 = max(0, n - 2)
-    allowed_relaxed = set(range(last2, n))  # índices de hombres n-2 y n-1 (si hay)
+    allowed_relaxed = set(range(last2, n))
     used_women = set(matching.values())
 
+    # Índice rápido: para un (i), obtener mejor mujer disponible por score
+    def best_available_for(i: int, must_avoid_kin: bool) -> Optional[int]:
+        if must_avoid_kin:
+            # recorrer su lista ya ordenada por score y tomar la primera mujer libre
+            for j, _ in adj_scored[i]:
+                if j not in used_women:
+                    return j
+            return None
+        else:
+            # si podemos romper parentesco (pivote), elegir la mejor disponible por score “global”
+            candidates = []
+            for j in range(n):
+                if j in used_women:
+                    continue
+                s = men_scores[i] + women_scores[j]
+                candidates.append((j, s))
+            if not candidates:
+                return None
+            candidates.sort(key=lambda t: t[1], reverse=True)
+            return candidates[0][0]
+
+    # Asignar no emparejados con la mejor opción disponible
     for i in unmatched:
-        candidates = [j for j in range(n) if j not in used_women]
-        if not candidates:
-            break
+        # primero, intentar mantener la restricción
+        j = best_available_for(i, must_avoid_kin=True)
+        if j is not None:
+            used_women.add(j)
+            pairs.append((i, j, False))
+            continue
+
+        # si no hay opción y está en zona pivote, permitir relajación
         if i in allowed_relaxed:
-            j = candidates[0]
+            j = best_available_for(i, must_avoid_kin=False)
+            if j is not None:
+                used_women.add(j)
+                pairs.append((i, j, True))
+                continue
+
+        # último recurso (raro): si no es pivote, igual obliga relajado con la mejor disponible
+        j = best_available_for(i, must_avoid_kin=False)
+        if j is not None:
             used_women.add(j)
             pairs.append((i, j, True))
-        else:
-            ok = [j for j in candidates if not are_related(men[i], women[j])]
-            if ok:
-                j = ok[0]
-                used_women.add(j)
-                pairs.append((i, j, False))
-            else:
-                j = candidates[0]
-                used_women.add(j)
-                pairs.append((i, j, True))  # obligado
 
     pairs.sort(key=lambda x: x[0])
     return pairs
 
+# ---------- Población inicial ----------
 def build_initial_population(params: Params) -> Tuple[List[Person], List[Person]]:
     """Generación 0: crea numCouples*2 individuos y la imprime."""
     men: List[Person] = []
@@ -162,10 +222,15 @@ def build_initial_population(params: Params) -> Tuple[List[Person], List[Person]
     print_population(women + men, gen=0)
     return men, women
 
+# ---------- Reproducción y logs (con MUTACIÓN DIRIGIDA A MAX) ----------
 def mix_and_make_children(pairs: List[Tuple[int, int, bool]],
                           men: List[Person], women: List[Person],
                           params: Params) -> Tuple[List[Person], List[Person], bool]:
-    """Genera la siguiente generación preservando linaje (hasta bisabuelos) y LOGS detallados."""
+    """
+    Genera la siguiente generación preservando linaje (hasta bisabuelos) y LOGS detallados.
+    ACELERACIÓN: si un atributo del hijo está marcado como mutado por mix_humans_verbose,
+                 lo forzamos a params.MAX_LIM (mutación direccional hacia el óptimo).
+    """
     perfect = False
     next_women: List[Person] = []
     next_men: List[Person] = []
@@ -178,6 +243,14 @@ def mix_and_make_children(pairs: List[Tuple[int, int, bool]],
         m = men[mi]
         w = women[wj]
         h1, h2, ev = mix_humans_verbose(w["genes"], m["genes"], params)  # 1º hija, 2º hijo
+
+        # === ACELERACIÓN: dirigir mutaciones a MAX ===
+        for e in ev:
+            i = e["attr"]
+            if e["mut_child1"]:
+                h1[i] = params.MAX_LIM
+            if e["mut_child2"]:
+                h2[i] = params.MAX_LIM
 
         # Conjuntos útiles de los padres
         w_parents = set([p for p in w["parents"] if p is not None])
@@ -204,7 +277,7 @@ def mix_and_make_children(pairs: List[Tuple[int, int, bool]],
         child_w["parents_related"] = parents_related
         child_m["parents_related"] = parents_related
 
-        # Conteos de mutaciones por hijo
+        # Conteos de mutaciones por hijo (tras dirección)
         mut_idx_1 = [e["attr"] for e in ev if e["mut_child1"]]
         mut_idx_2 = [e["attr"] for e in ev if e["mut_child2"]]
         total_mut_c1 += len(mut_idx_1)
@@ -225,6 +298,7 @@ def mix_and_make_children(pairs: List[Tuple[int, int, bool]],
 
     return next_men, next_women, perfect
 
+# ---------- Loop evolutivo ----------
 def get_generation(params: Params) -> int:
     generation = 0
     men, women = build_initial_population(params)

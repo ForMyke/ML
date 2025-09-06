@@ -4,9 +4,9 @@ from dataclasses import dataclass
 class Params:
     numgen: int = 100
     numCouples: int = 50
-    mutationProbability: float = 0.15
+    mutationProbability: float = 0.20
     numAttributes: int = 20
-    MIN_LIM: int = 8
+    MIN_LIM: int = 1
     MAX_LIM: int = 9
     mu: int = 9
     sd: int = 1

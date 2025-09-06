@@ -13,8 +13,10 @@ def check_perfect(human: List[int], params: Params) -> bool:
     return all(g == params.MAX_LIM for g in human)
 
 def mix_humans(humanA: List[int], humanB: List[int], params: Params) -> Tuple[List[int], List[int]]:
-    """Poder relacionarse (recombinación + posible mutación)"""
-    # (versión original existente)
+    """
+    Recombinación simple (versión antigua).
+    Conservada por compatibilidad, pero aquí las mutaciones siguen probabilísticas.
+    """
     nHuman1: List[int] = []
     nHuman2: List[int] = []
     for i in range(params.numAttributes):
@@ -34,17 +36,24 @@ def mix_humans(humanA: List[int], humanB: List[int], params: Params) -> Tuple[Li
 
 def mix_humans_verbose(humanA: List[int], humanB: List[int], params: Params):
     """
-    Igual que mix_humans pero también devuelve 'events' para auditar
-    qué pasó atributo por atributo (mutación / media / orden).
+    Igual que mix_humans pero también devuelve 'events' para auditar.
+    Ahora cada hijo muta exactamente 2 genes elegidos al azar.
     """
     nHuman1: List[int] = []
     nHuman2: List[int] = []
     events = []
+
+    # Selecciona 2 genes distintos para mutar en cada hijo
+    mut_positions_child1 = random.sample(range(params.numAttributes), 2)
+    mut_positions_child2 = random.sample(range(params.numAttributes), 2)
+
     for i in range(params.numAttributes):
         choose = random.randint(0, 1) == 0  # True => H1 toma ceil(media) salvo mutación
         media = (humanA[i] + humanB[i]) / 2
-        mut1 = random.randint(0, params.numgen) <= params.limit
-        mut2 = random.randint(0, params.numgen) <= params.limit
+
+        # Mutaciones obligatorias en las posiciones seleccionadas
+        mut1 = i in mut_positions_child1
+        mut2 = i in mut_positions_child2
 
         a_val = random_number_mutation(params) if mut1 else (ceil(media) if choose else floor(media))
         b_val = random_number_mutation(params) if mut2 else (floor(media) if choose else ceil(media))
