@@ -1,41 +1,64 @@
-# test/engine.py  (reemplaza TODO el archivo por esta versión con logs)
+# test/engine.py
 from typing import List, Dict, Optional, Tuple
 from .variables import Params
 from genes.individual import gen_human, check_perfect, mix_humans_verbose
 
-# {'id': int, 'genes': list[int], 'parents': (id,id), 'grandparents': set[id]}
+# {'id': int, 'genes': list[int], 'gen': int,
+#  'parents': (madre_id, padre_id),
+#  'grandparents': set[int],          # abuelos (gen - 2)
+#  'greatgrandparents': set[int],     # bisabuelos (gen - 3)
+#  'relaxed': bool}
 Person = Dict[str, object]
 
-def make_person(next_id: int, genes: list[int],
+def make_person(next_id: int, genes: list[int], gen: int,
                 parents: Tuple[Optional[int], Optional[int]] = (None, None),
-                gp: Optional[set] = None) -> Person:
+                gp: Optional[set] = None,                     # abuelos
+                ggp: Optional[set] = None,                    # bisabuelos
+                relaxed: bool = False) -> Person:
     return {
         "id": next_id,
         "genes": genes,
-        "parents": parents,
-        "grandparents": set() if gp is None else set(gp)
+        "gen": gen,  # generación de nacimiento
+        "parents": parents,  # (madre, padre)
+        "grandparents": set() if gp is None else set(gp),
+        "greatgrandparents": set() if ggp is None else set(ggp),
+        "relaxed": relaxed,
     }
 
-def build_initial_population(params: Params) -> Tuple[List[Person], List[Person]]:
-    men: List[Person] = []
-    women: List[Person] = []
-    nid = 0
-    for _ in range(params.numCouples):
-        women.append(make_person(nid, gen_human(params))); nid += 1
-        men.append(make_person(nid, gen_human(params))); nid += 1
-    print(f"\n== Generación 0 (población inicial)")
-    print(f"Total mujeres: {len(women)} | Total hombres: {len(men)}")
-    return men, women
+def print_population(population: List[Person], gen: int):
+    print(f"\n===== GENERACION {gen} (n={len(population)}) =====")
+    for p in population:
+        madre, padre = p["parents"]
+        genes_str = " ".join(str(g) for g in p["genes"])
+        r = "relajado" if p.get("relaxed") else "normal"
+        print(f"[id={p['id']:5d}] gen={p['gen']:3d}  madre={madre} padre={padre}  ({r})  atributos: {genes_str}")
 
 def are_related(a: Person, b: Person) -> bool:
-    """True si comparten algún padre o algún abuelo (primos)."""
+    """
+    True si comparten:
+      - algún padre (hermanos),
+      - o algún abuelo (primos),
+      - o algún bisabuelo (primos en segundo grado).
+    """
+    # Padres
     pa = set([p for p in a["parents"] if p is not None])
     pb = set([p for p in b["parents"] if p is not None])
     if pa and pb and pa.intersection(pb):
         return True  # hermanos
-    ga = a["grandparents"]
-    gb = b["grandparents"]
-    return bool(ga.intersection(gb))  # primos
+
+    # Abuelos
+    ga = a.get("grandparents", set())
+    gb = b.get("grandparents", set())
+    if ga and gb and ga.intersection(gb):
+        return True  # primos
+
+    # Bisabuelos
+    gga = a.get("greatgrandparents", set())
+    ggb = b.get("greatgrandparents", set())
+    if gga and ggb and gga.intersection(ggb):
+        return True  # primos en segundo grado
+
+    return False
 
 def hopcroft_karp(adj: List[List[int]], n_left: int, n_right: int) -> Tuple[dict, List[int]]:
     """Devuelve matching dict L->R y lista de nodos izquierdos no emparejados."""
@@ -82,7 +105,7 @@ def hopcroft_karp(adj: List[List[int]], n_left: int, n_right: int) -> Tuple[dict
     return {u: pairU[u] for u in range(n_left) if pairU[u] != -1}, unmatched
 
 def schedule_pairs(men: List[Person], women: List[Person], params: Params) -> List[Tuple[int, int, bool]]:
-    """Empareja evitando primos; si faltan 2 parejas, los últimos 4 actúan como pivote.
+    """Empareja evitando parentesco hasta bisabuelos; si faltan 2 parejas, los últimos 4 actúan como pivote.
        Devuelve (idx_hombre, idx_mujer, relajado?)."""
     import random as _r
     n = len(men)
@@ -101,7 +124,8 @@ def schedule_pairs(men: List[Person], women: List[Person], params: Params) -> Li
             pairs.append((i, matching[i], False))
 
     # Relajación: “últimos 4” (2 parejas) pueden mezclarse libremente
-    allowed_relaxed = set(range(n - 2, n))  # índices de hombres n-2 y n-1
+    last2 = max(0, n - 2)
+    allowed_relaxed = set(range(last2, n))  # índices de hombres n-2 y n-1 (si hay)
     used_women = set(matching.values())
 
     for i in unmatched:
@@ -126,10 +150,22 @@ def schedule_pairs(men: List[Person], women: List[Person], params: Params) -> Li
     pairs.sort(key=lambda x: x[0])
     return pairs
 
+def build_initial_population(params: Params) -> Tuple[List[Person], List[Person]]:
+    """Generación 0: crea numCouples*2 individuos y la imprime."""
+    men: List[Person] = []
+    women: List[Person] = []
+    nid = 0
+    for _ in range(params.numCouples):
+        # fundadores: sin padres, abuelos, ni bisabuelos
+        women.append(make_person(nid, gen_human(params), 0)); nid += 1
+        men.append(make_person(nid, gen_human(params), 0)); nid += 1
+    print_population(women + men, gen=0)
+    return men, women
+
 def mix_and_make_children(pairs: List[Tuple[int, int, bool]],
                           men: List[Person], women: List[Person],
                           params: Params) -> Tuple[List[Person], List[Person], bool]:
-    """Genera la siguiente generación preservando linaje y LOGS detallados."""
+    """Genera la siguiente generación preservando linaje (hasta bisabuelos) y LOGS detallados."""
     perfect = False
     next_women: List[Person] = []
     next_men: List[Person] = []
@@ -143,13 +179,30 @@ def mix_and_make_children(pairs: List[Tuple[int, int, bool]],
         w = women[wj]
         h1, h2, ev = mix_humans_verbose(w["genes"], m["genes"], params)  # 1º hija, 2º hijo
 
-        # Abuelos: unión de padres y abuelos de ambos
-        wgp = set([p for p in w["parents"] if p is not None]) | set(w["grandparents"])
-        mgp = set([p for p in m["parents"] if p is not None]) | set(m["grandparents"])
-        gp = wgp | mgp
+        # Conjuntos útiles de los padres
+        w_parents = set([p for p in w["parents"] if p is not None])
+        m_parents = set([p for p in m["parents"] if p is not None])
 
-        child_w = {"id": next_id, "genes": h1, "parents": (w["id"], m["id"]), "grandparents": set(gp)}; next_id += 1
-        child_m = {"id": next_id, "genes": h2, "parents": (w["id"], m["id"]), "grandparents": set(gp)}; next_id += 1
+        w_grand = set(w.get("grandparents", set()))
+        m_grand = set(m.get("grandparents", set()))
+
+        # Linaje para los hijos:
+        #  - Abuelos del hijo = padres de sus padres (gen-2)
+        #  - Bisabuelos del hijo = abuelos de sus padres (gen-3)
+        child_gp  = w_parents | m_parents
+        child_ggp = w_grand  | m_grand
+
+        # Generación del hijo: siguiente respecto a sus padres
+        child_gen = max(w["gen"], m["gen"]) + 1
+
+        # ¿Los padres son parientes? (informativo, útil con RELAX)
+        parents_related = are_related(m, w)
+
+        # Hijos
+        child_w = make_person(next_id, h1, child_gen, parents=(w["id"], m["id"]), gp=child_gp, ggp=child_ggp, relaxed=rel); next_id += 1
+        child_m = make_person(next_id, h2, child_gen, parents=(w["id"], m["id"]), gp=child_gp, ggp=child_ggp, relaxed=rel); next_id += 1
+        child_w["parents_related"] = parents_related
+        child_m["parents_related"] = parents_related
 
         # Conteos de mutaciones por hijo
         mut_idx_1 = [e["attr"] for e in ev if e["mut_child1"]]
@@ -165,20 +218,38 @@ def mix_and_make_children(pairs: List[Tuple[int, int, bool]],
         next_women.append(child_w)
         next_men.append(child_m)
 
+    # Imprime la población de la nueva generación
+    if next_women and next_men:
+        print_population(next_women + next_men, gen=next_women[0]["gen"])
     print(f"  Mutaciones totales: hija(s)={total_mut_c1}, hijo(s)={total_mut_c2}")
+
     return next_men, next_women, perfect
 
 def get_generation(params: Params) -> int:
     generation = 0
     men, women = build_initial_population(params)
 
-    perfect = any(check_perfect(p["genes"], params) for p in men + women)
+    # Bucle de generaciones
+    while True:
+        # ¿Ya hay perfecto en la población actual?
+        perfects = [p for p in men + women if check_perfect(p["genes"], params)]
+        if perfects:
+            indiv = perfects[0]
+            print("\n>>> ¡Perfecto encontrado! Detalles del individuo:")
+            print_population([indiv], gen=indiv["gen"])
 
-    while not perfect:
+            # Certificado de parentesco
+            rflag = "RELAX" if indiv.get("relaxed") else "NORMAL"
+            pr = indiv.get("parents_related", False)
+            texto_rel = "NO parientes (válido)" if (rflag == "NORMAL" and not pr) else ("PODRÍA ser pariente" if pr or rflag == "RELAX" else "NO parientes")
+            print(f">>> Emparejamiento: {rflag}  |  Verificación parentesco: {texto_rel}")
+
+            print(f">>> Generaciones desde fundadores: {generation}")
+            print(f">>> Generaciones desde su nacimiento: {generation - indiv['gen']} (nació en gen {indiv['gen']})")
+            return generation
+
+        # Avanza a la siguiente generación
         print(f"\n== Generación {generation + 1}")
         pairs = schedule_pairs(men, women, params)
-        men, women, perfect = mix_and_make_children(pairs, men, women, params)
+        men, women, _ = mix_and_make_children(pairs, men, women, params)
         generation += 1
-
-    print(f"\n>> ¡Individuo perfecto alcanzado en la generación {generation}!")
-    return generation

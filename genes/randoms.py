@@ -1,23 +1,11 @@
+# genes/randoms.py
 import random
-from math import ceil, floor
 from test.variables import Params
 
 def random_number(params: Params) -> int:
-    """Randomización hacia abajo (gauss -> floor)"""
-    rnum = random.gauss(params.mu, params.sd)
-    rnum = floor(rnum)
-    if rnum > params.MAX_LIM:
-        rnum = params.MAX_LIM
-    if rnum < params.MIN_LIM:
-        rnum = params.MIN_LIM
-    return rnum
+    """Valor uniforme entero dentro de [MIN_LIM, MAX_LIM]."""
+    return random.randint(params.MIN_LIM, params.MAX_LIM)
 
 def random_number_mutation(params: Params) -> int:
-    """Randomización hacia arriba (gauss -> ceil)"""
-    rnum = random.gauss(params.mu, params.sd)
-    rnum = ceil(rnum)
-    if rnum > params.MAX_LIM:
-        rnum = params.MAX_LIM
-    if rnum < params.MIN_LIM:
-        rnum = params.MIN_LIM
-    return rnum
+    """Valor uniforme entero para mutación dentro de [MIN_LIM, MAX_LIM]."""
+    return random.randint(params.MIN_LIM, params.MAX_LIM)

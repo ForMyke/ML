@@ -1,0 +1,1359 @@
+
+===== GENERACIÓN 0 (n=100) =====
+[id=    0] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 8 9 8 8 8 8 8 9 8 8 8 9 8 8 9 8 9 8
+[id=    2] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 8 9 9 9 9 9 9 9 9 9 9 8 8 9 9 9 9 9
+[id=    4] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 9 8 8 8 9 8 8 8 8 8 8 9 9 8 8 8 9 8
+[id=    6] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 8 9 9 8 9 8 8 9 8 8 8 9 9 9 8 8
+[id=    8] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 9 9 9 9 9 9 8 8 8 8 9 8 8 9 8 8
+[id=   10] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 8 9 8 9 8 8 8 8 9 8 9 9 8 8 9 8 8
+[id=   12] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 9 8 9 8 9 8 9 8 8 9 9 8 8 8 9 8 9 9
+[id=   14] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 9 9 8 8 8 9 9 9 8 8 8 8 9 8 8 8 8
+[id=   16] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 9 9 9 9 9 8 8 9 8 9 9 9 8 8 8 8 8
+[id=   18] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 8 9 9 8 9 9 8 8 8 8 8 9 9 9 8 8 9 9
+[id=   20] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 9 8 8 8 9 9 9 8 9 9 9 9 8 9 9 9 9
+[id=   22] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 8 8 9 9 8 9 8 8 9 9 9 8 9 9 8 8 8 8
+[id=   24] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 9 8 8 9 9 9 8 8 9 9 8 9 9 8 9 9
+[id=   26] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 8 8 9 8 9 9 8 9 8 9 9 8 9 8 8 9 9
+[id=   28] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 9 9 8 8 8 9 8 8 8 8 8 9 8 8 9 8 9
+[id=   30] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 8 9 8 8 9 9 9 8 9 9 9 9 9 8 9 8
+[id=   32] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 9 9 8 9 9 9 8 9 8 9 9 8 8 9 8 8 9
+[id=   34] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 8 9 8 8 9 8 8 8 9 9 8 8 9 8 9 9 8
+[id=   36] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 8 9 9 9 9 8 9 8 9 8 9 9 8 9 9 8 8
+[id=   38] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 8 8 8 9 9 8 8 8 8 8 9 8 8 9 9 8 9 8
+[id=   40] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 8 9 9 8 9 8 9 8 8 8 8 8 9 8 8 9 8 9
+[id=   42] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 8 8 8 8 9 8 8 9 8 8 9 9 8 9 9 8 8
+[id=   44] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 8 8 8 8 8 9 9 9 8 8 8 9 9 9 8 8 9 8
+[id=   46] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 8 8 8 9 8 8 8 9 8 9 9 9 8 8 9 8 9 9
+[id=   48] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 8 9 9 9 8 9 9 9 9 9 9 9 8 9 8 8
+[id=   50] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 8 8 8 9 9 8 8 9 9 9 9 9 9 9 8 9 9
+[id=   52] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 8 9 8 9 9 9 9 9 9 8 9 8 8 9 8 8 9 9
+[id=   54] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 9 9 9 8 8 8 9 8 9 9 9 9 8 9 9 8 8 8
+[id=   56] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 8 8 8 9 8 8 9 9 9 9 9 9 9 9 8 8 9 9
+[id=   58] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 8 8 8 9 9 8 8 9 9 9 8 8 8 9 8 9
+[id=   60] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 8 9 9 8 9 8 9 9 8 9 8 8 9 8 9 8 9
+[id=   62] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 8 9 9 9 8 9 9 8 9 9 9 8 9 9 9 8 8
+[id=   64] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 9 8 9 8 8 8 8 9 9 8 9 8 9 9 8 8 8
+[id=   66] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 9 9 8 8 8 9 9 9 8 9 9 9 8 8 9 9
+[id=   68] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 8 9 9 8 9 8 9 8 9 9 8 8 9 8 9 9
+[id=   70] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 8 8 8 9 8 9 9 9 8 8 9 8 9 9 9 8 8 9
+[id=   72] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 8 8 8 9 8 9 9 8 9 9 8 9 9 9 8 9
+[id=   74] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 8 9 9 9 8 8 8 9 9 8 8 9 8 8 9 9
+[id=   76] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 9 9 8 8 8 9 8 8 8 9 8 9 8 9 9 8
+[id=   78] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 9 9 8 8 9 8 9 9 9 9 9 8 8 9 8 8
+[id=   80] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 8 9 9 9 8 8 9 9 9 9 9 8 8 9 9 8 9
+[id=   82] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 9 8 9 9 8 9 8 8 9 9 8 9 8 9 8 8 9 9
+[id=   84] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 8 9 8 8 8 9 8 8 8 9 9 8 8 8 9 9 8
+[id=   86] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 9 8 8 8 9 8 9 8 9 8 8 8 8 9 8 9 8 9
+[id=   88] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 8 9 8 9 9 9 9 9 9 8 9 9 9 9 9 9
+[id=   90] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 8 9 9 9 9 8 8 9 9 8 8 8 9 9 8 8 9 9
+[id=   92] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 8 8 8 8 9 9 8 8 8 9 8 8 9 8 8 9 9
+[id=   94] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 9 9 8 9 8 9 8 8 8 9 8 8 9 9 9 8 8 8
+[id=   96] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 8 8 8 8 9 8 9 8 8 9 8 8 8 9 9 8 8
+[id=   98] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 9 8 9 9 9 8 9 9 9 9 8 9 9 8 9 8
+[id=    1] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 8 9 8 9 9 9 8 8 9 9 8 9 8 8 8 8 8 9
+[id=    3] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 8 8 9 9 9 9 8 9 9 9 9 8 8 8 8 8 9 8
+[id=    5] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 8 9 9 9 9 8 8 9 9 8 8 9 8 8 8 9 8
+[id=    7] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 8 9 9 8 8 8 9 9 8 8 9 8 9 9 9 9
+[id=    9] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 9 9 8 8 9 9 8 8 8 9 8 9 9 8 8 9 8 8
+[id=   11] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 8 9 8 9 9 9 9 8 9 8 8 8 9 8 8 9
+[id=   13] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 8 9 8 9 9 9 9 9 9 9 9 8 9 8 8 8 8
+[id=   15] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 8 8 9 9 8 8 9 8 9 8 8 8 8 9 8 8 9 9
+[id=   17] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 9 8 9 9 8 9 8 8 8 8 9 8 9 9 8 9 8 9
+[id=   19] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 8 8 9 8 8 9 8 8 8 8 9 8 8 9 9 9 8
+[id=   21] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 8 9 9 8 9 8 9 9 9 9 9 9 8 8 8 8 8
+[id=   23] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 9 9 9 8 9 8 9 9 9 8 8 9 8 8 8 9 9
+[id=   25] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 9 8 8 8 9 9 9 9 8 8 9 9 8 8 9 8 8 9
+[id=   27] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 8 9 8 8 8 9 9 9 8 8 9 9 9 8 9 9 8 9
+[id=   29] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 9 9 8 9 8 9 8 8 8 9 9 9 9 8 8 9
+[id=   31] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 8 9 9 8 9 8 9 8 8 9 9 8 8 9 9 8 8
+[id=   33] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 8 8 8 8 8 8 9 9 8 9 8 9 9 8 9 8 9
+[id=   35] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 9 8 8 8 8 9 9 9 8 8 9 8 9 8 8 8 8
+[id=   37] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 8 9 9 8 9 9 9 8 8 8 9 9 8 8 8 9
+[id=   39] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 8 8 8 9 8 8 9 9 9 8 9 8 8 8 9 9 8
+[id=   41] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 8 8 8 9 9 8 8 8 8 8 8 9 9 9 8 8 8
+[id=   43] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 8 9 9 9 8 9 8 9 9 9 9 8 8 9 9 9 9 9
+[id=   45] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 8 8 9 8 9 9 8 9 9 8 9 8 9 9 9 8 9 9
+[id=   47] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 8 8 8 9 8 8 9 9 9 9 9 9 9 8 9 9
+[id=   49] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 8 8 8 9 9 9 8 8 8 9 8 9 9 8 9 8 9
+[id=   51] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 9 8 9 8 9 8 9 9 8 8 9 8 8 9 8 9 8
+[id=   53] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 8 9 9 9 8 8 9 9 9 8 8 9 8 9 9 8 8
+[id=   55] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 8 9 9 8 8 9 8 8 9 9 8 9 8 8 8 9 9
+[id=   57] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 9 8 9 8 9 8 8 9 9 8 8 8 8 9 9 8
+[id=   59] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 9 8 9 8 8 9 8 8 9 8 8 8 8 9 9 9 8 9
+[id=   61] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 9 9 9 8 8 9 8 9 8 9 9 8 9 8 9 9
+[id=   63] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 9 8 8 8 9 8 8 9 8 8 8 9 8 8 8 9 8
+[id=   65] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 8 8 8 9 9 8 8 8 9 8 9 9 8 8 8 9 9 8
+[id=   67] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 9 9 8 8 8 8 8 9 8 9 9 8 9 8 8 8
+[id=   69] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 9 8 9 9 9 9 9 8 9 8 8 8 9 8 9 8 9
+[id=   71] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 9 8 8 9 8 9 9 8 8 9 9 8 8 9 9 8 9
+[id=   73] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 8 9 9 8 9 9 8 9 8 8 9 8 8 8 8 8 9 8
+[id=   75] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 8 9 8 9 9 8 9 9 8 8 8 8 9 9 9 9 9
+[id=   77] gen=  0  madre=None padre=None  (normal)  atributos: 9 9 9 8 8 8 8 8 8 8 9 8 8 8 9 8 8 8 9 8
+[id=   79] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 9 9 8 9 9 8 9 8 9 9 9 9 8 8 9 9 9
+[id=   81] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 8 8 8 8 9 8 8 8 9 9 8 9 9 9 8 9 8 8
+[id=   83] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 8 8 9 9 9 8 8 8 9 9 8 9 9 8 8 8 8
+[id=   85] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 9 8 8 8 8 9 9 9 9 9 9 9 9 8 8 9 8 8
+[id=   87] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 9 9 8 9 8 8 9 8 9 9 9 9 8 9 8 8 9
+[id=   89] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 9 8 8 8 8 8 9 8 9 8 8 9 9 9 9 8
+[id=   91] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 8 9 9 9 9 8 8 8 9 8 9 9 8 8 8 8 9
+[id=   93] gen=  0  madre=None padre=None  (normal)  atributos: 8 9 9 8 8 8 9 8 8 8 9 9 8 8 9 9 9 8 8 9
+[id=   95] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 9 9 8 9 9 9 9 9 9 9 9 9 9 8 8 8 9 9
+[id=   97] gen=  0  madre=None padre=None  (normal)  atributos: 8 8 8 9 8 9 9 9 8 8 8 8 8 8 8 9 8 9 8 9
+[id=   99] gen=  0  madre=None padre=None  (normal)  atributos: 9 8 8 9 9 8 8 9 9 9 8 9 8 9 8 8 9 9 8 8
+
+== Generación 1
+  Parejas formadas (Hombre x Mujer) [* = relajado/pivote]:
+      H1 x M62  ->  HijM100 / HijH101 | mut(H1)=2 [9, 15]  mut(H2)=3 [1, 6, 10]
+      H3 x M48  ->  HijM102 / HijH103 | mut(H1)=2 [0, 7]  mut(H2)=4 [9, 13, 14, 15]
+      H5 x M90  ->  HijM104 / HijH105 | mut(H1)=2 [2, 14]  mut(H2)=2 [2, 18]
+      H7 x M78  ->  HijM106 / HijH107 | mut(H1)=4 [0, 4, 10, 14]  mut(H2)=3 [0, 13, 15]
+      H9 x M20  ->  HijM108 / HijH109 | mut(H1)=6 [2, 4, 11, 14, 16, 19]  mut(H2)=5 [0, 9, 11, 12, 14]
+      H11 x M40  ->  HijM110 / HijH111 | mut(H1)=2 [1, 15]  mut(H2)=5 [6, 10, 14, 15, 16]
+      H13 x M96  ->  HijM112 / HijH113 | mut(H1)=4 [6, 11, 15, 16]  mut(H2)=3 [3, 4, 9]
+      H15 x M76  ->  HijM114 / HijH115 | mut(H1)=5 [0, 2, 3, 8, 13]  mut(H2)=4 [0, 5, 10, 16]
+      H17 x M22  ->  HijM116 / HijH117 | mut(H1)=2 [13, 18]  mut(H2)=1 [0]
+      H19 x M12  ->  HijM118 / HijH119 | mut(H1)=4 [4, 7, 11, 19]  mut(H2)=7 [2, 5, 7, 9, 17, 18, 19]
+      H21 x M18  ->  HijM120 / HijH121 | mut(H1)=2 [2, 11]  mut(H2)=2 [7, 18]
+      H23 x M2  ->  HijM122 / HijH123 | mut(H1)=3 [6, 7, 16]  mut(H2)=1 [4]
+      H25 x M66  ->  HijM124 / HijH125 | mut(H1)=4 [1, 5, 7, 8]  mut(H2)=4 [6, 10, 12, 14]
+      H27 x M88  ->  HijM126 / HijH127 | mut(H1)=1 [13]  mut(H2)=3 [4, 9, 10]
+      H29 x M94  ->  HijM128 / HijH129 | mut(H1)=5 [3, 10, 11, 15, 19]  mut(H2)=2 [7, 15]
+      H31 x M6  ->  HijM130 / HijH131 | mut(H1)=3 [4, 10, 17]  mut(H2)=2 [2, 4]
+      H33 x M4  ->  HijM132 / HijH133 | mut(H1)=1 [16]  mut(H2)=8 [6, 7, 8, 9, 12, 13, 17, 18]
+      H35 x M50  ->  HijM134 / HijH135 | mut(H1)=3 [4, 7, 13]  mut(H2)=2 [4, 6]
+      H37 x M46  ->  HijM136 / HijH137 | mut(H1)=4 [7, 13, 14, 17]  mut(H2)=4 [7, 11, 15, 18]
+      H39 x M44  ->  HijM138 / HijH139 | mut(H1)=3 [4, 11, 16]  mut(H2)=5 [6, 12, 13, 15, 18]
+      H41 x M38  ->  HijM140 / HijH141 | mut(H1)=3 [10, 16, 17]  mut(H2)=1 [10]
+      H43 x M92  ->  HijM142 / HijH143 | mut(H1)=2 [4, 19]  mut(H2)=3 [12, 14, 15]
+      H45 x M34  ->  HijM144 / HijH145 | mut(H1)=2 [2, 8]  mut(H2)=6 [4, 10, 11, 13, 17, 18]
+      H47 x M26  ->  HijM146 / HijH147 | mut(H1)=2 [4, 10]  mut(H2)=5 [2, 6, 8, 12, 13]
+      H49 x M30  ->  HijM148 / HijH149 | mut(H1)=2 [12, 13]  mut(H2)=4 [2, 3, 16, 18]
+      H51 x M80  ->  HijM150 / HijH151 | mut(H1)=2 [4, 18]  mut(H2)=4 [0, 2, 16, 18]
+      H53 x M24  ->  HijM152 / HijH153 | mut(H1)=1 [4]  mut(H2)=6 [1, 6, 9, 15, 17, 18]
+      H55 x M52  ->  HijM154 / HijH155 | mut(H1)=2 [16, 17]  mut(H2)=2 [4, 8]
+      H57 x M0  ->  HijM156 / HijH157 | mut(H1)=7 [1, 3, 5, 6, 9, 16, 17]  mut(H2)=5 [4, 12, 15, 16, 19]
+      H59 x M84  ->  HijM158 / HijH159 | mut(H1)=4 [3, 4, 8, 18]  mut(H2)=2 [3, 15]
+      H61 x M54  ->  HijM160 / HijH161 | mut(H1)=4 [2, 10, 18, 19]  mut(H2)=3 [4, 11, 16]
+      H63 x M28  ->  HijM162 / HijH163 | mut(H1)=6 [8, 11, 12, 15, 17, 19]  mut(H2)=3 [2, 3, 7]
+      H65 x M74  ->  HijM164 / HijH165 | mut(H1)=6 [1, 2, 3, 16, 17, 19]  mut(H2)=2 [9, 18]
+      H67 x M32  ->  HijM166 / HijH167 | mut(H1)=1 [11]  mut(H2)=5 [5, 7, 11, 12, 18]
+      H69 x M68  ->  HijM168 / HijH169 | mut(H1)=5 [3, 5, 10, 11, 12]  mut(H2)=1 [8]
+      H71 x M16  ->  HijM170 / HijH171 | mut(H1)=2 [8, 13]  mut(H2)=3 [0, 8, 10]
+      H73 x M86  ->  HijM172 / HijH173 | mut(H1)=3 [5, 6, 11]  mut(H2)=3 [6, 11, 12]
+      H75 x M8  ->  HijM174 / HijH175 | mut(H1)=0 []  mut(H2)=4 [7, 9, 13, 15]
+      H77 x M10  ->  HijM176 / HijH177 | mut(H1)=4 [1, 5, 14, 18]  mut(H2)=3 [1, 5, 18]
+      H79 x M60  ->  HijM178 / HijH179 | mut(H1)=4 [3, 7, 9, 17]  mut(H2)=3 [3, 14, 15]
+      H81 x M70  ->  HijM180 / HijH181 | mut(H1)=6 [1, 2, 5, 7, 11, 16]  mut(H2)=3 [4, 10, 12]
+      H83 x M72  ->  HijM182 / HijH183 | mut(H1)=4 [7, 11, 14, 19]  mut(H2)=0 []
+      H85 x M56  ->  HijM184 / HijH185 | mut(H1)=3 [5, 8, 19]  mut(H2)=1 [3]
+      H87 x M58  ->  HijM186 / HijH187 | mut(H1)=3 [10, 17, 18]  mut(H2)=6 [2, 6, 10, 13, 15, 17]
+      H89 x M64  ->  HijM188 / HijH189 | mut(H1)=4 [0, 7, 11, 16]  mut(H2)=4 [3, 6, 11, 15]
+      H91 x M98  ->  HijM190 / HijH191 | mut(H1)=1 [7]  mut(H2)=4 [2, 3, 9, 10]
+      H93 x M42  ->  HijM192 / HijH193 | mut(H1)=3 [2, 8, 12]  mut(H2)=5 [3, 8, 12, 18, 19]
+      H95 x M82  ->  HijM194 / HijH195 | mut(H1)=5 [4, 7, 8, 10, 11]  mut(H2)=2 [8, 15]
+      H97 x M36  ->  HijM196 / HijH197 | mut(H1)=2 [11, 16]  mut(H2)=1 [17]
+      H99 x M14  ->  HijM198 / HijH199 | mut(H1)=4 [3, 5, 9, 10]  mut(H2)=2 [4, 13]
+
+===== GENERACIÓN 1 (n=100) =====
+[id=  100] gen=  1  madre=62 padre=1  (normal)  atributos: 8 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 8 9
+[id=  102] gen=  1  madre=48 padre=3  (normal)  atributos: 9 9 8 9 9 9 9 9 8 9 9 9 9 9 9 9 8 9 9 8
+[id=  104] gen=  1  madre=90 padre=5  (normal)  atributos: 8 9 8 9 9 9 9 9 8 9 9 9 8 8 9 9 8 8 9 9
+[id=  106] gen=  1  madre=78 padre=7  (normal)  atributos: 9 9 9 9 8 9 9 8 9 8 9 9 9 9 9 8 9 9 9 9
+[id=  108] gen=  1  madre=20 padre=9  (normal)  atributos: 9 8 9 9 9 8 9 9 9 9 8 8 9 9 9 8 8 9 9 9
+[id=  110] gen=  1  madre=40 padre=11  (normal)  atributos: 9 9 8 9 9 9 9 9 9 9 9 8 9 8 9 9 9 9 8 9
+[id=  112] gen=  1  madre=96 padre=13  (normal)  atributos: 8 9 9 8 9 8 8 9 9 9 9 8 9 9 8 8 8 9 8 8
+[id=  114] gen=  1  madre=76 padre=15  (normal)  atributos: 9 9 8 9 9 9 8 8 9 9 9 8 8 8 8 9 8 9 9 9
+[id=  116] gen=  1  madre=22 padre=17  (normal)  atributos: 9 9 9 8 9 9 8 9 8 8 9 9 9 9 9 9 8 9 9 9
+[id=  118] gen=  1  madre=12 padre=19  (normal)  atributos: 9 8 9 8 8 9 9 9 9 8 8 8 9 9 8 8 9 9 9 9
+[id=  120] gen=  1  madre=18 padre=21  (normal)  atributos: 8 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9 8 8 9 9
+[id=  122] gen=  1  madre=2 padre=23  (normal)  atributos: 8 9 9 9 9 9 8 8 9 9 9 9 9 8 9 9 8 9 9 9
+[id=  124] gen=  1  madre=66 padre=25  (normal)  atributos: 9 9 9 9 9 9 9 8 8 9 9 9 9 9 9 9 9 8 9 9
+[id=  126] gen=  1  madre=88 padre=27  (normal)  atributos: 9 9 9 9 8 9 8 9 9 9 9 9 9 8 9 9 9 9 9 9
+[id=  128] gen=  1  madre=94 padre=29  (normal)  atributos: 9 9 9 9 9 9 8 9 8 9 8 8 8 9 9 9 9 8 8 9
+[id=  130] gen=  1  madre=6 padre=31  (normal)  atributos: 9 9 9 9 8 9 9 9 9 9 9 9 9 9 8 9 9 9 8 8
+[id=  132] gen=  1  madre=4 padre=33  (normal)  atributos: 9 9 9 8 8 8 9 8 8 9 9 8 9 9 9 9 9 9 9 9
+[id=  134] gen=  1  madre=50 padre=35  (normal)  atributos: 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 8 9 9
+[id=  136] gen=  1  madre=46 padre=37  (normal)  atributos: 8 9 8 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  138] gen=  1  madre=44 padre=39  (normal)  atributos: 9 9 9 8 8 8 9 9 9 9 9 9 8 9 9 9 8 9 9 8
+[id=  140] gen=  1  madre=38 padre=41  (normal)  atributos: 9 9 9 8 8 9 9 9 8 8 8 8 9 8 9 9 8 9 9 8
+[id=  142] gen=  1  madre=92 padre=43  (normal)  atributos: 8 9 9 9 9 9 8 9 9 9 9 9 9 8 8 9 9 9 9 8
+[id=  144] gen=  1  madre=34 padre=45  (normal)  atributos: 9 9 8 8 9 8 9 9 9 9 9 9 9 8 9 9 9 9 9 9
+[id=  146] gen=  1  madre=26 padre=47  (normal)  atributos: 8 9 9 9 8 9 8 9 9 8 9 9 9 9 9 9 9 8 9 9
+[id=  148] gen=  1  madre=30 padre=49  (normal)  atributos: 9 9 9 9 8 9 9 9 9 9 9 8 9 8 9 9 9 9 9 9
+[id=  150] gen=  1  madre=80 padre=51  (normal)  atributos: 8 9 9 9 9 9 9 9 8 9 9 9 9 9 8 8 9 9 8 9
+[id=  152] gen=  1  madre=24 padre=53  (normal)  atributos: 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  154] gen=  1  madre=52 padre=55  (normal)  atributos: 9 8 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9
+[id=  156] gen=  1  madre=0 padre=57  (normal)  atributos: 9 9 8 9 9 8 9 8 9 9 8 9 9 9 8 8 8 9 9 8
+[id=  158] gen=  1  madre=84 padre=59  (normal)  atributos: 9 9 9 9 8 8 8 9 9 8 9 8 9 9 8 9 9 9 9 9
+[id=  160] gen=  1  madre=54 padre=61  (normal)  atributos: 9 9 8 9 9 9 9 8 9 9 8 9 9 9 9 9 9 8 9 8
+[id=  162] gen=  1  madre=28 padre=63  (normal)  atributos: 8 9 9 9 9 8 8 9 9 8 9 8 9 8 9 9 8 8 9 8
+[id=  164] gen=  1  madre=74 padre=65  (normal)  atributos: 9 8 9 9 8 9 9 9 8 8 9 9 9 9 8 9 9 9 9 9
+[id=  166] gen=  1  madre=32 padre=67  (normal)  atributos: 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 8 9 8 8 9
+[id=  168] gen=  1  madre=68 padre=69  (normal)  atributos: 8 8 9 9 8 8 9 9 9 9 9 9 9 9 8 9 9 9 9 9
+[id=  170] gen=  1  madre=16 padre=71  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 8 9 8 9 8 9 9 8 9
+[id=  172] gen=  1  madre=86 padre=73  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 9 8 9 8 8 9 8 9 9 9
+[id=  174] gen=  1  madre=8 padre=75  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 8 8 8 9 9 9 9 9 9
+[id=  176] gen=  1  madre=10 padre=77  (normal)  atributos: 9 9 9 8 9 8 9 8 8 8 9 9 8 9 9 8 8 9 9 8
+[id=  178] gen=  1  madre=60 padre=79  (normal)  atributos: 8 9 9 9 9 9 9 8 8 9 9 9 9 9 9 9 8 9 9 9
+[id=  180] gen=  1  madre=70 padre=81  (normal)  atributos: 9 9 9 8 8 8 9 9 9 9 9 8 9 9 9 9 8 9 8 9
+[id=  182] gen=  1  madre=72 padre=83  (normal)  atributos: 9 9 9 9 8 9 9 8 8 9 9 8 9 9 8 9 9 9 8 9
+[id=  184] gen=  1  madre=56 padre=85  (normal)  atributos: 9 9 9 8 8 8 8 9 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  186] gen=  1  madre=58 padre=87  (normal)  atributos: 9 9 9 9 9 8 9 9 9 9 8 9 9 9 9 8 9 8 9 9
+[id=  188] gen=  1  madre=64 padre=89  (normal)  atributos: 8 8 9 9 9 9 8 8 8 8 9 8 9 9 8 9 9 9 9 8
+[id=  190] gen=  1  madre=98 padre=91  (normal)  atributos: 8 9 9 9 9 9 9 8 9 8 9 9 9 9 9 9 9 8 9 9
+[id=  192] gen=  1  madre=42 padre=93  (normal)  atributos: 9 9 8 8 8 8 9 9 8 8 9 9 9 9 9 9 9 9 8 9
+[id=  194] gen=  1  madre=82 padre=95  (normal)  atributos: 9 8 9 9 9 9 9 8 8 9 8 8 9 9 9 9 8 8 9 9
+[id=  196] gen=  1  madre=36 padre=97  (normal)  atributos: 8 8 8 9 9 9 9 9 8 9 8 8 8 9 9 9 8 9 8 9
+[id=  198] gen=  1  madre=14 padre=99  (normal)  atributos: 9 9 9 8 9 9 8 9 9 9 9 9 8 9 8 9 9 9 8 8
+[id=  101] gen=  1  madre=62 padre=1  (normal)  atributos: 8 9 8 8 8 9 8 8 8 8 8 9 8 9 8 8 8 8 8 8
+[id=  103] gen=  1  madre=48 padre=3  (normal)  atributos: 8 8 8 8 8 9 9 9 8 8 9 9 9 9 9 8 8 8 8 8
+[id=  105] gen=  1  madre=90 padre=5  (normal)  atributos: 8 9 8 8 9 9 9 8 8 8 9 8 8 8 9 8 8 8 9 8
+[id=  107] gen=  1  madre=78 padre=7  (normal)  atributos: 9 8 8 9 8 9 8 8 8 8 9 9 8 8 9 8 8 9 8 8
+[id=  109] gen=  1  madre=20 padre=9  (normal)  atributos: 8 8 9 9 8 8 8 9 8 8 8 8 8 9 8 8 8 9 8 8
+[id=  111] gen=  1  madre=40 padre=11  (normal)  atributos: 8 8 8 9 8 8 9 8 9 8 8 8 8 8 9 9 8 8 8 9
+[id=  113] gen=  1  madre=96 padre=13  (normal)  atributos: 8 8 8 8 8 8 8 9 8 9 8 8 9 8 8 8 8 8 8 8
+[id=  115] gen=  1  madre=76 padre=15  (normal)  atributos: 9 8 8 8 9 9 8 8 8 8 9 8 8 8 8 9 8 8 9 8
+[id=  117] gen=  1  madre=22 padre=17  (normal)  atributos: 8 8 8 8 9 9 8 9 8 8 8 8 9 8 9 9 8 8 8 8
+[id=  119] gen=  1  madre=12 padre=19  (normal)  atributos: 8 8 9 8 8 9 8 8 9 9 8 8 8 8 8 8 9 9 8 9
+[id=  121] gen=  1  madre=18 padre=21  (normal)  atributos: 8 9 8 8 9 8 8 9 8 8 8 8 8 9 9 8 8 8 9 8
+[id=  123] gen=  1  madre=2 padre=23  (normal)  atributos: 8 9 8 9 9 9 8 9 8 9 9 9 8 8 8 8 8 8 9 9
+[id=  125] gen=  1  madre=66 padre=25  (normal)  atributos: 9 8 9 8 8 8 8 8 8 9 9 8 9 9 8 8 8 8 8 9
+[id=  127] gen=  1  madre=88 padre=27  (normal)  atributos: 9 9 8 9 9 8 8 9 9 8 9 8 9 8 9 8 9 9 8 9
+[id=  129] gen=  1  madre=94 padre=29  (normal)  atributos: 9 8 9 9 8 9 8 9 8 8 8 8 8 8 9 9 9 8 8 8
+[id=  131] gen=  1  madre=6 padre=31  (normal)  atributos: 8 8 9 8 8 9 8 8 8 8 8 8 8 8 8 8 9 9 8 8
+[id=  133] gen=  1  madre=4 padre=33  (normal)  atributos: 9 8 9 8 8 8 9 8 9 8 8 8 8 9 9 8 8 9 8 8
+[id=  135] gen=  1  madre=50 padre=35  (normal)  atributos: 8 9 9 8 8 8 8 8 8 8 9 8 8 9 8 9 8 8 8 8
+[id=  137] gen=  1  madre=46 padre=37  (normal)  atributos: 8 8 8 8 8 9 8 9 8 9 8 8 8 8 8 8 8 8 9 9
+[id=  139] gen=  1  madre=44 padre=39  (normal)  atributos: 8 8 8 8 8 8 9 8 8 9 8 8 8 9 8 8 8 8 9 8
+[id=  141] gen=  1  madre=38 padre=41  (normal)  atributos: 9 9 8 8 8 8 9 8 8 8 9 8 8 8 8 9 9 8 8 8
+[id=  143] gen=  1  madre=92 padre=43  (normal)  atributos: 8 9 8 8 8 8 8 9 8 8 8 8 8 8 8 9 8 8 9 9
+[id=  145] gen=  1  madre=34 padre=45  (normal)  atributos: 8 8 8 8 9 8 8 9 8 8 9 8 9 8 8 9 8 8 9 8
+[id=  147] gen=  1  madre=26 padre=47  (normal)  atributos: 8 8 9 8 8 8 8 9 9 8 9 8 9 9 8 9 8 8 9 9
+[id=  149] gen=  1  madre=30 padre=49  (normal)  atributos: 8 8 8 8 8 8 8 8 9 8 8 8 9 8 9 9 8 8 9 8
+[id=  151] gen=  1  madre=80 padre=51  (normal)  atributos: 9 9 8 8 8 9 8 8 8 9 9 8 8 9 8 8 9 8 8 8
+[id=  153] gen=  1  madre=24 padre=53  (normal)  atributos: 8 9 9 8 9 8 8 8 8 9 8 8 8 8 8 8 9 8 9 8
+[id=  155] gen=  1  madre=52 padre=55  (normal)  atributos: 8 8 8 8 9 9 8 8 8 8 8 8 9 8 8 8 8 8 9 9
+[id=  157] gen=  1  madre=0 padre=57  (normal)  atributos: 8 8 8 9 9 8 8 8 8 8 8 8 8 8 8 8 8 8 9 8
+[id=  159] gen=  1  madre=84 padre=59  (normal)  atributos: 8 8 9 9 9 8 8 8 8 8 8 8 8 8 8 9 8 9 8 8
+[id=  161] gen=  1  madre=54 padre=61  (normal)  atributos: 9 8 9 9 8 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8
+[id=  163] gen=  1  madre=28 padre=63  (normal)  atributos: 8 8 9 9 8 8 8 8 8 8 8 8 8 8 9 8 8 8 8 8
+[id=  165] gen=  1  madre=74 padre=65  (normal)  atributos: 9 9 8 8 8 9 9 8 8 9 8 8 9 8 8 8 8 8 9 8
+[id=  167] gen=  1  madre=32 padre=67  (normal)  atributos: 8 8 9 9 9 9 8 8 8 8 8 8 9 9 8 8 9 8 9 8
+[id=  169] gen=  1  madre=68 padre=69  (normal)  atributos: 8 8 8 9 8 9 9 8 8 8 8 8 8 8 8 8 8 8 8 9
+[id=  171] gen=  1  madre=16 padre=71  (normal)  atributos: 9 9 9 9 8 8 9 8 9 8 9 8 9 9 8 8 8 8 8 8
+[id=  173] gen=  1  madre=86 padre=73  (normal)  atributos: 9 8 8 8 8 8 9 8 8 8 8 8 9 8 8 8 8 8 8 8
+[id=  175] gen=  1  madre=8 padre=75  (normal)  atributos: 8 8 8 8 9 8 9 9 8 8 8 8 8 9 8 8 8 9 8 8
+[id=  177] gen=  1  madre=10 padre=77  (normal)  atributos: 9 9 9 8 8 9 8 8 8 8 8 8 8 8 9 8 8 8 8 8
+[id=  179] gen=  1  madre=60 padre=79  (normal)  atributos: 8 8 9 8 9 8 8 9 8 9 8 8 9 8 8 9 8 9 8 9
+[id=  181] gen=  1  madre=70 padre=81  (normal)  atributos: 8 8 8 8 9 8 8 8 8 8 9 8 9 8 9 9 8 8 8 8
+[id=  183] gen=  1  madre=72 padre=83  (normal)  atributos: 8 8 9 8 8 8 8 9 8 8 8 8 9 8 8 9 8 8 8 8
+[id=  185] gen=  1  madre=56 padre=85  (normal)  atributos: 9 8 8 9 8 8 8 8 9 9 9 9 9 9 9 8 8 8 8 8
+[id=  187] gen=  1  madre=58 padre=87  (normal)  atributos: 8 8 9 9 8 8 9 8 8 8 8 9 9 9 8 8 8 8 8 9
+[id=  189] gen=  1  madre=64 padre=89  (normal)  atributos: 8 8 8 9 8 8 8 8 8 8 9 8 8 8 8 9 9 8 8 8
+[id=  191] gen=  1  madre=98 padre=91  (normal)  atributos: 8 8 9 9 9 8 9 9 8 8 9 9 8 9 8 8 8 8 8 8
+[id=  193] gen=  1  madre=42 padre=93  (normal)  atributos: 8 9 9 9 8 8 8 8 9 8 9 8 9 8 9 8 9 8 8 8
+[id=  195] gen=  1  madre=82 padre=95  (normal)  atributos: 8 8 9 8 8 9 8 9 9 8 9 9 8 9 8 9 8 8 9 9
+[id=  197] gen=  1  madre=36 padre=97  (normal)  atributos: 8 8 8 8 8 9 9 9 8 8 8 8 8 8 8 8 8 9 8 8
+[id=  199] gen=  1  madre=14 padre=99  (normal)  atributos: 8 8 8 9 9 8 8 8 9 9 8 8 8 9 8 8 8 8 8 8
+  Mutaciones totales: hija(s)=159, hijo(s)=166
+
+== Generación 2
+  Parejas formadas (Hombre x Mujer) [* = relajado/pivote]:
+      H101 x M172  ->  HijM200 / HijH201 | mut(H1)=6 [0, 5, 9, 12, 15, 16]  mut(H2)=5 [1, 6, 8, 9, 17]
+      H103 x M144  ->  HijM202 / HijH203 | mut(H1)=2 [3, 5]  mut(H2)=5 [2, 11, 13, 17, 19]
+      H105 x M150  ->  HijM204 / HijH205 | mut(H1)=3 [5, 13, 17]  mut(H2)=4 [0, 5, 8, 11]
+      H107 x M170  ->  HijM206 / HijH207 | mut(H1)=5 [1, 3, 6, 15, 18]  mut(H2)=2 [6, 12]
+      H109 x M130  ->  HijM208 / HijH209 | mut(H1)=3 [3, 4, 7]  mut(H2)=2 [2, 9]
+      H111 x M116  ->  HijM210 / HijH211 | mut(H1)=5 [6, 10, 15, 17, 19]  mut(H2)=4 [2, 12, 16, 17]
+      H113 x M160  ->  HijM212 / HijH213 | mut(H1)=3 [1, 4, 18]  mut(H2)=5 [0, 8, 11, 13, 14]
+      H115 x M132  ->  HijM214 / HijH215 | mut(H1)=4 [0, 2, 9, 16]  mut(H2)=2 [3, 15]
+      H117 x M174  ->  HijM216 / HijH217 | mut(H1)=5 [8, 12, 14, 15, 17]  mut(H2)=2 [3, 15]
+      H119 x M140  ->  HijM218 / HijH219 | mut(H1)=3 [2, 4, 10]  mut(H2)=4 [3, 13, 16, 19]
+      H121 x M184  ->  HijM220 / HijH221 | mut(H1)=2 [5, 6]  mut(H2)=3 [3, 14, 18]
+      H123 x M182  ->  HijM222 / HijH223 | mut(H1)=4 [6, 12, 13, 14]  mut(H2)=4 [4, 6, 7, 10]
+      H125 x M100  ->  HijM224 / HijH225 | mut(H1)=4 [1, 3, 7, 12]  mut(H2)=4 [0, 5, 11, 15]
+      H127 x M168  ->  HijM226 / HijH227 | mut(H1)=5 [3, 7, 13, 14, 18]  mut(H2)=3 [0, 2, 9]
+      H129 x M158  ->  HijM228 / HijH229 | mut(H1)=2 [5, 12]  mut(H2)=1 [12]
+      H131 x M146  ->  HijM230 / HijH231 | mut(H1)=5 [0, 7, 10, 15, 19]  mut(H2)=4 [1, 4, 6, 11]
+      H133 x M124  ->  HijM232 / HijH233 | mut(H1)=3 [12, 13, 15]  mut(H2)=4 [0, 6, 10, 14]
+      H135 x M176  ->  HijM234 / HijH235 | mut(H1)=3 [1, 2, 18]  mut(H2)=5 [2, 3, 5, 9, 12]
+      H137 x M154  ->  HijM236 / HijH237 | mut(H1)=7 [1, 2, 6, 7, 9, 10, 15]  mut(H2)=8 [1, 2, 6, 11, 13, 14, 17, 18]
+      H139 x M112  ->  HijM238 / HijH239 | mut(H1)=2 [7, 14]  mut(H2)=2 [3, 16]
+      H141 x M120  ->  HijM240 / HijH241 | mut(H1)=3 [5, 12, 13]  mut(H2)=4 [6, 8, 10, 13]
+      H143 x M152  ->  HijM242 / HijH243 | mut(H1)=7 [4, 5, 7, 8, 12, 13, 14]  mut(H2)=0 []
+      H145 x M108  ->  HijM244 / HijH245 | mut(H1)=4 [5, 8, 10, 18]  mut(H2)=1 [13]
+      H147 x M166  ->  HijM246 / HijH247 | mut(H1)=2 [6, 7]  mut(H2)=3 [6, 11, 18]
+      H149 x M102  ->  HijM248 / HijH249 | mut(H1)=1 [16]  mut(H2)=3 [6, 11, 13]
+      H151 x M142  ->  HijM250 / HijH251 | mut(H1)=3 [0, 7, 11]  mut(H2)=6 [1, 3, 8, 11, 13, 19]
+      H153 x M122  ->  HijM252 / HijH253 | mut(H1)=4 [0, 9, 11, 14]  mut(H2)=0 []
+      H155 x M128  ->  HijM254 / HijH255 | mut(H1)=5 [8, 11, 14, 18, 19]  mut(H2)=3 [7, 12, 13]
+      H157 x M180  ->  HijM256 / HijH257 | mut(H1)=3 [6, 11, 12]  mut(H2)=1 [8]
+      H159 x M196  ->  HijM258 / HijH259 | mut(H1)=1 [8]  mut(H2)=5 [5, 10, 12, 18, 19]
+      H161 x M136  ->  HijM260 / HijH261 | mut(H1)=2 [12, 16]  mut(H2)=2 [12, 16]
+      H163 x M134  ->  HijM262 / HijH263 | mut(H1)=2 [12, 16]  mut(H2)=5 [0, 1, 5, 10, 12]
+      H165 x M114  ->  HijM264 / HijH265 | mut(H1)=2 [12, 19]  mut(H2)=4 [3, 13, 14, 17]
+      H167 x M188  ->  HijM266 / HijH267 | mut(H1)=4 [2, 7, 8, 19]  mut(H2)=1 [19]
+      H169 x M110  ->  HijM268 / HijH269 | mut(H1)=2 [1, 3]  mut(H2)=2 [0, 8]
+      H171 x M164  ->  HijM270 / HijH271 | mut(H1)=3 [10, 11, 13]  mut(H2)=3 [3, 7, 13]
+      H173 x M118  ->  HijM272 / HijH273 | mut(H1)=2 [13, 19]  mut(H2)=3 [11, 12, 18]
+      H175 x M194  ->  HijM274 / HijH275 | mut(H1)=3 [7, 9, 18]  mut(H2)=2 [8, 9]
+      H177 x M104  ->  HijM276 / HijH277 | mut(H1)=2 [10, 19]  mut(H2)=3 [7, 12, 14]
+      H179 x M148  ->  HijM278 / HijH279 | mut(H1)=3 [4, 8, 16]  mut(H2)=3 [7, 18, 19]
+      H181 x M156  ->  HijM280 / HijH281 | mut(H1)=3 [0, 11, 14]  mut(H2)=5 [0, 9, 10, 13, 17]
+      H183 x M186  ->  HijM282 / HijH283 | mut(H1)=3 [0, 9, 12]  mut(H2)=5 [1, 2, 3, 8, 11]
+      H185 x M126  ->  HijM284 / HijH285 | mut(H1)=5 [4, 11, 13, 14, 19]  mut(H2)=4 [7, 12, 14, 16]
+      H187 x M192  ->  HijM286 / HijH287 | mut(H1)=4 [11, 14, 17, 18]  mut(H2)=3 [7, 14, 17]
+      H189 x M138  ->  HijM288 / HijH289 | mut(H1)=1 [0]  mut(H2)=1 [12]
+      H191 x M106  ->  HijM290 / HijH291 | mut(H1)=4 [4, 5, 10, 13]  mut(H2)=4 [0, 1, 3, 7]
+      H193 x M162  ->  HijM292 / HijH293 | mut(H1)=3 [1, 2, 13]  mut(H2)=3 [1, 3, 6]
+      H195 x M198  ->  HijM294 / HijH295 | mut(H1)=2 [9, 11]  mut(H2)=3 [4, 5, 18]
+      H197 x M178  ->  HijM296 / HijH297 | mut(H1)=2 [11, 16]  mut(H2)=3 [7, 13, 17]
+      H199 x M190  ->  HijM298 / HijH299 | mut(H1)=3 [1, 3, 16]  mut(H2)=1 [13]
+
+===== GENERACIÓN 2 (n=100) =====
+[id=  200] gen=  2  madre=172 padre=101  (normal)  atributos: 8 9 9 9 9 8 8 9 9 8 9 9 9 9 8 8 9 9 9 9
+[id=  202] gen=  2  madre=144 padre=103  (normal)  atributos: 9 9 8 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  204] gen=  2  madre=150 padre=105  (normal)  atributos: 8 9 9 9 9 9 9 9 8 9 9 9 9 9 9 8 9 9 9 9
+[id=  206] gen=  2  madre=170 padre=107  (normal)  atributos: 9 8 9 9 9 9 8 9 9 9 9 9 9 8 9 9 9 9 8 9
+[id=  208] gen=  2  madre=130 padre=109  (normal)  atributos: 9 9 9 8 8 9 9 8 9 9 9 9 9 9 8 9 9 9 8 8
+[id=  210] gen=  2  madre=116 padre=111  (normal)  atributos: 9 9 9 9 9 9 8 9 9 8 9 9 9 9 9 9 8 8 9 9
+[id=  212] gen=  2  madre=160 padre=113  (normal)  atributos: 9 8 8 9 8 9 9 9 9 9 8 9 9 9 9 9 9 8 8 8
+[id=  214] gen=  2  madre=132 padre=115  (normal)  atributos: 9 9 9 8 9 9 9 8 8 9 9 8 9 9 9 9 8 9 9 9
+[id=  216] gen=  2  madre=174 padre=117  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 8 8 8 8 9 9 8 9 9
+[id=  218] gen=  2  madre=140 padre=119  (normal)  atributos: 9 9 9 8 9 9 9 9 9 9 8 8 9 8 9 9 9 9 9 9
+[id=  220] gen=  2  madre=184 padre=121  (normal)  atributos: 9 9 9 8 9 9 8 9 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  222] gen=  2  madre=182 padre=123  (normal)  atributos: 9 9 9 9 9 9 8 9 8 9 9 9 8 9 8 9 9 9 9 9
+[id=  224] gen=  2  madre=100 padre=125  (normal)  atributos: 9 8 9 8 9 9 9 9 9 9 9 9 9 9 8 9 9 9 8 9
+[id=  226] gen=  2  madre=168 padre=127  (normal)  atributos: 9 9 9 8 9 8 9 8 9 9 9 9 9 8 9 9 9 9 9 9
+[id=  228] gen=  2  madre=158 padre=129  (normal)  atributos: 9 9 9 9 8 9 8 9 9 8 9 8 9 9 9 9 9 9 9 9
+[id=  230] gen=  2  madre=146 padre=131  (normal)  atributos: 9 9 9 9 8 9 8 9 9 8 8 9 9 9 9 8 9 9 9 9
+[id=  232] gen=  2  madre=124 padre=133  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 9 9 8 9 8 9 9 9 9
+[id=  234] gen=  2  madre=176 padre=135  (normal)  atributos: 9 9 9 8 9 8 9 8 8 8 9 9 8 9 9 9 8 9 9 8
+[id=  236] gen=  2  madre=154 padre=137  (normal)  atributos: 9 8 9 9 9 9 9 8 9 9 9 9 9 8 9 9 9 9 9 9
+[id=  238] gen=  2  madre=112 padre=139  (normal)  atributos: 8 9 9 8 9 8 9 8 9 9 9 8 9 9 9 8 8 9 9 8
+[id=  240] gen=  2  madre=120 padre=141  (normal)  atributos: 9 9 9 9 9 9 9 9 8 9 9 9 8 9 9 9 9 8 9 9
+[id=  242] gen=  2  madre=152 padre=143  (normal)  atributos: 9 9 9 9 9 9 9 8 8 9 9 9 9 8 8 9 9 9 9 9
+[id=  244] gen=  2  madre=108 padre=145  (normal)  atributos: 9 8 9 9 9 9 9 9 9 9 8 8 9 9 9 9 8 9 9 9
+[id=  246] gen=  2  madre=166 padre=147  (normal)  atributos: 9 9 9 9 9 9 9 8 9 8 9 9 9 9 9 9 9 8 9 9
+[id=  248] gen=  2  madre=102 padre=149  (normal)  atributos: 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8
+[id=  250] gen=  2  madre=142 padre=151  (normal)  atributos: 8 9 9 9 9 9 8 9 9 9 9 8 9 9 8 9 9 9 9 8
+[id=  252] gen=  2  madre=122 padre=153  (normal)  atributos: 9 9 9 9 9 9 8 8 9 8 9 8 9 8 9 9 9 9 9 9
+[id=  254] gen=  2  madre=128 padre=155  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 8 9 9 9 8 9 9 8 8 8
+[id=  256] gen=  2  madre=180 padre=157  (normal)  atributos: 9 9 9 9 9 8 9 9 9 9 9 8 9 9 9 9 8 9 9 9
+[id=  258] gen=  2  madre=196 padre=159  (normal)  atributos: 8 8 9 9 9 9 9 9 8 9 8 8 8 9 9 9 8 9 8 9
+[id=  260] gen=  2  madre=136 padre=161  (normal)  atributos: 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  262] gen=  2  madre=134 padre=163  (normal)  atributos: 9 9 9 9 9 8 9 9 9 9 9 9 8 9 9 9 8 8 9 9
+[id=  264] gen=  2  madre=114 padre=165  (normal)  atributos: 9 9 8 9 9 9 9 8 9 9 9 8 8 8 8 9 8 9 9 8
+[id=  266] gen=  2  madre=188 padre=167  (normal)  atributos: 8 8 9 9 9 9 8 9 9 8 9 8 9 9 8 9 9 9 9 9
+[id=  268] gen=  2  madre=110 padre=169  (normal)  atributos: 9 9 8 9 9 9 9 9 9 9 9 8 9 8 9 9 9 9 8 9
+[id=  270] gen=  2  madre=164 padre=171  (normal)  atributos: 9 9 9 9 8 9 9 9 9 8 8 8 9 8 8 9 9 9 9 9
+[id=  272] gen=  2  madre=118 padre=173  (normal)  atributos: 9 8 9 8 8 9 9 9 9 8 8 8 9 8 8 8 9 9 9 9
+[id=  274] gen=  2  madre=194 padre=175  (normal)  atributos: 9 8 9 9 9 9 9 8 8 8 8 8 9 9 9 9 8 9 8 9
+[id=  276] gen=  2  madre=104 padre=177  (normal)  atributos: 9 9 9 9 9 9 9 9 8 9 9 9 8 8 9 9 8 8 9 9
+[id=  278] gen=  2  madre=148 padre=179  (normal)  atributos: 9 9 9 9 9 9 9 9 8 9 9 8 9 8 9 9 8 9 9 9
+[id=  280] gen=  2  madre=156 padre=181  (normal)  atributos: 8 9 8 9 9 8 9 8 9 9 9 9 9 9 8 9 8 9 9 8
+[id=  282] gen=  2  madre=186 padre=183  (normal)  atributos: 9 9 9 9 9 8 9 9 9 9 8 9 9 9 9 9 9 8 9 9
+[id=  284] gen=  2  madre=126 padre=185  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 9 8 9 9 9 9 9 9 9 8
+[id=  286] gen=  2  madre=192 padre=187  (normal)  atributos: 9 9 9 9 8 8 9 9 8 8 9 8 9 9 8 9 9 9 9 9
+[id=  288] gen=  2  madre=138 padre=189  (normal)  atributos: 8 9 9 9 8 8 9 9 9 9 9 9 8 9 9 9 9 9 9 8
+[id=  290] gen=  2  madre=106 padre=191  (normal)  atributos: 9 9 9 9 9 9 9 9 9 8 9 9 9 8 9 8 9 9 9 9
+[id=  292] gen=  2  madre=162 padre=193  (normal)  atributos: 8 8 9 9 9 8 8 9 9 8 9 8 9 9 9 9 9 8 9 8
+[id=  294] gen=  2  madre=198 padre=195  (normal)  atributos: 9 9 9 8 9 9 8 9 9 9 9 9 8 9 8 9 9 9 9 9
+[id=  296] gen=  2  madre=178 padre=197  (normal)  atributos: 8 9 9 9 9 9 9 9 8 9 9 8 9 9 9 9 9 9 9 9
+[id=  298] gen=  2  madre=190 padre=199  (normal)  atributos: 8 9 9 8 9 9 9 8 9 9 9 9 9 9 9 9 8 8 9 9
+[id=  201] gen=  2  madre=172 padre=101  (normal)  atributos: 8 8 8 8 8 9 9 8 8 8 8 8 8 8 8 8 8 9 8 8
+[id=  203] gen=  2  madre=144 padre=103  (normal)  atributos: 8 8 9 8 8 8 9 9 8 8 9 8 9 9 9 8 8 8 8 9
+[id=  205] gen=  2  madre=150 padre=105  (normal)  atributos: 9 9 8 8 9 8 9 8 8 8 9 8 8 8 8 8 8 8 8 8
+[id=  207] gen=  2  madre=170 padre=107  (normal)  atributos: 9 8 8 9 8 9 9 8 8 8 9 8 9 8 9 8 8 9 8 8
+[id=  209] gen=  2  madre=130 padre=109  (normal)  atributos: 8 8 9 9 8 8 8 9 8 8 8 8 8 9 8 8 8 9 8 8
+[id=  211] gen=  2  madre=116 padre=111  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 8 8 8 8 9 9 8 9 8 9
+[id=  213] gen=  2  madre=160 padre=113  (normal)  atributos: 8 8 8 8 8 8 8 8 9 9 8 8 9 9 9 8 8 8 8 8
+[id=  215] gen=  2  madre=132 padre=115  (normal)  atributos: 9 8 8 9 8 8 8 8 8 8 9 8 8 8 8 8 8 8 9 8
+[id=  217] gen=  2  madre=174 padre=117  (normal)  atributos: 8 8 8 8 9 9 8 9 8 8 8 8 8 8 9 8 8 8 8 8
+[id=  219] gen=  2  madre=140 padre=119  (normal)  atributos: 8 8 9 9 8 9 8 8 8 8 8 8 8 8 8 8 9 9 8 8
+[id=  221] gen=  2  madre=184 padre=121  (normal)  atributos: 8 9 8 8 8 8 8 9 8 8 8 8 8 9 8 8 8 8 8 8
+[id=  223] gen=  2  madre=182 padre=123  (normal)  atributos: 8 9 8 9 8 9 8 9 8 9 8 8 8 8 8 8 8 8 8 9
+[id=  225] gen=  2  madre=100 padre=125  (normal)  atributos: 8 8 9 8 8 8 8 8 8 9 9 8 9 9 8 9 8 8 8 9
+[id=  227] gen=  2  madre=168 padre=127  (normal)  atributos: 9 8 9 9 8 8 8 9 9 8 9 8 9 8 8 8 9 9 8 9
+[id=  229] gen=  2  madre=158 padre=129  (normal)  atributos: 9 8 9 9 8 8 8 9 8 8 8 8 8 8 8 9 9 8 8 8
+[id=  231] gen=  2  madre=146 padre=131  (normal)  atributos: 8 9 9 8 8 9 9 8 8 8 8 8 8 8 8 8 9 8 8 8
+[id=  233] gen=  2  madre=124 padre=133  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 8 8 8 9 9 8 8 8 8 8
+[id=  235] gen=  2  madre=176 padre=135  (normal)  atributos: 8 9 9 8 8 9 8 8 8 8 9 8 8 9 8 8 8 8 8 8
+[id=  237] gen=  2  madre=154 padre=137  (normal)  atributos: 8 9 9 8 8 9 8 9 8 9 8 8 8 8 8 8 8 8 9 9
+[id=  239] gen=  2  madre=112 padre=139  (normal)  atributos: 8 8 8 9 8 8 8 8 8 9 8 8 8 9 8 8 9 8 8 8
+[id=  241] gen=  2  madre=120 padre=141  (normal)  atributos: 8 9 8 8 8 8 8 8 8 8 9 8 8 9 8 9 8 8 8 8
+[id=  243] gen=  2  madre=152 padre=143  (normal)  atributos: 8 9 8 8 8 8 8 9 8 8 8 8 8 8 8 9 8 8 9 9
+[id=  245] gen=  2  madre=108 padre=145  (normal)  atributos: 8 8 8 8 9 8 8 9 8 8 8 8 9 8 8 8 8 8 9 8
+[id=  247] gen=  2  madre=166 padre=147  (normal)  atributos: 8 8 9 8 8 8 8 9 9 8 9 8 9 9 8 8 8 8 9 9
+[id=  249] gen=  2  madre=102 padre=149  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 8 9 9 8 9 9 8 8 9 8
+[id=  251] gen=  2  madre=142 padre=151  (normal)  atributos: 8 9 8 9 8 9 8 8 9 9 9 9 8 9 8 8 9 8 8 8
+[id=  253] gen=  2  madre=122 padre=153  (normal)  atributos: 8 9 9 8 9 8 8 8 8 9 8 8 8 8 8 8 8 8 9 8
+[id=  255] gen=  2  madre=128 padre=155  (normal)  atributos: 8 8 8 8 9 9 8 8 8 8 8 8 8 9 8 8 8 8 8 9
+[id=  257] gen=  2  madre=180 padre=157  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  259] gen=  2  madre=196 padre=159  (normal)  atributos: 8 8 8 9 9 9 8 8 8 8 8 8 9 8 8 9 8 9 8 9
+[id=  261] gen=  2  madre=136 padre=161  (normal)  atributos: 8 8 8 9 8 8 8 8 8 8 8 8 9 9 8 8 8 8 8 8
+[id=  263] gen=  2  madre=134 padre=163  (normal)  atributos: 8 9 9 9 8 8 8 8 8 8 8 8 9 8 9 8 8 8 8 8
+[id=  265] gen=  2  madre=114 padre=165  (normal)  atributos: 9 9 8 9 8 9 8 8 8 9 8 8 8 9 8 8 8 9 9 8
+[id=  267] gen=  2  madre=188 padre=167  (normal)  atributos: 8 8 9 9 9 9 8 8 8 8 8 8 9 9 8 8 9 8 9 8
+[id=  269] gen=  2  madre=110 padre=169  (normal)  atributos: 8 8 8 9 8 9 9 8 9 8 8 8 8 8 8 8 8 8 8 9
+[id=  271] gen=  2  madre=164 padre=171  (normal)  atributos: 9 8 9 9 8 8 9 9 8 8 9 8 9 9 8 8 8 8 8 8
+[id=  273] gen=  2  madre=118 padre=173  (normal)  atributos: 9 8 8 8 8 8 9 8 8 8 8 9 9 8 8 8 8 8 9 8
+[id=  275] gen=  2  madre=194 padre=175  (normal)  atributos: 8 8 8 8 9 8 9 8 9 9 8 8 8 9 8 8 8 8 8 8
+[id=  277] gen=  2  madre=104 padre=177  (normal)  atributos: 8 9 8 8 8 9 8 8 8 8 8 8 9 8 9 8 8 8 8 8
+[id=  279] gen=  2  madre=148 padre=179  (normal)  atributos: 8 8 9 8 8 8 8 8 8 9 8 8 9 8 8 9 8 9 9 8
+[id=  281] gen=  2  madre=156 padre=181  (normal)  atributos: 9 8 8 8 9 8 8 8 8 8 9 8 9 8 8 8 8 9 8 8
+[id=  283] gen=  2  madre=186 padre=183  (normal)  atributos: 8 9 8 9 8 8 8 9 9 8 8 8 9 8 8 8 8 8 8 8
+[id=  285] gen=  2  madre=126 padre=185  (normal)  atributos: 9 8 8 9 8 8 8 8 9 9 9 9 9 8 8 8 9 8 8 8
+[id=  287] gen=  2  madre=192 padre=187  (normal)  atributos: 8 8 8 8 8 8 9 8 8 8 8 9 9 9 8 8 8 8 8 9
+[id=  289] gen=  2  madre=138 padre=189  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 9 8 9 8 8 9 8 8 8 8
+[id=  291] gen=  2  madre=106 padre=191  (normal)  atributos: 8 8 9 8 8 8 9 8 8 8 9 9 8 9 8 8 8 8 8 8
+[id=  293] gen=  2  madre=162 padre=193  (normal)  atributos: 8 9 9 9 8 8 8 8 9 8 9 8 9 8 9 8 8 8 8 8
+[id=  295] gen=  2  madre=198 padre=195  (normal)  atributos: 8 8 9 8 9 8 8 9 9 8 9 9 8 9 8 9 8 8 8 8
+[id=  297] gen=  2  madre=178 padre=197  (normal)  atributos: 8 8 8 8 8 9 9 9 8 8 8 8 8 9 8 8 8 9 8 8
+[id=  299] gen=  2  madre=190 padre=199  (normal)  atributos: 8 8 8 9 9 8 8 8 9 8 8 8 8 8 8 8 8 8 8 8
+  Mutaciones totales: hija(s)=164, hijo(s)=159
+
+== Generación 3
+  Parejas formadas (Hombre x Mujer) [* = relajado/pivote]:
+      H201 x M252  ->  HijM300 / HijH301 | mut(H1)=1 [5]  mut(H2)=3 [8, 11, 16]
+      H203 x M288  ->  HijM302 / HijH303 | mut(H1)=3 [9, 13, 14]  mut(H2)=5 [1, 9, 10, 12, 14]
+      H205 x M218  ->  HijM304 / HijH305 | mut(H1)=4 [0, 7, 13, 14]  mut(H2)=4 [1, 12, 13, 15]
+      H207 x M298  ->  HijM306 / HijH307 | mut(H1)=3 [13, 14, 19]  mut(H2)=3 [2, 12, 13]
+      H209 x M268  ->  HijM308 / HijH309 | mut(H1)=2 [2, 17]  mut(H2)=3 [6, 7, 14]
+      H211 x M284  ->  HijM310 / HijH311 | mut(H1)=4 [4, 11, 17, 19]  mut(H2)=3 [10, 12, 18]
+      H213 x M242  ->  HijM312 / HijH313 | mut(H1)=4 [3, 13, 14, 18]  mut(H2)=5 [1, 7, 13, 15, 17]
+      H215 x M210  ->  HijM314 / HijH315 | mut(H1)=3 [1, 2, 13]  mut(H2)=3 [2, 5, 16]
+      H217 x M282  ->  HijM316 / HijH317 | mut(H1)=3 [2, 15, 19]  mut(H2)=4 [0, 1, 4, 11]
+      H219 x M228  ->  HijM318 / HijH319 | mut(H1)=3 [2, 4, 11]  mut(H2)=6 [2, 5, 6, 16, 17, 19]
+      H221 x M296  ->  HijM320 / HijH321 | mut(H1)=2 [11, 18]  mut(H2)=3 [2, 16, 18]
+      H223 x M248  ->  HijM322 / HijH323 | mut(H1)=2 [15, 17]  mut(H2)=6 [4, 6, 7, 10, 18, 19]
+      H225 x M294  ->  HijM324 / HijH325 | mut(H1)=3 [3, 5, 8]  mut(H2)=3 [1, 3, 5]
+      H227 x M204  ->  HijM326 / HijH327 | mut(H1)=3 [9, 10, 15]  mut(H2)=6 [5, 7, 9, 14, 16, 17]
+      H229 x M208  ->  HijM328 / HijH329 | mut(H1)=3 [1, 15, 17]  mut(H2)=2 [0, 13]
+      H231 x M286  ->  HijM330 / HijH331 | mut(H1)=3 [10, 11, 18]  mut(H2)=1 [0]
+      H233 x M264  ->  HijM332 / HijH333 | mut(H1)=3 [13, 14, 15]  mut(H2)=3 [0, 2, 4]
+      H235 x M214  ->  HijM334 / HijH335 | mut(H1)=4 [6, 7, 17, 19]  mut(H2)=5 [6, 8, 9, 13, 15]
+      H237 x M256  ->  HijM336 / HijH337 | mut(H1)=6 [0, 2, 3, 7, 16, 19]  mut(H2)=4 [6, 8, 11, 12]
+      H239 x M250  ->  HijM338 / HijH339 | mut(H1)=3 [3, 14, 17]  mut(H2)=2 [2, 9]
+      H241 x M236  ->  HijM340 / HijH341 | mut(H1)=1 [0]  mut(H2)=4 [5, 8, 11, 13]
+      H243 x M270  ->  HijM342 / HijH343 | mut(H1)=4 [3, 5, 18, 19]  mut(H2)=2 [5, 18]
+      H245 x M254  ->  HijM344 / HijH345 | mut(H1)=4 [1, 12, 18, 19]  mut(H2)=3 [2, 11, 14]
+      H247 x M232  ->  HijM346 / HijH347 | mut(H1)=5 [1, 12, 14, 15, 17]  mut(H2)=2 [5, 11]
+      H249 x M292  ->  HijM348 / HijH349 | mut(H1)=3 [1, 13, 17]  mut(H2)=3 [5, 7, 11]
+      H251 x M206  ->  HijM350 / HijH351 | mut(H1)=2 [8, 18]  mut(H2)=4 [5, 6, 14, 16]
+      H253 x M280  ->  HijM352 / HijH353 | mut(H1)=7 [0, 1, 4, 11, 17, 18, 19]  mut(H2)=5 [2, 6, 13, 14, 16]
+      H255 x M200  ->  HijM354 / HijH355 | mut(H1)=7 [2, 5, 8, 11, 12, 15, 17]  mut(H2)=3 [2, 5, 11]
+      H257 x M262  ->  HijM356 / HijH357 | mut(H1)=4 [3, 4, 10, 14]  mut(H2)=5 [1, 2, 11, 12, 16]
+      H259 x M266  ->  HijM358 / HijH359 | mut(H1)=0 []  mut(H2)=0 []
+      H261 x M216  ->  HijM360 / HijH361 | mut(H1)=5 [4, 9, 11, 15, 19]  mut(H2)=6 [1, 3, 4, 7, 13, 18]
+      H263 x M230  ->  HijM362 / HijH363 | mut(H1)=3 [14, 15, 18]  mut(H2)=4 [1, 9, 10, 14]
+      H265 x M240  ->  HijM364 / HijH365 | mut(H1)=5 [1, 6, 10, 15, 16]  mut(H2)=8 [0, 1, 3, 4, 10, 12, 14, 17]
+      H267 x M274  ->  HijM366 / HijH367 | mut(H1)=3 [0, 3, 17]  mut(H2)=3 [10, 14, 16]
+      H269 x M272  ->  HijM368 / HijH369 | mut(H1)=4 [1, 2, 13, 19]  mut(H2)=4 [4, 9, 11, 19]
+      H271 x M202  ->  HijM370 / HijH371 | mut(H1)=3 [4, 5, 10]  mut(H2)=4 [0, 16, 17, 19]
+      H273 x M290  ->  HijM372 / HijH373 | mut(H1)=6 [0, 6, 7, 14, 17, 18]  mut(H2)=4 [0, 4, 6, 16]
+      H275 x M222  ->  HijM374 / HijH375 | mut(H1)=3 [4, 10, 17]  mut(H2)=3 [1, 9, 14]
+      H277 x M212  ->  HijM376 / HijH377 | mut(H1)=1 [9]  mut(H2)=6 [0, 2, 4, 8, 9, 11]
+      H279 x M260  ->  HijM378 / HijH379 | mut(H1)=4 [9, 12, 14, 15]  mut(H2)=3 [0, 11, 19]
+      H281 x M246  ->  HijM380 / HijH381 | mut(H1)=3 [9, 11, 12]  mut(H2)=4 [3, 5, 8, 9]
+      H283 x M224  ->  HijM382 / HijH383 | mut(H1)=2 [3, 6]  mut(H2)=2 [14, 19]
+      H285 x M276  ->  HijM384 / HijH385 | mut(H1)=4 [0, 5, 7, 14]  mut(H2)=3 [0, 8, 13]
+      H287 x M278  ->  HijM386 / HijH387 | mut(H1)=4 [7, 11, 12, 13]  mut(H2)=3 [16, 17, 18]
+      H289 x M220  ->  HijM388 / HijH389 | mut(H1)=2 [18, 19]  mut(H2)=4 [4, 9, 13, 17]
+      H291 x M226  ->  HijM390 / HijH391 | mut(H1)=2 [7, 9]  mut(H2)=0 []
+      H293 x M234  ->  HijM392 / HijH393 | mut(H1)=1 [1]  mut(H2)=3 [2, 11, 13]
+      H295 x M244  ->  HijM394 / HijH395 | mut(H1)=3 [6, 12, 14]  mut(H2)=1 [16]
+      H297 x M238  ->  HijM396 / HijH397 | mut(H1)=3 [6, 13, 16]  mut(H2)=4 [3, 7, 15, 18]
+      H299 x M258  ->  HijM398 / HijH399 | mut(H1)=1 [5]  mut(H2)=3 [8, 15, 19]
+
+===== GENERACIÓN 3 (n=100) =====
+[id=  300] gen=  3  madre=252 padre=201  (normal)  atributos: 9 9 9 9 9 9 9 8 9 8 9 8 9 8 9 9 9 9 9 9
+[id=  302] gen=  3  madre=288 padre=203  (normal)  atributos: 8 9 9 9 8 8 9 9 9 8 9 9 9 9 9 9 9 9 9 9
+[id=  304] gen=  3  madre=218 padre=205  (normal)  atributos: 9 9 9 8 9 9 9 8 9 9 9 8 9 9 8 9 9 9 9 9
+[id=  306] gen=  3  madre=298 padre=207  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 9 9 8 9 9 8 9 9 9
+[id=  308] gen=  3  madre=268 padre=209  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 8 8 9
+[id=  310] gen=  3  madre=284 padre=211  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 9 8 9 9 9 9 9 9 9 8
+[id=  312] gen=  3  madre=242 padre=213  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 9 9 8 9 9 9 9 8 9
+[id=  314] gen=  3  madre=210 padre=215  (normal)  atributos: 9 8 8 9 9 9 8 9 9 8 9 9 9 9 9 9 8 8 9 9
+[id=  316] gen=  3  madre=282 padre=217  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9 8 9 8
+[id=  318] gen=  3  madre=228 padre=219  (normal)  atributos: 9 9 8 9 9 9 8 9 9 8 9 9 9 9 9 9 9 9 9 9
+[id=  320] gen=  3  madre=296 padre=221  (normal)  atributos: 8 9 9 9 9 9 9 9 8 9 9 8 9 9 9 9 9 9 8 9
+[id=  322] gen=  3  madre=248 padre=223  (normal)  atributos: 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9
+[id=  324] gen=  3  madre=294 padre=225  (normal)  atributos: 9 9 9 9 9 8 8 9 8 9 9 9 9 9 8 9 9 9 9 9
+[id=  326] gen=  3  madre=204 padre=227  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9
+[id=  328] gen=  3  madre=208 padre=229  (normal)  atributos: 9 9 9 9 8 9 9 9 9 9 9 9 9 9 8 8 9 8 8 8
+[id=  330] gen=  3  madre=286 padre=231  (normal)  atributos: 9 9 9 9 8 9 9 9 8 8 9 9 9 9 8 9 9 9 8 9
+[id=  332] gen=  3  madre=264 padre=233  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 8 8 8 9 8 8 9 9 8
+[id=  334] gen=  3  madre=214 padre=235  (normal)  atributos: 9 9 9 8 9 9 9 9 8 9 9 8 9 9 9 9 8 8 9 9
+[id=  336] gen=  3  madre=256 padre=237  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 8 9 9 9 9 9 9 9 8
+[id=  338] gen=  3  madre=250 padre=239  (normal)  atributos: 8 9 9 9 9 9 8 9 9 9 9 8 9 9 9 9 9 9 9 8
+[id=  340] gen=  3  madre=236 padre=241  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  342] gen=  3  madre=270 padre=243  (normal)  atributos: 9 9 9 9 8 8 9 9 9 8 8 8 9 8 8 9 9 9 8 9
+[id=  344] gen=  3  madre=254 padre=245  (normal)  atributos: 9 8 9 9 9 9 8 9 9 9 8 9 9 9 8 9 9 8 8 8
+[id=  346] gen=  3  madre=232 padre=247  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9
+[id=  348] gen=  3  madre=292 padre=249  (normal)  atributos: 8 9 9 9 9 8 8 9 9 8 9 9 9 9 9 9 9 9 9 8
+[id=  350] gen=  3  madre=206 padre=251  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  352] gen=  3  madre=280 padre=253  (normal)  atributos: 9 9 9 9 9 8 9 8 9 9 9 9 9 9 8 9 8 8 8 9
+[id=  354] gen=  3  madre=200 padre=255  (normal)  atributos: 8 9 8 9 9 8 8 9 9 8 9 8 9 9 8 8 9 9 9 9
+[id=  356] gen=  3  madre=262 padre=257  (normal)  atributos: 9 9 9 9 9 8 9 9 9 9 9 9 8 9 9 9 8 8 9 9
+[id=  358] gen=  3  madre=266 padre=259  (normal)  atributos: 8 8 9 9 9 9 8 9 9 8 9 8 9 9 8 9 9 9 9 9
+[id=  360] gen=  3  madre=216 padre=261  (normal)  atributos: 9 9 9 9 9 9 9 9 9 8 9 8 9 9 8 8 9 8 9 8
+[id=  362] gen=  3  madre=230 padre=263  (normal)  atributos: 9 9 9 9 8 9 8 9 9 8 8 9 9 9 9 8 9 9 9 9
+[id=  364] gen=  3  madre=240 padre=265  (normal)  atributos: 9 9 9 9 9 9 9 9 8 9 9 9 8 9 9 9 9 9 9 9
+[id=  366] gen=  3  madre=274 padre=267  (normal)  atributos: 8 8 9 9 9 9 9 8 8 8 8 8 9 9 9 9 9 9 9 9
+[id=  368] gen=  3  madre=272 padre=269  (normal)  atributos: 9 8 9 9 8 9 9 9 9 8 8 8 9 8 8 8 9 9 9 8
+[id=  370] gen=  3  madre=202 padre=271  (normal)  atributos: 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  372] gen=  3  madre=290 padre=273  (normal)  atributos: 9 9 9 9 9 9 8 8 9 8 9 9 9 8 8 8 9 9 8 9
+[id=  374] gen=  3  madre=222 padre=275  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 8 9 8 9 9 8 9 9
+[id=  376] gen=  3  madre=212 padre=277  (normal)  atributos: 9 9 8 9 8 9 9 9 9 8 8 9 9 9 9 9 9 8 8 8
+[id=  378] gen=  3  madre=260 padre=279  (normal)  atributos: 9 9 9 9 8 9 9 9 9 8 9 9 9 9 8 9 8 9 9 9
+[id=  380] gen=  3  madre=246 padre=281  (normal)  atributos: 9 9 9 9 9 9 9 8 9 8 9 9 8 9 9 9 9 9 9 9
+[id=  382] gen=  3  madre=224 padre=283  (normal)  atributos: 9 9 9 8 9 9 8 9 9 9 9 9 9 9 8 9 9 9 8 9
+[id=  384] gen=  3  madre=276 padre=285  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 9 9 8 9 9 9 8 9 9
+[id=  386] gen=  3  madre=278 padre=287  (normal)  atributos: 9 9 9 9 9 9 9 8 8 9 9 8 8 8 9 9 8 9 9 9
+[id=  388] gen=  3  madre=220 padre=289  (normal)  atributos: 9 9 9 8 9 9 8 9 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  390] gen=  3  madre=226 padre=291  (normal)  atributos: 9 9 9 8 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  392] gen=  3  madre=234 padre=293  (normal)  atributos: 9 9 9 9 9 8 9 8 9 8 9 9 9 9 9 9 8 9 9 8
+[id=  394] gen=  3  madre=244 padre=295  (normal)  atributos: 9 8 9 9 9 9 8 9 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  396] gen=  3  madre=238 padre=297  (normal)  atributos: 8 9 9 8 9 9 9 9 9 9 9 8 9 8 9 8 9 9 9 8
+[id=  398] gen=  3  madre=258 padre=299  (normal)  atributos: 8 8 9 9 9 9 9 9 9 9 8 8 8 9 9 9 8 9 8 9
+[id=  301] gen=  3  madre=252 padre=201  (normal)  atributos: 8 8 8 8 8 9 8 8 9 8 8 8 8 8 8 8 9 9 8 8
+[id=  303] gen=  3  madre=288 padre=203  (normal)  atributos: 8 9 9 8 8 8 9 9 8 8 8 8 8 9 8 8 8 8 8 8
+[id=  305] gen=  3  madre=218 padre=205  (normal)  atributos: 9 9 8 8 9 8 9 8 8 8 8 8 8 8 8 9 8 8 8 8
+[id=  307] gen=  3  madre=298 padre=207  (normal)  atributos: 8 8 9 8 8 9 9 8 8 8 9 8 9 9 9 8 8 8 8 8
+[id=  309] gen=  3  madre=268 padre=209  (normal)  atributos: 8 8 8 9 8 8 9 9 8 8 8 8 8 8 8 8 8 9 8 8
+[id=  311] gen=  3  madre=284 padre=211  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 9 8 8 8 9 9 8 9 9 8
+[id=  313] gen=  3  madre=242 padre=213  (normal)  atributos: 8 8 8 8 8 8 8 8 8 9 8 8 9 8 8 8 8 8 8 8
+[id=  315] gen=  3  madre=210 padre=215  (normal)  atributos: 9 8 9 9 8 8 8 8 8 8 9 8 8 8 8 8 9 8 9 8
+[id=  317] gen=  3  madre=282 padre=217  (normal)  atributos: 8 8 8 8 8 8 8 9 8 8 8 8 8 8 9 8 8 8 8 8
+[id=  319] gen=  3  madre=228 padre=219  (normal)  atributos: 8 8 9 9 8 9 9 8 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  321] gen=  3  madre=296 padre=221  (normal)  atributos: 8 9 8 8 8 8 8 9 8 8 8 8 8 9 8 8 8 8 8 8
+[id=  323] gen=  3  madre=248 padre=223  (normal)  atributos: 8 9 8 9 8 9 8 9 8 9 8 8 8 8 8 8 8 8 9 8
+[id=  325] gen=  3  madre=294 padre=225  (normal)  atributos: 8 9 9 9 8 9 8 8 8 9 9 8 8 9 8 9 8 8 8 9
+[id=  327] gen=  3  madre=204 padre=227  (normal)  atributos: 8 8 9 9 8 8 8 8 8 8 9 8 9 8 9 8 8 8 8 9
+[id=  329] gen=  3  madre=208 padre=229  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 8 8 8 9 8 9 9 8 8 8
+[id=  331] gen=  3  madre=286 padre=231  (normal)  atributos: 8 9 9 8 8 8 9 8 8 8 8 8 8 8 8 8 9 8 8 8
+[id=  333] gen=  3  madre=264 padre=233  (normal)  atributos: 9 8 9 8 9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  335] gen=  3  madre=214 padre=235  (normal)  atributos: 8 9 9 8 8 9 8 8 9 8 9 8 8 8 8 8 8 8 8 8
+[id=  337] gen=  3  madre=256 padre=237  (normal)  atributos: 8 9 9 8 8 8 9 9 8 9 8 9 8 8 8 8 8 8 9 9
+[id=  339] gen=  3  madre=250 padre=239  (normal)  atributos: 8 8 9 9 8 8 8 8 8 9 8 8 8 9 8 8 9 8 8 8
+[id=  341] gen=  3  madre=236 padre=241  (normal)  atributos: 8 8 8 8 8 9 8 8 9 8 9 8 8 8 8 9 8 8 8 8
+[id=  343] gen=  3  madre=270 padre=243  (normal)  atributos: 8 9 8 8 8 9 8 9 8 8 8 8 8 8 8 9 8 8 8 9
+[id=  345] gen=  3  madre=254 padre=245  (normal)  atributos: 8 8 9 8 9 8 8 9 8 8 8 9 9 8 9 8 8 8 8 8
+[id=  347] gen=  3  madre=232 padre=247  (normal)  atributos: 8 8 9 8 8 8 8 8 9 8 9 8 9 8 8 8 8 8 9 9
+[id=  349] gen=  3  madre=292 padre=249  (normal)  atributos: 8 8 8 8 8 8 8 9 8 8 8 8 9 8 9 9 8 8 9 8
+[id=  351] gen=  3  madre=206 padre=251  (normal)  atributos: 8 8 8 9 8 9 9 8 9 9 9 9 8 8 8 8 8 8 8 8
+[id=  353] gen=  3  madre=280 padre=253  (normal)  atributos: 8 9 9 8 9 8 8 8 8 9 8 8 8 8 9 8 9 8 9 8
+[id=  355] gen=  3  madre=200 padre=255  (normal)  atributos: 8 8 9 8 9 8 8 8 8 8 8 9 8 9 8 8 8 8 8 9
+[id=  357] gen=  3  madre=262 padre=257  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8
+[id=  359] gen=  3  madre=266 padre=259  (normal)  atributos: 8 8 8 9 9 9 8 8 8 8 8 8 9 8 8 9 8 9 8 9
+[id=  361] gen=  3  madre=216 padre=261  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 8 8 8 9 8 8 8 8 9 8
+[id=  363] gen=  3  madre=230 padre=263  (normal)  atributos: 8 8 9 9 8 8 8 8 8 9 9 8 9 8 8 8 8 8 8 8
+[id=  365] gen=  3  madre=240 padre=265  (normal)  atributos: 8 9 8 9 9 9 8 8 8 9 8 8 8 9 9 8 8 9 9 8
+[id=  367] gen=  3  madre=274 padre=267  (normal)  atributos: 8 8 9 9 9 9 8 8 8 8 8 8 9 9 9 8 8 8 8 8
+[id=  369] gen=  3  madre=272 padre=269  (normal)  atributos: 8 8 8 8 9 9 9 8 9 8 8 8 8 8 8 8 8 8 8 9
+[id=  371] gen=  3  madre=202 padre=271  (normal)  atributos: 9 8 8 9 8 8 9 9 8 8 9 8 9 9 8 8 8 8 8 8
+[id=  373] gen=  3  madre=290 padre=273  (normal)  atributos: 9 8 8 8 8 8 8 8 8 8 8 9 9 8 8 8 9 8 9 8
+[id=  375] gen=  3  madre=222 padre=275  (normal)  atributos: 8 8 8 8 9 8 8 8 8 9 8 8 8 9 8 8 8 8 8 8
+[id=  377] gen=  3  madre=212 padre=277  (normal)  atributos: 9 8 8 8 9 9 8 8 9 9 8 9 9 8 9 8 8 8 8 8
+[id=  379] gen=  3  madre=260 padre=279  (normal)  atributos: 8 8 9 8 8 8 8 8 8 9 8 8 9 8 8 9 8 9 9 9
+[id=  381] gen=  3  madre=246 padre=281  (normal)  atributos: 9 8 8 9 9 8 8 8 9 9 9 8 9 8 8 8 8 8 8 8
+[id=  383] gen=  3  madre=224 padre=283  (normal)  atributos: 8 8 8 8 8 8 8 9 9 8 8 8 9 8 9 8 8 8 8 8
+[id=  385] gen=  3  madre=276 padre=285  (normal)  atributos: 9 8 8 9 8 8 8 8 9 9 9 9 8 9 8 8 8 8 8 8
+[id=  387] gen=  3  madre=278 padre=287  (normal)  atributos: 8 8 8 8 8 8 9 8 8 8 8 8 9 8 8 8 8 8 9 9
+[id=  389] gen=  3  madre=220 padre=289  (normal)  atributos: 8 8 8 8 8 8 8 8 8 9 9 8 9 8 8 9 8 9 8 8
+[id=  391] gen=  3  madre=226 padre=291  (normal)  atributos: 8 8 9 8 8 8 9 8 8 8 9 9 8 8 8 8 8 8 8 8
+[id=  393] gen=  3  madre=234 padre=293  (normal)  atributos: 8 9 9 8 8 8 8 8 8 8 9 9 8 8 9 8 8 8 8 8
+[id=  395] gen=  3  madre=244 padre=295  (normal)  atributos: 8 8 9 8 9 8 8 9 9 8 8 8 8 9 8 9 9 8 8 8
+[id=  397] gen=  3  madre=238 padre=297  (normal)  atributos: 8 8 8 8 8 8 9 9 8 8 8 8 8 9 8 9 8 9 8 8
+[id=  399] gen=  3  madre=258 padre=299  (normal)  atributos: 8 8 8 9 9 8 8 8 8 8 8 8 8 8 8 9 8 8 8 8
+  Mutaciones totales: hija(s)=161, hijo(s)=177
+
+== Generación 4
+  Parejas formadas (Hombre x Mujer) [* = relajado/pivote]:
+      H301 x M392  ->  HijM400 / HijH401 | mut(H1)=4 [0, 1, 9, 15]  mut(H2)=2 [9, 11]
+      H303 x M372  ->  HijM402 / HijH403 | mut(H1)=5 [2, 4, 5, 16, 18]  mut(H2)=5 [0, 5, 6, 16, 17]
+      H305 x M316  ->  HijM404 / HijH405 | mut(H1)=4 [0, 2, 6, 18]  mut(H2)=5 [1, 5, 8, 12, 15]
+      H307 x M340  ->  HijM406 / HijH407 | mut(H1)=1 [2]  mut(H2)=4 [5, 8, 10, 15]
+      H309 x M374  ->  HijM408 / HijH409 | mut(H1)=5 [2, 5, 6, 14, 15]  mut(H2)=4 [7, 8, 14, 16]
+      H311 x M312  ->  HijM410 / HijH411 | mut(H1)=4 [1, 2, 9, 10]  mut(H2)=2 [10, 16]
+      H313 x M366  ->  HijM412 / HijH413 | mut(H1)=0 []  mut(H2)=2 [4, 8]
+      H315 x M320  ->  HijM414 / HijH415 | mut(H1)=3 [9, 11, 13]  mut(H2)=3 [3, 14, 19]
+      H317 x M358  ->  HijM416 / HijH417 | mut(H1)=1 [11]  mut(H2)=3 [9, 14, 15]
+      H319 x M332  ->  HijM418 / HijH419 | mut(H1)=3 [9, 13, 16]  mut(H2)=3 [2, 7, 13]
+      H321 x M354  ->  HijM420 / HijH421 | mut(H1)=2 [4, 12]  mut(H2)=7 [3, 6, 13, 15, 17, 18, 19]
+      H323 x M388  ->  HijM422 / HijH423 | mut(H1)=4 [1, 2, 9, 10]  mut(H2)=9 [1, 2, 3, 4, 6, 13, 15, 16, 19]
+      H325 x M386  ->  HijM424 / HijH425 | mut(H1)=4 [5, 7, 12, 14]  mut(H2)=2 [1, 7]
+      H327 x M328  ->  HijM426 / HijH427 | mut(H1)=3 [2, 8, 15]  mut(H2)=6 [0, 5, 6, 7, 8, 10]
+      H329 x M380  ->  HijM428 / HijH429 | mut(H1)=7 [0, 1, 3, 10, 11, 13, 15]  mut(H2)=3 [0, 17, 19]
+      H331 x M378  ->  HijM430 / HijH431 | mut(H1)=4 [5, 7, 16, 19]  mut(H2)=4 [1, 5, 6, 10]
+      H333 x M394  ->  HijM432 / HijH433 | mut(H1)=2 [7, 11]  mut(H2)=2 [0, 7]
+      H335 x M324  ->  HijM434 / HijH435 | mut(H1)=2 [2, 4]  mut(H2)=3 [8, 11, 17]
+      H337 x M364  ->  HijM436 / HijH437 | mut(H1)=2 [7, 13]  mut(H2)=2 [1, 9]
+      H339 x M300  ->  HijM438 / HijH439 | mut(H1)=3 [2, 3, 16]  mut(H2)=4 [3, 4, 10, 16]
+      H341 x M302  ->  HijM440 / HijH441 | mut(H1)=1 [14]  mut(H2)=2 [5, 8]
+      H343 x M326  ->  HijM442 / HijH443 | mut(H1)=1 [15]  mut(H2)=5 [11, 13, 15, 16, 18]
+      H345 x M368  ->  HijM444 / HijH445 | mut(H1)=1 [4]  mut(H2)=3 [5, 9, 15]
+      H347 x M304  ->  HijM446 / HijH447 | mut(H1)=1 [8]  mut(H2)=6 [2, 3, 7, 8, 10, 15]
+      H349 x M318  ->  HijM448 / HijH449 | mut(H1)=0 []  mut(H2)=7 [2, 4, 5, 7, 13, 15, 18]
+      H351 x M334  ->  HijM450 / HijH451 | mut(H1)=5 [6, 8, 9, 10, 14]  mut(H2)=3 [1, 3, 5]
+      H353 x M382  ->  HijM452 / HijH453 | mut(H1)=6 [2, 3, 6, 12, 16, 18]  mut(H2)=4 [1, 2, 11, 17]
+      H355 x M398  ->  HijM454 / HijH455 | mut(H1)=4 [0, 1, 5, 16]  mut(H2)=3 [3, 6, 7]
+      H357 x M370  ->  HijM456 / HijH457 | mut(H1)=5 [12, 16, 17, 18, 19]  mut(H2)=5 [0, 1, 4, 7, 16]
+      H359 x M314  ->  HijM458 / HijH459 | mut(H1)=0 []  mut(H2)=3 [3, 8, 17]
+      H361 x M308  ->  HijM460 / HijH461 | mut(H1)=2 [3, 7]  mut(H2)=2 [6, 13]
+      H363 x M396  ->  HijM462 / HijH463 | mut(H1)=5 [6, 7, 12, 15, 17]  mut(H2)=3 [15, 17, 18]
+      H365 x M330  ->  HijM464 / HijH465 | mut(H1)=3 [2, 3, 12]  mut(H2)=3 [8, 13, 14]
+      H367 x M338  ->  HijM466 / HijH467 | mut(H1)=3 [1, 2, 12]  mut(H2)=3 [8, 12, 18]
+      H369 x M342  ->  HijM468 / HijH469 | mut(H1)=3 [3, 15, 18]  mut(H2)=1 [9]
+      H371 x M376  ->  HijM470 / HijH471 | mut(H1)=4 [3, 4, 16, 18]  mut(H2)=8 [1, 3, 7, 11, 15, 16, 17, 18]
+      H373 x M310  ->  HijM472 / HijH473 | mut(H1)=2 [10, 18]  mut(H2)=7 [4, 7, 8, 13, 15, 16, 19]
+      H375 x M344  ->  HijM474 / HijH475 | mut(H1)=6 [0, 2, 5, 11, 15, 17]  mut(H2)=3 [0, 1, 17]
+      H377 x M322  ->  HijM476 / HijH477 | mut(H1)=4 [4, 7, 8, 10]  mut(H2)=2 [12, 18]
+      H379 x M306  ->  HijM478 / HijH479 | mut(H1)=4 [2, 8, 11, 18]  mut(H2)=4 [0, 1, 7, 15]
+      H381 x M360  ->  HijM480 / HijH481 | mut(H1)=1 [15]  mut(H2)=4 [2, 7, 16, 17]
+      H383 x M356  ->  HijM482 / HijH483 | mut(H1)=4 [3, 8, 17, 18]  mut(H2)=3 [10, 17, 18]
+      H385 x M346  ->  HijM484 / HijH485 | mut(H1)=6 [1, 7, 9, 10, 14, 17]  mut(H2)=2 [6, 14]
+      H387 x M362  ->  HijM486 / HijH487 | mut(H1)=4 [2, 4, 9, 17]  mut(H2)=3 [3, 5, 7]
+      H389 x M352  ->  HijM488 / HijH489 | mut(H1)=3 [0, 6, 12]  mut(H2)=0 []
+      H391 x M336  ->  HijM490 / HijH491 | mut(H1)=2 [1, 11]  mut(H2)=5 [2, 3, 8, 13, 14]
+      H393 x M390  ->  HijM492 / HijH493 | mut(H1)=2 [0, 3]  mut(H2)=0 []
+      H395 x M348  ->  HijM494 / HijH495 | mut(H1)=5 [1, 4, 6, 8, 13]  mut(H2)=2 [7, 15]
+      H397 x M384  ->  HijM496 / HijH497 | mut(H1)=5 [1, 8, 9, 12, 17]  mut(H2)=3 [10, 18, 19]
+      H399 x M350  ->  HijM498 / HijH499 | mut(H1)=1 [4]  mut(H2)=4 [2, 9, 14, 15]
+
+===== GENERACIÓN 4 (n=100) =====
+[id=  400] gen=  4  madre=392 padre=301  (normal)  atributos: 9 8 9 9 9 9 9 8 9 8 9 9 9 9 9 8 9 9 9 8
+[id=  402] gen=  4  madre=372 padre=303  (normal)  atributos: 9 9 8 9 8 9 9 9 9 8 9 9 9 9 8 8 9 9 8 9
+[id=  404] gen=  4  madre=316 padre=305  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9 8 9 8
+[id=  406] gen=  4  madre=340 padre=307  (normal)  atributos: 9 9 8 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  408] gen=  4  madre=374 padre=309  (normal)  atributos: 9 9 8 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9
+[id=  410] gen=  4  madre=312 padre=311  (normal)  atributos: 9 9 8 9 9 9 9 8 9 8 9 9 9 8 9 9 9 9 9 9
+[id=  412] gen=  4  madre=366 padre=313  (normal)  atributos: 8 8 9 9 9 9 9 8 8 9 8 8 9 9 9 9 9 9 9 9
+[id=  414] gen=  4  madre=320 padre=315  (normal)  atributos: 9 9 9 9 9 9 9 9 8 8 9 9 9 9 9 9 9 9 9 9
+[id=  416] gen=  4  madre=358 padre=317  (normal)  atributos: 8 8 9 9 9 9 8 9 9 8 9 9 9 9 9 9 9 9 9 9
+[id=  418] gen=  4  madre=332 padre=319  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 8 8 8 9 8 9 9 9 8
+[id=  420] gen=  4  madre=354 padre=321  (normal)  atributos: 8 9 8 9 8 8 8 9 9 8 9 8 8 9 8 8 9 9 9 9
+[id=  422] gen=  4  madre=388 padre=323  (normal)  atributos: 9 8 9 9 9 9 8 9 9 9 8 9 9 9 9 9 8 9 9 9
+[id=  424] gen=  4  madre=386 padre=325  (normal)  atributos: 9 9 9 9 9 9 9 8 8 9 9 8 9 9 9 9 8 9 9 9
+[id=  426] gen=  4  madre=328 padre=327  (normal)  atributos: 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 8 9 8 8 9
+[id=  428] gen=  4  madre=380 padre=329  (normal)  atributos: 9 8 9 9 9 9 9 8 9 8 9 8 8 8 9 9 9 9 9 9
+[id=  430] gen=  4  madre=378 padre=331  (normal)  atributos: 9 9 9 9 8 8 9 8 9 8 9 9 9 9 8 9 8 9 9 8
+[id=  432] gen=  4  madre=394 padre=333  (normal)  atributos: 9 8 9 9 9 9 8 9 9 9 9 8 9 9 9 9 8 9 9 9
+[id=  434] gen=  4  madre=324 padre=335  (normal)  atributos: 9 9 8 9 9 9 8 9 9 9 9 9 9 9 8 9 9 9 9 9
+[id=  436] gen=  4  madre=364 padre=337  (normal)  atributos: 9 9 9 9 9 9 9 8 8 9 9 9 8 8 9 9 9 9 9 9
+[id=  438] gen=  4  madre=300 padre=339  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 8 9 9 9 9 8 9 9 9
+[id=  440] gen=  4  madre=302 padre=341  (normal)  atributos: 8 9 9 9 8 9 9 9 9 8 9 9 9 9 8 9 9 9 9 9
+[id=  442] gen=  4  madre=326 padre=343  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9
+[id=  444] gen=  4  madre=368 padre=345  (normal)  atributos: 9 8 9 9 8 9 9 9 9 8 8 9 9 8 9 8 9 9 9 8
+[id=  446] gen=  4  madre=304 padre=347  (normal)  atributos: 9 9 9 8 9 9 9 8 9 9 9 8 9 9 8 9 9 9 9 9
+[id=  448] gen=  4  madre=318 padre=349  (normal)  atributos: 9 9 8 9 9 9 8 9 9 8 9 9 9 9 9 9 9 9 9 9
+[id=  450] gen=  4  madre=334 padre=351  (normal)  atributos: 9 9 9 9 9 9 8 9 8 8 8 9 9 9 8 9 8 8 9 9
+[id=  452] gen=  4  madre=382 padre=353  (normal)  atributos: 9 9 8 8 9 9 9 9 9 9 9 9 8 9 9 9 8 9 9 9
+[id=  454] gen=  4  madre=398 padre=355  (normal)  atributos: 9 8 9 9 9 8 9 9 9 9 8 9 8 9 9 9 8 9 8 9
+[id=  456] gen=  4  madre=370 padre=357  (normal)  atributos: 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 8 9 8
+[id=  458] gen=  4  madre=314 padre=359  (normal)  atributos: 9 8 8 9 9 9 8 9 9 8 9 9 9 9 9 9 8 9 9 9
+[id=  460] gen=  4  madre=308 padre=361  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 8 9 9
+[id=  462] gen=  4  madre=396 padre=363  (normal)  atributos: 8 9 9 9 9 9 8 8 9 9 9 8 8 8 9 8 9 9 9 8
+[id=  464] gen=  4  madre=330 padre=365  (normal)  atributos: 9 9 8 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9
+[id=  466] gen=  4  madre=338 padre=367  (normal)  atributos: 8 9 8 9 9 9 8 9 9 9 9 8 9 9 9 9 9 9 9 8
+[id=  468] gen=  4  madre=342 padre=369  (normal)  atributos: 9 9 9 8 9 9 9 9 9 8 8 8 9 8 8 9 9 9 9 9
+[id=  470] gen=  4  madre=376 padre=371  (normal)  atributos: 9 9 8 9 8 9 9 9 9 8 9 9 9 9 9 9 8 8 8 8
+[id=  472] gen=  4  madre=310 padre=373  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 8 9 9 9 9 9 9 9 8 8
+[id=  474] gen=  4  madre=344 padre=375  (normal)  atributos: 8 8 8 9 9 8 8 9 9 9 8 8 9 9 8 9 9 8 8 8
+[id=  476] gen=  4  madre=322 padre=377  (normal)  atributos: 9 9 8 9 9 9 9 8 8 9 9 9 9 9 9 8 9 9 9 9
+[id=  478] gen=  4  madre=306 padre=379  (normal)  atributos: 9 9 8 9 9 9 9 8 9 9 9 9 9 8 9 9 8 9 9 9
+[id=  480] gen=  4  madre=360 padre=381  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 8 9 9 8 8 9 8 9 8
+[id=  482] gen=  4  madre=356 padre=383  (normal)  atributos: 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 8 8 8 9
+[id=  484] gen=  4  madre=346 padre=385  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 8 9 8 9 9 8 9 9
+[id=  486] gen=  4  madre=362 padre=387  (normal)  atributos: 9 9 8 9 9 9 9 9 9 9 8 9 9 9 9 8 9 9 9 9
+[id=  488] gen=  4  madre=352 padre=389  (normal)  atributos: 9 9 9 9 9 8 9 8 9 9 9 9 9 9 8 9 8 9 8 9
+[id=  490] gen=  4  madre=336 padre=391  (normal)  atributos: 9 8 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 8
+[id=  492] gen=  4  madre=390 padre=393  (normal)  atributos: 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  494] gen=  4  madre=348 padre=395  (normal)  atributos: 8 9 9 9 8 8 9 9 8 8 9 9 9 8 9 9 9 9 9 8
+[id=  496] gen=  4  madre=384 padre=397  (normal)  atributos: 9 8 9 9 9 9 9 9 8 9 9 9 9 9 9 9 9 8 9 9
+[id=  498] gen=  4  madre=350 padre=399  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  401] gen=  4  madre=392 padre=301  (normal)  atributos: 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 9 8 8
+[id=  403] gen=  4  madre=372 padre=303  (normal)  atributos: 8 9 9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  405] gen=  4  madre=316 padre=305  (normal)  atributos: 9 8 8 8 9 8 9 8 8 8 8 8 9 8 8 8 8 8 8 8
+[id=  407] gen=  4  madre=340 padre=307  (normal)  atributos: 8 8 9 8 8 9 9 8 9 8 9 8 9 9 9 9 8 8 8 8
+[id=  409] gen=  4  madre=374 padre=309  (normal)  atributos: 8 8 8 9 8 8 9 9 9 8 8 8 8 8 9 8 9 8 8 8
+[id=  411] gen=  4  madre=312 padre=311  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 9 8 8 8 9 9 8 9 8 8
+[id=  413] gen=  4  madre=366 padre=313  (normal)  atributos: 8 8 8 8 8 8 8 8 9 8 8 8 9 8 8 8 8 8 8 8
+[id=  415] gen=  4  madre=320 padre=315  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 9 8 8 8 9 8 9 8 8 9
+[id=  417] gen=  4  madre=358 padre=317  (normal)  atributos: 8 8 8 8 8 8 8 9 8 9 8 8 8 8 8 8 8 8 8 8
+[id=  419] gen=  4  madre=332 padre=319  (normal)  atributos: 8 8 8 9 8 9 9 9 8 8 8 8 8 9 8 8 8 8 8 8
+[id=  421] gen=  4  madre=354 padre=321  (normal)  atributos: 8 9 8 9 8 8 9 9 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  423] gen=  4  madre=388 padre=323  (normal)  atributos: 8 9 8 9 8 9 8 9 8 9 8 8 8 9 8 8 9 8 9 8
+[id=  425] gen=  4  madre=386 padre=325  (normal)  atributos: 8 9 9 9 8 9 8 9 8 9 9 8 8 8 8 9 8 8 8 9
+[id=  427] gen=  4  madre=328 padre=327  (normal)  atributos: 9 8 9 9 8 8 9 8 8 8 8 8 9 8 8 8 8 8 8 8
+[id=  429] gen=  4  madre=380 padre=329  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 8 8 8 9 8 9 9 8 8 9
+[id=  431] gen=  4  madre=378 padre=331  (normal)  atributos: 8 9 9 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 8
+[id=  433] gen=  4  madre=394 padre=333  (normal)  atributos: 8 8 9 8 9 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  435] gen=  4  madre=324 padre=335  (normal)  atributos: 8 9 9 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 8
+[id=  437] gen=  4  madre=364 padre=337  (normal)  atributos: 8 8 9 8 8 8 9 9 8 9 8 9 8 8 8 8 8 8 9 9
+[id=  439] gen=  4  madre=300 padre=339  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8 8 9 8 8 8
+[id=  441] gen=  4  madre=302 padre=341  (normal)  atributos: 8 8 8 8 8 8 8 8 9 8 9 8 8 8 8 9 8 8 8 8
+[id=  443] gen=  4  madre=326 padre=343  (normal)  atributos: 8 9 8 8 8 9 8 9 8 8 8 9 8 8 8 9 9 8 8 9
+[id=  445] gen=  4  madre=368 padre=345  (normal)  atributos: 8 8 9 8 8 9 8 9 8 8 8 8 9 8 8 9 8 8 8 8
+[id=  447] gen=  4  madre=304 padre=347  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 8 8 9 8 8 9 8 8 9 9
+[id=  449] gen=  4  madre=318 padre=349  (normal)  atributos: 8 8 8 8 9 8 8 9 8 8 8 8 9 9 9 8 8 8 8 8
+[id=  451] gen=  4  madre=334 padre=351  (normal)  atributos: 8 9 8 8 8 8 9 8 8 9 9 8 8 8 8 8 8 8 8 8
+[id=  453] gen=  4  madre=382 padre=353  (normal)  atributos: 8 9 8 8 9 8 8 8 8 9 8 9 8 8 8 8 9 9 8 8
+[id=  455] gen=  4  madre=398 padre=355  (normal)  atributos: 8 8 9 8 9 8 8 8 8 8 8 8 8 9 8 8 8 8 8 9
+[id=  457] gen=  4  madre=370 padre=357  (normal)  atributos: 9 8 9 8 8 8 8 8 8 8 8 9 8 8 8 8 9 8 8 8
+[id=  459] gen=  4  madre=314 padre=359  (normal)  atributos: 8 8 8 8 9 9 8 8 9 8 8 8 9 8 8 9 8 8 8 9
+[id=  461] gen=  4  madre=308 padre=361  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  463] gen=  4  madre=396 padre=363  (normal)  atributos: 8 8 9 8 8 8 8 8 8 9 9 8 9 8 8 8 8 9 9 8
+[id=  465] gen=  4  madre=330 padre=365  (normal)  atributos: 8 9 8 9 8 9 8 8 8 8 8 8 8 8 8 8 8 9 8 8
+[id=  467] gen=  4  madre=338 padre=367  (normal)  atributos: 8 8 9 9 9 9 8 8 8 8 8 8 8 9 9 8 8 8 9 8
+[id=  469] gen=  4  madre=342 padre=369  (normal)  atributos: 8 8 8 8 8 8 9 8 9 8 8 8 8 8 8 8 8 8 8 9
+[id=  471] gen=  4  madre=376 padre=371  (normal)  atributos: 9 8 8 8 8 8 9 8 8 8 8 8 9 9 8 9 9 8 8 8
+[id=  473] gen=  4  madre=310 padre=373  (normal)  atributos: 9 8 8 8 9 8 8 8 9 8 8 8 9 9 8 9 8 8 9 9
+[id=  475] gen=  4  madre=344 padre=375  (normal)  atributos: 9 9 8 8 9 8 8 8 8 9 8 8 8 9 8 8 8 9 8 8
+[id=  477] gen=  4  madre=322 padre=377  (normal)  atributos: 9 8 8 8 9 9 8 8 9 9 8 9 8 8 9 8 8 8 9 8
+[id=  479] gen=  4  madre=306 padre=379  (normal)  atributos: 8 8 9 8 8 8 8 9 8 9 8 8 9 8 8 9 8 9 9 9
+[id=  481] gen=  4  madre=360 padre=381  (normal)  atributos: 9 8 8 9 9 8 8 9 9 8 9 8 9 8 8 8 8 8 8 8
+[id=  483] gen=  4  madre=356 padre=383  (normal)  atributos: 8 8 8 8 8 8 8 9 9 8 8 8 8 8 9 8 8 8 8 8
+[id=  485] gen=  4  madre=346 padre=385  (normal)  atributos: 9 8 8 9 8 8 8 8 9 9 9 9 8 9 8 8 8 8 8 8
+[id=  487] gen=  4  madre=362 padre=387  (normal)  atributos: 8 8 8 9 8 8 8 8 8 8 8 8 9 8 8 8 8 8 9 9
+[id=  489] gen=  4  madre=352 padre=389  (normal)  atributos: 8 8 8 8 8 8 8 8 8 9 9 8 9 8 8 9 8 8 8 8
+[id=  491] gen=  4  madre=336 padre=391  (normal)  atributos: 8 8 8 8 8 8 9 8 8 8 9 8 8 8 8 8 8 8 8 8
+[id=  493] gen=  4  madre=390 padre=393  (normal)  atributos: 8 9 9 8 8 8 8 8 8 8 9 9 8 8 9 8 8 8 8 8
+[id=  495] gen=  4  madre=348 padre=395  (normal)  atributos: 8 8 9 8 9 8 8 8 9 8 8 8 8 9 8 8 9 8 8 8
+[id=  497] gen=  4  madre=384 padre=397  (normal)  atributos: 8 8 8 8 8 8 9 8 8 8 9 8 8 8 8 9 8 8 8 9
+[id=  499] gen=  4  madre=350 padre=399  (normal)  atributos: 8 8 9 9 9 8 8 8 8 8 8 8 8 8 9 8 8 8 8 8
+  Mutaciones totales: hija(s)=156, hijo(s)=178
+
+== Generación 5
+  Parejas formadas (Hombre x Mujer) [* = relajado/pivote]:
+      H401 x M456  ->  HijM500 / HijH501 | mut(H1)=6 [1, 6, 14, 16, 17, 18]  mut(H2)=3 [1, 9, 10]
+      H403 x M426  ->  HijM502 / HijH503 | mut(H1)=1 [7]  mut(H2)=4 [1, 5, 10, 19]
+      H405 x M408  ->  HijM504 / HijH505 | mut(H1)=2 [1, 12]  mut(H2)=2 [9, 19]
+      H407 x M482  ->  HijM506 / HijH507 | mut(H1)=4 [0, 2, 7, 13]  mut(H2)=3 [3, 7, 8]
+      H409 x M454  ->  HijM508 / HijH509 | mut(H1)=4 [6, 11, 14, 19]  mut(H2)=3 [1, 2, 6]
+      H411 x M416  ->  HijM510 / HijH511 | mut(H1)=1 [2]  mut(H2)=4 [2, 3, 6, 10]
+      H413 x M446  ->  HijM512 / HijH513 | mut(H1)=2 [12, 16]  mut(H2)=2 [2, 14]
+      H415 x M486  ->  HijM514 / HijH515 | mut(H1)=2 [12, 18]  mut(H2)=2 [1, 19]
+      H417 x M442  ->  HijM516 / HijH517 | mut(H1)=4 [8, 16, 17, 18]  mut(H2)=2 [12, 17]
+      H419 x M458  ->  HijM518 / HijH519 | mut(H1)=2 [1, 6]  mut(H2)=1 [5]
+      H421 x M434  ->  HijM520 / HijH521 | mut(H1)=1 [11]  mut(H2)=6 [0, 2, 9, 13, 14, 18]
+      H423 x M428  ->  HijM522 / HijH523 | mut(H1)=2 [7, 18]  mut(H2)=3 [6, 10, 18]
+      H425 x M418  ->  HijM524 / HijH525 | mut(H1)=7 [0, 2, 5, 9, 13, 18, 19]  mut(H2)=3 [0, 2, 8]
+      H427 x M406  ->  HijM526 / HijH527 | mut(H1)=5 [0, 3, 9, 14, 17]  mut(H2)=5 [5, 7, 10, 15, 17]
+      H429 x M438  ->  HijM528 / HijH529 | mut(H1)=4 [5, 6, 10, 12]  mut(H2)=4 [0, 7, 11, 19]
+      H431 x M410  ->  HijM530 / HijH531 | mut(H1)=4 [0, 4, 7, 19]  mut(H2)=4 [0, 2, 13, 17]
+      H433 x M450  ->  HijM532 / HijH533 | mut(H1)=5 [3, 8, 9, 11, 12]  mut(H2)=2 [13, 15]
+      H435 x M478  ->  HijM534 / HijH535 | mut(H1)=1 [0]  mut(H2)=4 [4, 5, 11, 18]
+      H437 x M424  ->  HijM536 / HijH537 | mut(H1)=3 [5, 10, 18]  mut(H2)=1 [0]
+      H439 x M494  ->  HijM538 / HijH539 | mut(H1)=4 [0, 2, 10, 18]  mut(H2)=3 [2, 8, 13]
+      H441 x M484  ->  HijM540 / HijH541 | mut(H1)=3 [1, 9, 10]  mut(H2)=4 [5, 9, 10, 11]
+      H443 x M400  ->  HijM542 / HijH543 | mut(H1)=5 [3, 9, 11, 14, 19]  mut(H2)=2 [6, 7]
+      H445 x M498  ->  HijM544 / HijH545 | mut(H1)=2 [13, 16]  mut(H2)=5 [0, 3, 11, 13, 18]
+      H447 x M472  ->  HijM546 / HijH547 | mut(H1)=5 [2, 4, 5, 6, 14]  mut(H2)=8 [1, 5, 6, 10, 12, 15, 17, 18]
+      H449 x M452  ->  HijM548 / HijH549 | mut(H1)=3 [5, 9, 18]  mut(H2)=3 [1, 11, 17]
+      H451 x M448  ->  HijM550 / HijH551 | mut(H1)=4 [10, 11, 15, 19]  mut(H2)=4 [1, 5, 11, 19]
+      H453 x M466  ->  HijM552 / HijH553 | mut(H1)=4 [3, 9, 14, 17]  mut(H2)=3 [1, 6, 16]
+      H455 x M492  ->  HijM554 / HijH555 | mut(H1)=3 [5, 12, 18]  mut(H2)=4 [3, 5, 10, 12]
+      H457 x M414  ->  HijM556 / HijH557 | mut(H1)=4 [0, 3, 14, 16]  mut(H2)=2 [5, 9]
+      H459 x M490  ->  HijM558 / HijH559 | mut(H1)=4 [5, 6, 8, 16]  mut(H2)=4 [10, 12, 15, 19]
+      H461 x M474  ->  HijM560 / HijH561 | mut(H1)=6 [2, 3, 12, 13, 14, 17]  mut(H2)=5 [5, 7, 9, 13, 14]
+      H463 x M476  ->  HijM562 / HijH563 | mut(H1)=8 [0, 6, 8, 10, 12, 16, 18, 19]  mut(H2)=2 [10, 12]
+      H465 x M480  ->  HijM564 / HijH565 | mut(H1)=3 [5, 6, 11]  mut(H2)=3 [6, 9, 17]
+      H467 x M464  ->  HijM566 / HijH567 | mut(H1)=5 [0, 3, 9, 10, 13]  mut(H2)=4 [2, 5, 10, 12]
+      H469 x M440  ->  HijM568 / HijH569 | mut(H1)=4 [1, 2, 14, 19]  mut(H2)=2 [10, 12]
+      H471 x M420  ->  HijM570 / HijH571 | mut(H1)=3 [6, 9, 14]  mut(H2)=2 [15, 18]
+      H473 x M404  ->  HijM572 / HijH573 | mut(H1)=1 [14]  mut(H2)=2 [6, 19]
+      H475 x M436  ->  HijM574 / HijH575 | mut(H1)=1 [1]  mut(H2)=4 [10, 13, 16, 18]
+      H477 x M462  ->  HijM576 / HijH577 | mut(H1)=2 [4, 10]  mut(H2)=2 [1, 19]
+      H479 x M470  ->  HijM578 / HijH579 | mut(H1)=0 []  mut(H2)=0 []
+      H481 x M444  ->  HijM580 / HijH581 | mut(H1)=6 [0, 1, 9, 12, 13, 16]  mut(H2)=6 [2, 6, 7, 10, 11, 18]
+      H483 x M402  ->  HijM582 / HijH583 | mut(H1)=2 [7, 10]  mut(H2)=2 [15, 18]
+      H485 x M412  ->  HijM584 / HijH585 | mut(H1)=3 [4, 5, 6]  mut(H2)=3 [6, 11, 18]
+      H487 x M432  ->  HijM586 / HijH587 | mut(H1)=0 []  mut(H2)=3 [1, 5, 12]
+      H489 x M468  ->  HijM588 / HijH589 | mut(H1)=2 [1, 15]  mut(H2)=2 [0, 13]
+      H491 x M460  ->  HijM590 / HijH591 | mut(H1)=7 [0, 3, 4, 6, 7, 16, 18]  mut(H2)=3 [1, 7, 16]
+      H493 x M496  ->  HijM592 / HijH593 | mut(H1)=4 [8, 12, 13, 19]  mut(H2)=4 [5, 7, 9, 11]
+      H495 x M430  ->  HijM594 / HijH595 | mut(H1)=3 [2, 4, 6]  mut(H2)=2 [3, 4]
+      H497 x M488  ->  HijM596 / HijH597 | mut(H1)=1 [2]  mut(H2)=2 [9, 14]
+      H499 x M422  ->  HijM598 / HijH599 | mut(H1)=4 [5, 6, 16, 17]  mut(H2)=2 [14, 15]
+
+===== GENERACIÓN 5 (n=100) =====
+[id=  500] gen=  5  madre=456 padre=401  (normal)  atributos: 9 8 9 9 8 9 9 9 9 9 9 9 9 9 8 9 9 9 8 8
+[id=  502] gen=  5  madre=426 padre=403  (normal)  atributos: 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 8 9 8 8 9
+[id=  504] gen=  5  madre=408 padre=405  (normal)  atributos: 9 9 8 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9
+[id=  506] gen=  5  madre=482 padre=407  (normal)  atributos: 9 9 8 9 9 9 9 8 9 9 9 9 9 9 9 9 8 8 8 9
+[id=  508] gen=  5  madre=454 padre=409  (normal)  atributos: 9 8 9 9 9 8 9 9 9 9 8 8 8 9 9 9 9 9 8 9
+[id=  510] gen=  5  madre=416 padre=411  (normal)  atributos: 8 8 9 9 9 9 8 9 9 8 9 9 9 9 9 9 9 9 9 9
+[id=  512] gen=  5  madre=446 padre=413  (normal)  atributos: 9 9 9 8 9 9 9 8 9 9 9 8 9 9 8 9 9 9 9 9
+[id=  514] gen=  5  madre=486 padre=415  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9 8 9 9 9 9
+[id=  516] gen=  5  madre=442 padre=417  (normal)  atributos: 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9 8 9 9 8 9
+[id=  518] gen=  5  madre=458 padre=419  (normal)  atributos: 9 8 8 9 9 9 9 9 9 8 9 9 9 9 9 9 8 9 9 9
+[id=  520] gen=  5  madre=434 padre=421  (normal)  atributos: 9 9 8 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9
+[id=  522] gen=  5  madre=428 padre=423  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 8 8 9 9 9 9 9 9 9
+[id=  524] gen=  5  madre=418 padre=425  (normal)  atributos: 9 9 9 9 9 9 9 9 9 8 9 8 8 8 9 9 9 9 8 9
+[id=  526] gen=  5  madre=406 padre=427  (normal)  atributos: 9 9 9 8 9 9 9 8 9 8 9 9 9 9 8 9 9 8 9 9
+[id=  528] gen=  5  madre=438 padre=429  (normal)  atributos: 9 9 9 9 9 9 8 8 9 9 9 8 9 9 9 9 9 9 9 9
+[id=  530] gen=  5  madre=410 padre=431  (normal)  atributos: 8 9 9 9 8 9 9 9 9 8 9 9 9 8 9 9 9 9 9 8
+[id=  532] gen=  5  madre=450 padre=433  (normal)  atributos: 9 9 9 9 9 9 8 9 9 8 8 8 9 9 8 9 8 8 9 9
+[id=  534] gen=  5  madre=478 padre=435  (normal)  atributos: 8 9 9 9 9 9 9 8 9 9 9 9 9 8 9 9 8 9 9 9
+[id=  536] gen=  5  madre=424 padre=437  (normal)  atributos: 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9 8 9 8 9
+[id=  538] gen=  5  madre=494 padre=439  (normal)  atributos: 9 9 8 9 8 8 9 9 8 8 9 9 9 8 9 9 9 9 8 8
+[id=  540] gen=  5  madre=484 padre=441  (normal)  atributos: 9 8 9 9 9 9 9 9 9 9 9 9 8 9 8 9 9 8 9 9
+[id=  542] gen=  5  madre=400 padre=443  (normal)  atributos: 9 9 9 9 9 9 9 9 9 8 9 9 9 9 8 9 9 9 9 8
+[id=  544] gen=  5  madre=498 padre=445  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  546] gen=  5  madre=472 padre=447  (normal)  atributos: 9 9 9 9 8 8 8 9 9 9 8 9 9 9 8 9 9 9 9 9
+[id=  548] gen=  5  madre=452 padre=449  (normal)  atributos: 9 9 8 8 9 9 9 9 9 8 9 9 9 9 9 9 8 9 9 9
+[id=  550] gen=  5  madre=448 padre=451  (normal)  atributos: 9 9 8 9 9 9 9 9 9 9 8 8 9 9 9 8 9 9 9 8
+[id=  552] gen=  5  madre=466 padre=453  (normal)  atributos: 8 9 8 9 9 9 8 9 9 9 9 9 9 9 8 9 9 9 9 8
+[id=  554] gen=  5  madre=492 padre=455  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 8 9
+[id=  556] gen=  5  madre=414 padre=457  (normal)  atributos: 8 9 9 8 9 9 9 9 8 8 9 9 9 9 9 9 8 9 9 9
+[id=  558] gen=  5  madre=490 padre=459  (normal)  atributos: 9 8 9 9 9 9 9 8 8 9 9 9 9 9 9 9 8 9 9 9
+[id=  560] gen=  5  madre=474 padre=461  (normal)  atributos: 8 8 8 8 9 8 8 9 9 9 8 8 9 8 9 9 9 8 8 8
+[id=  562] gen=  5  madre=476 padre=463  (normal)  atributos: 8 9 9 9 9 9 8 8 8 9 9 9 9 9 9 8 8 9 9 8
+[id=  564] gen=  5  madre=480 padre=465  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 9 8 9 9 8 8 9 9 9 8
+[id=  566] gen=  5  madre=464 padre=467  (normal)  atributos: 8 9 9 9 9 9 9 9 8 8 8 9 9 9 9 9 9 9 9 9
+[id=  568] gen=  5  madre=440 padre=469  (normal)  atributos: 8 9 8 9 8 9 9 9 9 8 9 9 9 9 8 9 9 9 9 8
+[id=  570] gen=  5  madre=420 padre=471  (normal)  atributos: 9 9 8 9 8 8 8 9 9 8 9 8 9 9 9 9 9 9 9 9
+[id=  572] gen=  5  madre=404 padre=473  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 8 9 9 9 8 9 9 8 9 9
+[id=  574] gen=  5  madre=436 padre=475  (normal)  atributos: 9 8 9 9 9 9 9 8 8 9 9 9 8 9 9 9 9 9 9 9
+[id=  576] gen=  5  madre=462 padre=477  (normal)  atributos: 9 9 9 9 8 9 8 8 9 9 9 9 8 8 9 8 9 9 9 8
+[id=  578] gen=  5  madre=470 padre=479  (normal)  atributos: 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  580] gen=  5  madre=444 padre=481  (normal)  atributos: 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 8 9 9 8
+[id=  582] gen=  5  madre=402 padre=483  (normal)  atributos: 9 9 8 9 8 9 9 8 9 8 8 9 9 9 9 8 9 9 8 9
+[id=  584] gen=  5  madre=412 padre=485  (normal)  atributos: 9 8 9 9 9 8 9 8 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  586] gen=  5  madre=432 padre=487  (normal)  atributos: 9 8 9 9 9 9 8 9 9 9 9 8 9 9 9 9 8 9 9 9
+[id=  588] gen=  5  madre=468 padre=489  (normal)  atributos: 9 9 9 8 9 9 9 9 9 9 9 8 9 8 8 9 9 9 9 9
+[id=  590] gen=  5  madre=460 padre=491  (normal)  atributos: 8 9 9 9 9 9 8 9 9 9 9 8 9 9 9 9 9 8 9 9
+[id=  592] gen=  5  madre=496 padre=493  (normal)  atributos: 9 9 9 9 9 9 9 9 8 9 9 9 9 8 9 9 9 8 9 9
+[id=  594] gen=  5  madre=430 padre=495  (normal)  atributos: 9 9 9 9 8 8 8 8 9 8 9 9 9 9 8 9 9 9 9 8
+[id=  596] gen=  5  madre=488 padre=497  (normal)  atributos: 9 9 9 9 9 8 9 8 9 9 9 9 9 9 8 9 8 9 8 9
+[id=  598] gen=  5  madre=422 padre=499  (normal)  atributos: 9 8 9 9 9 8 8 9 9 9 8 9 9 9 9 9 8 9 9 9
+[id=  501] gen=  5  madre=456 padre=401  (normal)  atributos: 8 9 8 8 8 8 8 8 9 8 9 8 8 8 8 8 8 8 8 8
+[id=  503] gen=  5  madre=426 padre=403  (normal)  atributos: 8 9 9 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 9
+[id=  505] gen=  5  madre=408 padre=405  (normal)  atributos: 9 8 8 8 9 8 9 8 8 9 8 8 8 8 8 8 8 8 8 9
+[id=  507] gen=  5  madre=482 padre=407  (normal)  atributos: 8 8 9 8 8 8 9 8 9 8 9 8 9 9 9 9 8 8 8 8
+[id=  509] gen=  5  madre=454 padre=409  (normal)  atributos: 8 8 9 9 8 8 8 9 9 8 8 8 8 8 9 8 8 8 8 8
+[id=  511] gen=  5  madre=416 padre=411  (normal)  atributos: 8 8 9 9 8 8 9 8 8 8 9 8 8 8 9 9 8 9 8 8
+[id=  513] gen=  5  madre=446 padre=413  (normal)  atributos: 8 8 8 8 8 8 8 8 9 8 8 8 9 8 9 8 8 8 8 8
+[id=  515] gen=  5  madre=486 padre=415  (normal)  atributos: 8 9 8 8 8 8 8 8 8 8 8 8 8 8 9 8 9 8 8 8
+[id=  517] gen=  5  madre=442 padre=417  (normal)  atributos: 8 8 8 8 8 8 8 9 8 9 8 8 9 8 8 8 8 8 8 8
+[id=  519] gen=  5  madre=458 padre=419  (normal)  atributos: 8 8 8 9 8 8 8 9 8 8 8 8 8 9 8 8 8 8 8 8
+[id=  521] gen=  5  madre=434 padre=421  (normal)  atributos: 9 9 9 9 8 8 8 9 8 8 8 8 8 8 9 8 8 8 9 8
+[id=  523] gen=  5  madre=428 padre=423  (normal)  atributos: 8 8 8 9 8 9 9 8 8 8 8 8 8 8 8 8 9 8 8 8
+[id=  525] gen=  5  madre=418 padre=425  (normal)  atributos: 9 9 9 9 8 9 8 8 8 9 9 8 8 8 8 8 8 8 8 8
+[id=  527] gen=  5  madre=406 padre=427  (normal)  atributos: 9 8 8 9 8 9 9 9 8 8 8 8 9 8 8 8 8 8 8 8
+[id=  529] gen=  5  madre=438 padre=429  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 8 9 8 9 8 9 8 8 8 8
+[id=  531] gen=  5  madre=410 padre=431  (normal)  atributos: 9 9 9 8 8 8 8 8 8 8 9 8 8 8 8 8 8 9 8 8
+[id=  533] gen=  5  madre=450 padre=433  (normal)  atributos: 8 8 9 8 9 8 8 9 8 8 8 8 8 8 8 9 8 8 8 8
+[id=  535] gen=  5  madre=478 padre=435  (normal)  atributos: 8 9 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 9 8
+[id=  537] gen=  5  madre=424 padre=437  (normal)  atributos: 9 8 9 8 8 8 9 8 8 9 8 8 8 8 8 8 8 8 9 9
+[id=  539] gen=  5  madre=494 padre=439  (normal)  atributos: 8 8 9 8 8 8 8 8 9 8 8 8 8 9 8 8 9 8 8 8
+[id=  541] gen=  5  madre=484 padre=441  (normal)  atributos: 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8 9 8 8 8 8
+[id=  543] gen=  5  madre=400 padre=443  (normal)  atributos: 8 8 8 8 8 9 8 8 8 8 8 9 8 8 8 8 9 8 8 8
+[id=  545] gen=  5  madre=498 padre=445  (normal)  atributos: 8 8 9 8 8 9 8 9 8 8 8 9 9 9 8 9 8 8 9 8
+[id=  547] gen=  5  madre=472 padre=447  (normal)  atributos: 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 9 8 9 9 8
+[id=  549] gen=  5  madre=452 padre=449  (normal)  atributos: 8 8 8 8 9 8 8 9 8 8 8 9 8 9 9 8 8 8 8 8
+[id=  551] gen=  5  madre=448 padre=451  (normal)  atributos: 8 9 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 9
+[id=  553] gen=  5  madre=466 padre=453  (normal)  atributos: 8 8 8 8 9 8 8 8 8 9 8 8 8 8 8 8 8 9 8 8
+[id=  555] gen=  5  madre=492 padre=455  (normal)  atributos: 8 8 9 9 9 8 8 8 8 8 9 8 9 9 8 8 8 8 8 9
+[id=  557] gen=  5  madre=414 padre=457  (normal)  atributos: 9 8 9 8 8 8 8 8 8 9 8 9 8 8 8 8 9 8 8 8
+[id=  559] gen=  5  madre=490 padre=459  (normal)  atributos: 8 8 8 8 9 9 8 8 9 8 9 8 8 8 8 8 8 8 8 9
+[id=  561] gen=  5  madre=474 padre=461  (normal)  atributos: 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  563] gen=  5  madre=476 padre=463  (normal)  atributos: 8 8 8 8 8 8 8 8 8 9 9 8 8 8 8 8 8 9 9 8
+[id=  565] gen=  5  madre=480 padre=465  (normal)  atributos: 8 9 8 9 8 9 9 8 8 9 8 8 8 8 8 8 8 8 8 8
+[id=  567] gen=  5  madre=464 padre=467  (normal)  atributos: 8 8 8 9 9 8 8 8 8 8 9 8 8 9 9 8 8 8 9 8
+[id=  569] gen=  5  madre=440 padre=469  (normal)  atributos: 8 8 8 8 8 8 9 8 9 8 8 8 8 8 8 8 8 8 8 9
+[id=  571] gen=  5  madre=420 padre=471  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 8 8 8 9 8 8 9 8 8 8
+[id=  573] gen=  5  madre=404 padre=473  (normal)  atributos: 9 8 8 8 9 8 9 8 9 8 8 8 9 9 8 9 8 8 9 9
+[id=  575] gen=  5  madre=436 padre=475  (normal)  atributos: 9 9 8 8 9 8 8 8 8 9 8 8 8 9 8 8 9 9 8 8
+[id=  577] gen=  5  madre=462 padre=477  (normal)  atributos: 8 8 8 8 9 9 8 8 9 9 8 8 8 8 9 8 8 8 9 8
+[id=  579] gen=  5  madre=470 padre=479  (normal)  atributos: 8 8 8 8 8 8 8 9 8 8 8 8 9 8 8 9 8 8 8 8
+[id=  581] gen=  5  madre=444 padre=481  (normal)  atributos: 9 8 9 9 8 8 8 9 9 8 9 8 9 8 8 8 8 8 9 8
+[id=  583] gen=  5  madre=402 padre=483  (normal)  atributos: 8 8 8 8 8 8 8 9 9 8 8 8 8 8 8 8 8 8 8 8
+[id=  585] gen=  5  madre=412 padre=485  (normal)  atributos: 8 8 8 9 8 8 9 8 8 9 8 9 8 9 8 8 8 8 9 8
+[id=  587] gen=  5  madre=432 padre=487  (normal)  atributos: 8 8 8 9 8 9 8 8 8 8 8 8 9 8 8 8 8 8 9 9
+[id=  589] gen=  5  madre=468 padre=489  (normal)  atributos: 9 8 8 8 8 8 8 8 8 8 8 8 9 9 8 9 8 8 8 8
+[id=  591] gen=  5  madre=460 padre=491  (normal)  atributos: 8 8 8 8 8 8 9 8 8 8 9 8 8 8 8 8 9 8 8 8
+[id=  593] gen=  5  madre=496 padre=493  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 9 9 8 8 9 8 8 8 8 8
+[id=  595] gen=  5  madre=430 padre=495  (normal)  atributos: 8 8 9 8 9 8 8 8 9 8 8 8 8 9 8 8 8 8 8 8
+[id=  597] gen=  5  madre=488 padre=497  (normal)  atributos: 8 8 8 8 8 8 9 8 8 8 9 8 8 8 8 9 8 8 8 9
+[id=  599] gen=  5  madre=422 padre=499  (normal)  atributos: 8 8 9 9 9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+  Mutaciones totales: hija(s)=166, hijo(s)=155
+
+== Generación 6
+  Parejas formadas (Hombre x Mujer) [* = relajado/pivote]:
+      H501 x M524  ->  HijM600 / HijH601 | mut(H1)=3 [12, 13, 17]  mut(H2)=7 [3, 7, 8, 9, 10, 16, 19]
+      H503 x M588  ->  HijM602 / HijH603 | mut(H1)=3 [0, 10, 19]  mut(H2)=4 [12, 14, 17, 19]
+      H505 x M584  ->  HijM604 / HijH605 | mut(H1)=3 [2, 3, 19]  mut(H2)=4 [0, 10, 14, 16]
+      H507 x M572  ->  HijM606 / HijH607 | mut(H1)=5 [10, 14, 17, 18, 19]  mut(H2)=2 [1, 15]
+      H509 x M592  ->  HijM608 / HijH609 | mut(H1)=3 [5, 14, 17]  mut(H2)=4 [3, 10, 15, 17]
+      H511 x M550  ->  HijM610 / HijH611 | mut(H1)=5 [4, 13, 14, 17, 19]  mut(H2)=3 [1, 11, 13]
+      H513 x M508  ->  HijM612 / HijH613 | mut(H1)=5 [1, 7, 9, 16, 17]  mut(H2)=2 [6, 8]
+      H515 x M528  ->  HijM614 / HijH615 | mut(H1)=4 [0, 1, 9, 12]  mut(H2)=4 [5, 8, 12, 17]
+      H517 x M590  ->  HijM616 / HijH617 | mut(H1)=1 [2]  mut(H2)=4 [2, 4, 16, 18]
+      H519 x M544  ->  HijM618 / HijH619 | mut(H1)=3 [1, 7, 9]  mut(H2)=1 [11]
+      H521 x M504  ->  HijM620 / HijH621 | mut(H1)=5 [0, 4, 7, 11, 14]  mut(H2)=5 [3, 4, 9, 10, 15]
+      H523 x M570  ->  HijM622 / HijH623 | mut(H1)=4 [3, 9, 15, 16]  mut(H2)=2 [13, 18]
+      H525 x M506  ->  HijM624 / HijH625 | mut(H1)=6 [0, 6, 7, 12, 13, 19]  mut(H2)=1 [13]
+      H527 x M548  ->  HijM626 / HijH627 | mut(H1)=3 [9, 15, 18]  mut(H2)=2 [10, 19]
+      H529 x M540  ->  HijM628 / HijH629 | mut(H1)=2 [1, 15]  mut(H2)=6 [0, 3, 6, 8, 10, 14]
+      H531 x M560  ->  HijM630 / HijH631 | mut(H1)=4 [8, 10, 13, 16]  mut(H2)=0 []
+      H533 x M546  ->  HijM632 / HijH633 | mut(H1)=3 [9, 10, 15]  mut(H2)=1 [5]
+      H535 x M538  ->  HijM634 / HijH635 | mut(H1)=4 [6, 7, 17, 18]  mut(H2)=2 [10, 15]
+      H537 x M562  ->  HijM636 / HijH637 | mut(H1)=2 [8, 14]  mut(H2)=1 [16]
+      H539 x M502  ->  HijM638 / HijH639 | mut(H1)=2 [7, 11]  mut(H2)=5 [6, 9, 12, 14, 15]
+      H541 x M598  ->  HijM640 / HijH641 | mut(H1)=4 [8, 11, 12, 18]  mut(H2)=5 [0, 5, 6, 16, 17]
+      H543 x M534  ->  HijM642 / HijH643 | mut(H1)=6 [4, 7, 10, 11, 15, 16]  mut(H2)=4 [1, 13, 18, 19]
+      H545 x M522  ->  HijM644 / HijH645 | mut(H1)=3 [8, 16, 17]  mut(H2)=3 [12, 15, 17]
+      H547 x M514  ->  HijM646 / HijH647 | mut(H1)=2 [5, 9]  mut(H2)=3 [4, 6, 9]
+      H549 x M512  ->  HijM648 / HijH649 | mut(H1)=2 [2, 16]  mut(H2)=4 [3, 9, 12, 17]
+      H551 x M564  ->  HijM650 / HijH651 | mut(H1)=3 [1, 14, 19]  mut(H2)=2 [12, 18]
+      H553 x M568  ->  HijM652 / HijH653 | mut(H1)=3 [7, 13, 19]  mut(H2)=3 [1, 4, 18]
+      H555 x M594  ->  HijM654 / HijH655 | mut(H1)=2 [9, 15]  mut(H2)=5 [7, 8, 14, 15, 18]
+      H557 x M532  ->  HijM656 / HijH657 | mut(H1)=3 [3, 15, 19]  mut(H2)=3 [1, 3, 6]
+      H559 x M578  ->  HijM658 / HijH659 | mut(H1)=1 [4]  mut(H2)=5 [1, 2, 3, 11, 19]
+      H561 x M566  ->  HijM660 / HijH661 | mut(H1)=2 [6, 19]  mut(H2)=0 []
+      H563 x M526  ->  HijM662 / HijH663 | mut(H1)=3 [1, 14, 15]  mut(H2)=2 [3, 14]
+      H565 x M510  ->  HijM664 / HijH665 | mut(H1)=4 [0, 10, 13, 17]  mut(H2)=2 [8, 13]
+      H567 x M576  ->  HijM666 / HijH667 | mut(H1)=0 []  mut(H2)=4 [4, 10, 11, 16]
+      H569 x M596  ->  HijM668 / HijH669 | mut(H1)=4 [6, 9, 12, 17]  mut(H2)=1 [4]
+      H571 x M518  ->  HijM670 / HijH671 | mut(H1)=3 [2, 16, 18]  mut(H2)=1 [14]
+      H573 x M520  ->  HijM672 / HijH673 | mut(H1)=4 [5, 8, 10, 15]  mut(H2)=1 [12]
+      H575 x M530  ->  HijM674 / HijH675 | mut(H1)=4 [2, 5, 7, 11]  mut(H2)=2 [16, 18]
+      H577 x M516  ->  HijM676 / HijH677 | mut(H1)=4 [0, 3, 5, 16]  mut(H2)=2 [4, 17]
+      H579 x M536  ->  HijM678 / HijH679 | mut(H1)=7 [2, 3, 4, 8, 9, 11, 14]  mut(H2)=2 [10, 19]
+      H581 x M500  ->  HijM680 / HijH681 | mut(H1)=5 [4, 5, 8, 9, 12]  mut(H2)=1 [15]
+      H583 x M580  ->  HijM682 / HijH683 | mut(H1)=3 [0, 2, 3]  mut(H2)=1 [16]
+      H585 x M554  ->  HijM684 / HijH685 | mut(H1)=1 [14]  mut(H2)=5 [5, 11, 12, 16, 17]
+      H587 x M552  ->  HijM686 / HijH687 | mut(H1)=2 [4, 18]  mut(H2)=3 [2, 5, 10]
+      H589 x M556  ->  HijM688 / HijH689 | mut(H1)=3 [8, 10, 11]  mut(H2)=2 [9, 10]
+      H591 x M542  ->  HijM690 / HijH691 | mut(H1)=3 [11, 15, 16]  mut(H2)=1 [2]
+      H593 x M582  ->  HijM692 / HijH693 | mut(H1)=6 [4, 5, 11, 13, 14, 17]  mut(H2)=3 [9, 14, 19]
+      H595 x M558  ->  HijM694 / HijH695 | mut(H1)=1 [2]  mut(H2)=1 [5]
+      H597 x M586  ->  HijM696 / HijH697 | mut(H1)=2 [6, 8]  mut(H2)=3 [14, 15, 19]
+      H599 x M574  ->  HijM698 / HijH699 | mut(H1)=4 [0, 3, 4, 11]  mut(H2)=2 [8, 15]
+
+===== GENERACIÓN 6 (n=100) =====
+[id=  600] gen=  6  madre=524 padre=501  (normal)  atributos: 9 9 9 9 9 9 9 9 9 8 9 8 9 8 9 9 9 9 8 9
+[id=  602] gen=  6  madre=588 padre=503  (normal)  atributos: 9 9 9 8 9 9 9 9 9 9 9 8 9 8 8 9 9 9 9 8
+[id=  604] gen=  6  madre=584 padre=505  (normal)  atributos: 9 8 8 8 9 8 9 8 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  606] gen=  6  madre=572 padre=507  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9 9 8
+[id=  608] gen=  6  madre=592 padre=509  (normal)  atributos: 9 9 9 9 9 8 9 9 9 9 9 9 9 8 9 9 9 9 9 9
+[id=  610] gen=  6  madre=550 padre=511  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 8 9 9 8 9 9 8 9 8
+[id=  612] gen=  6  madre=508 padre=513  (normal)  atributos: 9 8 9 9 9 8 9 8 9 9 8 8 9 9 9 9 9 8 8 9
+[id=  614] gen=  6  madre=528 padre=515  (normal)  atributos: 8 9 9 9 9 9 8 8 9 9 9 8 9 9 9 9 9 9 9 9
+[id=  616] gen=  6  madre=590 padre=517  (normal)  atributos: 8 9 9 9 9 9 8 9 9 9 9 8 9 9 9 9 9 8 9 9
+[id=  618] gen=  6  madre=544 padre=519  (normal)  atributos: 9 8 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  620] gen=  6  madre=504 padre=521  (normal)  atributos: 8 9 9 9 8 9 9 9 9 9 9 8 8 9 9 9 9 9 9 9
+[id=  622] gen=  6  madre=570 padre=523  (normal)  atributos: 9 9 8 8 8 9 9 9 9 8 9 8 9 9 9 8 8 9 9 9
+[id=  624] gen=  6  madre=506 padre=525  (normal)  atributos: 9 9 9 9 9 9 8 8 9 9 9 9 8 8 9 9 8 8 8 9
+[id=  626] gen=  6  madre=548 padre=527  (normal)  atributos: 9 9 8 9 9 9 9 9 9 8 9 9 9 9 9 9 8 9 8 9
+[id=  628] gen=  6  madre=540 padre=529  (normal)  atributos: 9 8 9 9 9 9 9 9 9 9 9 9 8 9 8 9 9 8 9 9
+[id=  630] gen=  6  madre=560 padre=531  (normal)  atributos: 9 9 9 8 9 8 8 9 9 9 9 8 9 8 9 9 8 9 8 8
+[id=  632] gen=  6  madre=546 padre=533  (normal)  atributos: 9 9 9 9 9 8 8 9 9 9 9 9 9 9 8 8 9 9 9 9
+[id=  634] gen=  6  madre=538 padre=535  (normal)  atributos: 9 9 8 9 8 8 9 9 8 8 9 9 9 8 9 9 9 8 9 8
+[id=  636] gen=  6  madre=562 padre=537  (normal)  atributos: 9 9 9 9 9 9 9 8 8 9 9 9 9 9 8 8 8 9 9 9
+[id=  638] gen=  6  madre=502 padre=539  (normal)  atributos: 9 9 9 9 8 9 9 8 9 9 9 9 9 9 9 8 9 8 8 9
+[id=  640] gen=  6  madre=598 padre=541  (normal)  atributos: 9 8 9 9 9 8 8 9 9 9 8 9 8 9 9 9 8 9 8 9
+[id=  642] gen=  6  madre=534 padre=543  (normal)  atributos: 8 9 9 9 9 9 9 8 9 9 9 8 9 8 9 8 9 9 9 9
+[id=  644] gen=  6  madre=522 padre=545  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9
+[id=  646] gen=  6  madre=514 padre=547  (normal)  atributos: 9 9 9 9 9 9 9 9 9 8 9 9 8 9 9 9 9 9 9 9
+[id=  648] gen=  6  madre=512 padre=549  (normal)  atributos: 9 9 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  650] gen=  6  madre=564 padre=551  (normal)  atributos: 9 8 9 9 9 9 8 9 9 9 9 8 9 9 8 8 9 9 9 8
+[id=  652] gen=  6  madre=568 padre=553  (normal)  atributos: 8 9 8 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9
+[id=  654] gen=  6  madre=594 padre=555  (normal)  atributos: 9 9 9 9 9 8 8 8 9 9 9 9 9 9 8 8 9 9 9 9
+[id=  656] gen=  6  madre=532 padre=557  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 8 9 9 9 8 9 9 8 9 9
+[id=  658] gen=  6  madre=578 padre=559  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  660] gen=  6  madre=566 padre=561  (normal)  atributos: 8 9 9 9 9 9 9 9 8 8 8 9 9 9 9 9 9 9 9 8
+[id=  662] gen=  6  madre=526 padre=563  (normal)  atributos: 9 9 9 8 9 9 9 8 9 9 9 9 9 9 9 8 9 9 9 9
+[id=  664] gen=  6  madre=510 padre=565  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9
+[id=  666] gen=  6  madre=576 padre=567  (normal)  atributos: 9 9 9 9 9 9 8 8 9 9 9 9 8 9 9 8 9 9 9 8
+[id=  668] gen=  6  madre=596 padre=569  (normal)  atributos: 9 9 9 9 9 8 9 8 9 8 9 9 8 9 8 9 8 8 8 9
+[id=  670] gen=  6  madre=518 padre=571  (normal)  atributos: 9 8 9 9 9 9 9 9 9 8 9 9 9 9 9 9 8 9 9 9
+[id=  672] gen=  6  madre=520 padre=573  (normal)  atributos: 9 9 8 9 9 9 9 9 9 9 8 9 9 9 8 9 9 9 9 9
+[id=  674] gen=  6  madre=530 padre=575  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9 8
+[id=  676] gen=  6  madre=516 padre=577  (normal)  atributos: 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 8 9 9 9
+[id=  678] gen=  6  madre=536 padre=579  (normal)  atributos: 9 9 9 9 8 9 9 9 9 8 9 8 9 9 9 9 8 9 8 9
+[id=  680] gen=  6  madre=500 padre=581  (normal)  atributos: 9 8 9 9 9 9 9 9 8 8 9 9 8 9 8 9 9 9 9 8
+[id=  682] gen=  6  madre=580 padre=583  (normal)  atributos: 9 9 8 8 9 9 9 9 9 9 9 9 9 9 9 8 8 9 9 8
+[id=  684] gen=  6  madre=554 padre=585  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 8 9 8 9 9 9 9 9
+[id=  686] gen=  6  madre=552 padre=587  (normal)  atributos: 8 9 8 9 8 9 8 9 9 9 9 9 9 9 8 9 9 9 8 9
+[id=  688] gen=  6  madre=556 padre=589  (normal)  atributos: 9 9 9 8 9 9 9 9 8 8 9 9 9 9 9 9 8 9 9 9
+[id=  690] gen=  6  madre=542 padre=591  (normal)  atributos: 9 9 9 9 9 9 9 9 9 8 9 9 9 9 8 9 8 9 9 8
+[id=  692] gen=  6  madre=582 padre=593  (normal)  atributos: 9 9 9 9 8 9 9 8 9 8 9 8 9 9 9 8 9 8 8 9
+[id=  694] gen=  6  madre=558 padre=595  (normal)  atributos: 9 8 8 9 9 9 9 8 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  696] gen=  6  madre=586 padre=597  (normal)  atributos: 9 8 9 9 9 9 9 9 9 9 9 8 9 9 9 9 8 9 9 9
+[id=  698] gen=  6  madre=574 padre=599  (normal)  atributos: 8 8 9 9 9 9 9 8 8 9 9 9 8 9 9 9 9 9 9 9
+[id=  601] gen=  6  madre=524 padre=501  (normal)  atributos: 8 9 8 8 8 8 8 8 9 9 8 8 8 8 8 8 8 8 8 9
+[id=  603] gen=  6  madre=588 padre=503  (normal)  atributos: 8 9 9 8 8 8 8 8 8 8 9 8 9 8 8 8 8 8 8 9
+[id=  605] gen=  6  madre=584 padre=505  (normal)  atributos: 8 8 8 8 9 8 9 8 8 9 9 8 8 8 9 8 9 8 8 9
+[id=  607] gen=  6  madre=572 padre=507  (normal)  atributos: 8 9 9 8 8 8 9 8 9 8 8 8 9 9 8 9 8 8 8 8
+[id=  609] gen=  6  madre=592 padre=509  (normal)  atributos: 8 8 9 9 8 8 8 9 8 8 9 8 8 8 9 9 8 9 8 8
+[id=  611] gen=  6  madre=550 padre=511  (normal)  atributos: 8 9 8 9 8 8 9 8 8 8 8 8 8 9 9 8 8 9 8 8
+[id=  613] gen=  6  madre=508 padre=513  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 8 8 8 8 8
+[id=  615] gen=  6  madre=528 padre=515  (normal)  atributos: 8 9 8 8 8 8 8 8 8 8 8 8 8 8 9 8 9 9 8 8
+[id=  617] gen=  6  madre=590 padre=517  (normal)  atributos: 8 8 8 8 9 8 8 9 8 9 8 8 9 8 8 8 8 8 8 8
+[id=  619] gen=  6  madre=544 padre=519  (normal)  atributos: 8 8 8 9 8 8 8 9 8 8 8 9 8 9 8 8 8 8 8 8
+[id=  621] gen=  6  madre=504 padre=521  (normal)  atributos: 9 9 8 9 8 8 8 9 8 9 8 8 8 8 9 8 8 8 9 8
+[id=  623] gen=  6  madre=570 padre=523  (normal)  atributos: 8 8 8 9 8 8 8 8 8 8 8 8 8 9 8 8 9 8 9 8
+[id=  625] gen=  6  madre=506 padre=525  (normal)  atributos: 9 9 8 9 8 9 8 8 8 9 9 8 8 8 8 8 8 8 8 8
+[id=  627] gen=  6  madre=548 padre=527  (normal)  atributos: 9 8 8 8 8 9 9 9 8 8 9 8 9 8 8 8 8 8 8 8
+[id=  629] gen=  6  madre=540 padre=529  (normal)  atributos: 9 8 9 8 8 8 8 8 8 8 8 9 8 9 9 9 8 8 8 8
+[id=  631] gen=  6  madre=560 padre=531  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  633] gen=  6  madre=546 padre=533  (normal)  atributos: 8 8 9 8 8 8 8 9 8 8 8 8 8 8 8 9 8 8 8 8
+[id=  635] gen=  6  madre=538 padre=535  (normal)  atributos: 8 9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  637] gen=  6  madre=562 padre=537  (normal)  atributos: 8 8 9 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 9 8
+[id=  639] gen=  6  madre=502 padre=539  (normal)  atributos: 8 8 9 8 8 8 9 8 9 9 8 8 8 9 9 9 9 8 8 8
+[id=  641] gen=  6  madre=598 padre=541  (normal)  atributos: 8 8 8 8 8 8 9 8 9 8 8 8 8 8 8 9 9 8 8 8
+[id=  643] gen=  6  madre=534 padre=543  (normal)  atributos: 8 8 8 8 8 9 8 8 8 8 8 9 8 8 8 8 8 8 9 8
+[id=  645] gen=  6  madre=522 padre=545  (normal)  atributos: 8 8 9 8 8 9 8 9 8 8 8 8 8 9 8 9 8 9 9 8
+[id=  647] gen=  6  madre=514 padre=547  (normal)  atributos: 8 8 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8 9 9 8
+[id=  649] gen=  6  madre=512 padre=549  (normal)  atributos: 8 8 8 8 9 8 8 8 8 8 8 8 9 9 8 8 8 9 8 8
+[id=  651] gen=  6  madre=564 padre=551  (normal)  atributos: 8 9 8 8 8 8 8 8 8 8 9 8 9 8 8 8 8 8 8 8
+[id=  653] gen=  6  madre=568 padre=553  (normal)  atributos: 8 8 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8 9 8 8
+[id=  655] gen=  6  madre=594 padre=555  (normal)  atributos: 8 8 9 9 8 8 8 9 9 8 9 8 9 9 9 9 8 8 9 8
+[id=  657] gen=  6  madre=532 padre=557  (normal)  atributos: 9 9 9 8 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  659] gen=  6  madre=578 padre=559  (normal)  atributos: 8 9 8 9 8 9 8 8 9 8 9 8 8 8 8 8 8 8 8 8
+[id=  661] gen=  6  madre=566 padre=561  (normal)  atributos: 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  663] gen=  6  madre=526 padre=563  (normal)  atributos: 8 8 8 9 8 8 8 8 8 8 9 8 8 8 8 8 8 8 9 8
+[id=  665] gen=  6  madre=510 padre=565  (normal)  atributos: 8 8 8 9 8 9 8 8 9 8 8 8 8 9 8 8 8 8 8 8
+[id=  667] gen=  6  madre=576 padre=567  (normal)  atributos: 8 8 8 9 9 8 8 8 8 8 9 8 8 8 9 8 8 8 9 8
+[id=  669] gen=  6  madre=596 padre=569  (normal)  atributos: 8 8 8 8 8 8 9 8 9 8 8 8 8 8 8 8 8 8 8 9
+[id=  671] gen=  6  madre=518 padre=571  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8
+[id=  673] gen=  6  madre=520 padre=573  (normal)  atributos: 9 8 8 8 9 8 9 8 9 8 8 8 8 9 8 9 8 8 9 9
+[id=  675] gen=  6  madre=530 padre=575  (normal)  atributos: 8 9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 9 8
+[id=  677] gen=  6  madre=516 padre=577  (normal)  atributos: 8 8 8 8 8 9 8 8 8 9 8 8 8 8 9 8 8 8 8 8
+[id=  679] gen=  6  madre=536 padre=579  (normal)  atributos: 8 8 8 8 8 8 8 9 8 8 9 8 9 8 8 9 8 8 8 8
+[id=  681] gen=  6  madre=500 padre=581  (normal)  atributos: 9 8 9 9 8 8 8 9 9 8 9 8 9 8 8 8 8 8 8 8
+[id=  683] gen=  6  madre=580 padre=583  (normal)  atributos: 8 8 8 8 8 8 8 9 9 8 8 8 8 8 8 8 8 8 8 8
+[id=  685] gen=  6  madre=554 padre=585  (normal)  atributos: 8 8 8 9 8 9 9 8 8 9 8 9 8 9 8 8 8 8 8 8
+[id=  687] gen=  6  madre=552 padre=587  (normal)  atributos: 8 8 9 9 8 9 8 8 8 8 9 8 9 8 8 8 8 8 9 8
+[id=  689] gen=  6  madre=556 padre=589  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 9 8 9 9 8 9 8 8 8 8
+[id=  691] gen=  6  madre=542 padre=591  (normal)  atributos: 8 8 8 8 8 8 9 8 8 8 9 8 8 8 8 8 9 8 8 8
+[id=  693] gen=  6  madre=582 padre=593  (normal)  atributos: 8 8 8 8 8 8 8 8 8 9 8 9 8 8 9 8 8 8 8 9
+[id=  695] gen=  6  madre=558 padre=595  (normal)  atributos: 8 8 9 8 9 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8
+[id=  697] gen=  6  madre=586 padre=597  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 8
+[id=  699] gen=  6  madre=574 padre=599  (normal)  atributos: 8 8 9 9 9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+  Mutaciones totales: hija(s)=164, hijo(s)=136
+
+== Generación 7
+  Parejas formadas (Hombre x Mujer) [* = relajado/pivote]:
+      H601 x M616  ->  HijM700 / HijH701 | mut(H1)=3 [8, 14, 19]  mut(H2)=4 [0, 2, 6, 7]
+      H603 x M610  ->  HijM702 / HijH703 | mut(H1)=3 [8, 14, 19]  mut(H2)=3 [7, 8, 12]
+      H605 x M600  ->  HijM704 / HijH705 | mut(H1)=4 [7, 16, 17, 18]  mut(H2)=4 [1, 12, 14, 19]
+      H607 x M694  ->  HijM706 / HijH707 | mut(H1)=1 [6]  mut(H2)=4 [3, 4, 12, 19]
+      H609 x M626  ->  HijM708 / HijH709 | mut(H1)=2 [5, 9]  mut(H2)=4 [1, 4, 16, 18]
+      H611 x M698  ->  HijM710 / HijH711 | mut(H1)=5 [0, 3, 4, 5, 8]  mut(H2)=3 [2, 6, 10]
+      H613 x M678  ->  HijM712 / HijH713 | mut(H1)=6 [2, 3, 4, 7, 10, 13]  mut(H2)=4 [2, 13, 15, 19]
+      H615 x M632  ->  HijM714 / HijH715 | mut(H1)=4 [3, 5, 12, 13]  mut(H2)=6 [2, 8, 10, 11, 14, 15]
+      H617 x M640  ->  HijM716 / HijH717 | mut(H1)=4 [3, 4, 6, 18]  mut(H2)=3 [16, 17, 19]
+      H619 x M628  ->  HijM718 / HijH719 | mut(H1)=7 [0, 1, 2, 7, 12, 14, 19]  mut(H2)=2 [14, 16]
+      H621 x M618  ->  HijM720 / HijH721 | mut(H1)=4 [3, 7, 14, 15]  mut(H2)=2 [0, 9]
+      H623 x M690  ->  HijM722 / HijH723 | mut(H1)=2 [6, 19]  mut(H2)=6 [5, 8, 9, 10, 13, 14]
+      H625 x M680  ->  HijM724 / HijH725 | mut(H1)=5 [2, 10, 12, 14, 18]  mut(H2)=1 [17]
+      H627 x M658  ->  HijM726 / HijH727 | mut(H1)=5 [4, 7, 8, 11, 17]  mut(H2)=2 [4, 17]
+      H629 x M674  ->  HijM728 / HijH729 | mut(H1)=2 [3, 5]  mut(H2)=5 [1, 3, 4, 15, 19]
+      H631 x M684  ->  HijM730 / HijH731 | mut(H1)=1 [17]  mut(H2)=5 [2, 10, 13, 14, 19]
+      H633 x M636  ->  HijM732 / HijH733 | mut(H1)=0 []  mut(H2)=3 [6, 7, 15]
+      H635 x M604  ->  HijM734 / HijH735 | mut(H1)=6 [4, 5, 11, 12, 18, 19]  mut(H2)=2 [6, 7]
+      H637 x M644  ->  HijM736 / HijH737 | mut(H1)=3 [10, 12, 14]  mut(H2)=3 [4, 8, 15]
+      H639 x M686  ->  HijM738 / HijH739 | mut(H1)=1 [4]  mut(H2)=5 [0, 1, 15, 17, 19]
+      H641 x M662  ->  HijM740 / HijH741 | mut(H1)=0 []  mut(H2)=5 [4, 7, 12, 17, 19]
+      H643 x M624  ->  HijM742 / HijH743 | mut(H1)=1 [19]  mut(H2)=1 [2]
+      H645 x M646  ->  HijM744 / HijH745 | mut(H1)=5 [2, 5, 6, 10, 19]  mut(H2)=0 []
+      H647 x M602  ->  HijM746 / HijH747 | mut(H1)=3 [0, 2, 11]  mut(H2)=2 [2, 7]
+      H649 x M660  ->  HijM748 / HijH749 | mut(H1)=2 [16, 19]  mut(H2)=3 [12, 13, 17]
+      H651 x M634  ->  HijM750 / HijH751 | mut(H1)=4 [2, 3, 11, 15]  mut(H2)=4 [9, 10, 11, 18]
+      H653 x M676  ->  HijM752 / HijH753 | mut(H1)=4 [3, 5, 13, 16]  mut(H2)=2 [2, 4]
+      H655 x M688  ->  HijM754 / HijH755 | mut(H1)=2 [2, 6]  mut(H2)=5 [0, 1, 3, 14, 18]
+      H657 x M654  ->  HijM756 / HijH757 | mut(H1)=3 [6, 10, 17]  mut(H2)=4 [4, 6, 9, 17]
+      H659 x M668  ->  HijM758 / HijH759 | mut(H1)=4 [3, 8, 12, 15]  mut(H2)=1 [16]
+      H661 x M606  ->  HijM760 / HijH761 | mut(H1)=3 [8, 11, 15]  mut(H2)=2 [0, 4]
+      H663 x M682  ->  HijM762 / HijH763 | mut(H1)=3 [0, 4, 14]  mut(H2)=2 [0, 1]
+      H665 x M652  ->  HijM764 / HijH765 | mut(H1)=1 [10]  mut(H2)=3 [1, 17, 18]
+      H667 x M670  ->  HijM766 / HijH767 | mut(H1)=2 [0, 7]  mut(H2)=2 [15, 18]
+      H669 x M614  ->  HijM768 / HijH769 | mut(H1)=2 [8, 10]  mut(H2)=5 [1, 5, 7, 8, 19]
+      H671 x M638  ->  HijM770 / HijH771 | mut(H1)=3 [1, 13, 15]  mut(H2)=2 [6, 16]
+      H673 x M650  ->  HijM772 / HijH773 | mut(H1)=2 [7, 8]  mut(H2)=5 [1, 9, 11, 16, 19]
+      H675 x M648  ->  HijM774 / HijH775 | mut(H1)=3 [14, 15, 17]  mut(H2)=6 [3, 4, 5, 6, 10, 14]
+      H677 x M656  ->  HijM776 / HijH777 | mut(H1)=3 [0, 14, 18]  mut(H2)=1 [1]
+      H679 x M672  ->  HijM778 / HijH779 | mut(H1)=2 [7, 18]  mut(H2)=3 [3, 12, 18]
+      H681 x M692  ->  HijM780 / HijH781 | mut(H1)=4 [3, 6, 8, 16]  mut(H2)=3 [5, 8, 19]
+      H683 x M622  ->  HijM782 / HijH783 | mut(H1)=1 [1]  mut(H2)=6 [0, 4, 8, 13, 16, 19]
+      H685 x M696  ->  HijM784 / HijH785 | mut(H1)=1 [1]  mut(H2)=5 [0, 3, 6, 13, 14]
+      H687 x M630  ->  HijM786 / HijH787 | mut(H1)=0 []  mut(H2)=4 [4, 6, 15, 16]
+      H689 x M620  ->  HijM788 / HijH789 | mut(H1)=4 [3, 5, 15, 17]  mut(H2)=0 []
+      H691 x M666  ->  HijM790 / HijH791 | mut(H1)=2 [9, 17]  mut(H2)=2 [11, 19]
+      H693 x M612  ->  HijM792 / HijH793 | mut(H1)=2 [2, 11]  mut(H2)=2 [1, 6]
+      H695 x M664  ->  HijM794 / HijH795 | mut(H1)=3 [4, 7, 18]  mut(H2)=4 [5, 6, 12, 16]
+      H697 x M642  ->  HijM796 / HijH797 | mut(H1)=2 [5, 19]  mut(H2)=3 [1, 15, 17]
+      H699 x M608  ->  HijM798 / HijH799 | mut(H1)=0 []  mut(H2)=5 [5, 6, 10, 12, 19]
+
+===== GENERACIÓN 7 (n=100) =====
+[id=  700] gen=  7  madre=616 padre=601  (normal)  atributos: 8 9 9 9 9 9 8 9 8 9 9 8 9 9 8 9 9 8 9 8
+[id=  702] gen=  7  madre=610 padre=603  (normal)  atributos: 9 9 9 9 9 9 9 9 8 9 9 8 9 9 9 9 9 8 9 9
+[id=  704] gen=  7  madre=600 padre=605  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 8 9 8 9 9 8 9 8 9
+[id=  706] gen=  7  madre=694 padre=607  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  708] gen=  7  madre=626 padre=609  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9 8 9
+[id=  710] gen=  7  madre=698 padre=611  (normal)  atributos: 9 9 9 8 9 8 9 8 8 9 9 9 8 9 9 9 9 9 9 9
+[id=  712] gen=  7  madre=678 padre=613  (normal)  atributos: 9 9 9 8 9 9 9 9 9 8 9 8 9 9 9 9 8 9 8 9
+[id=  714] gen=  7  madre=632 padre=615  (normal)  atributos: 9 9 9 8 9 9 8 9 9 9 9 9 8 9 9 8 9 9 9 9
+[id=  716] gen=  7  madre=640 padre=617  (normal)  atributos: 9 8 9 8 9 8 8 9 9 9 8 9 9 9 9 9 8 9 9 9
+[id=  718] gen=  7  madre=628 padre=619  (normal)  atributos: 8 9 9 9 9 9 9 9 9 9 9 9 8 9 8 9 9 8 9 9
+[id=  720] gen=  7  madre=618 padre=621  (normal)  atributos: 9 9 9 8 9 9 8 8 9 9 9 9 9 9 8 9 9 9 9 9
+[id=  722] gen=  7  madre=690 padre=623  (normal)  atributos: 9 9 9 9 9 9 9 9 9 8 9 9 9 9 8 9 9 9 9 8
+[id=  724] gen=  7  madre=680 padre=625  (normal)  atributos: 9 9 8 9 9 9 9 9 8 9 9 9 9 9 8 9 9 9 8 8
+[id=  726] gen=  7  madre=658 padre=627  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  728] gen=  7  madre=674 padre=629  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8
+[id=  730] gen=  7  madre=684 padre=631  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 8 9 8 9 9 8 9 9
+[id=  732] gen=  7  madre=636 padre=633  (normal)  atributos: 9 9 9 9 9 9 9 9 8 9 9 9 9 9 8 9 8 9 9 9
+[id=  734] gen=  7  madre=604 padre=635  (normal)  atributos: 9 9 8 8 8 8 9 8 9 9 9 8 8 9 9 9 9 9 8 9
+[id=  736] gen=  7  madre=644 padre=637  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 8 9 8 9 9 9 9 8 9 9
+[id=  738] gen=  7  madre=686 padre=639  (normal)  atributos: 8 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9
+[id=  740] gen=  7  madre=662 padre=641  (normal)  atributos: 9 9 9 8 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  742] gen=  7  madre=624 padre=643  (normal)  atributos: 9 9 9 9 9 9 8 8 9 9 9 9 8 8 9 9 8 8 9 8
+[id=  744] gen=  7  madre=646 padre=645  (normal)  atributos: 9 9 8 9 9 9 9 9 9 8 9 9 8 9 9 9 9 9 9 8
+[id=  746] gen=  7  madre=602 padre=647  (normal)  atributos: 9 9 8 8 9 9 9 9 9 9 9 8 9 8 8 9 9 9 9 8
+[id=  748] gen=  7  madre=660 padre=649  (normal)  atributos: 8 9 9 9 9 9 9 9 8 8 8 9 9 9 9 9 8 9 9 8
+[id=  750] gen=  7  madre=634 padre=651  (normal)  atributos: 9 9 8 8 8 8 9 9 8 8 9 9 9 8 9 9 9 8 9 8
+[id=  752] gen=  7  madre=676 padre=653  (normal)  atributos: 8 9 9 9 9 8 9 9 9 9 9 9 9 8 9 8 8 9 9 9
+[id=  754] gen=  7  madre=688 padre=655  (normal)  atributos: 9 9 8 9 9 9 9 9 9 8 9 9 9 9 9 9 8 9 9 9
+[id=  756] gen=  7  madre=654 padre=657  (normal)  atributos: 9 9 9 9 9 8 9 8 9 9 9 9 9 9 8 8 9 8 9 9
+[id=  758] gen=  7  madre=668 padre=659  (normal)  atributos: 9 9 9 8 9 9 9 8 8 8 9 9 9 9 8 9 8 8 8 9
+[id=  760] gen=  7  madre=606 padre=661  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 8 9 9 9 8
+[id=  762] gen=  7  madre=682 padre=663  (normal)  atributos: 8 9 8 9 9 9 9 9 9 9 9 9 9 9 8 8 8 9 9 8
+[id=  764] gen=  7  madre=652 padre=665  (normal)  atributos: 8 9 8 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9
+[id=  766] gen=  7  madre=670 padre=667  (normal)  atributos: 9 8 9 9 9 9 9 8 9 8 9 9 9 9 9 9 8 9 9 9
+[id=  768] gen=  7  madre=614 padre=669  (normal)  atributos: 8 9 9 9 9 9 9 8 8 9 8 8 9 9 9 9 9 9 9 9
+[id=  770] gen=  7  madre=638 padre=671  (normal)  atributos: 9 9 9 9 8 9 9 8 9 9 9 9 9 9 9 9 9 8 8 9
+[id=  772] gen=  7  madre=650 padre=673  (normal)  atributos: 9 8 9 9 9 9 9 9 8 9 9 8 9 9 8 9 9 9 9 9
+[id=  774] gen=  7  madre=648 padre=675  (normal)  atributos: 9 9 8 8 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9
+[id=  776] gen=  7  madre=656 padre=677  (normal)  atributos: 8 9 9 9 9 9 8 9 9 9 8 9 9 9 8 9 9 8 9 9
+[id=  778] gen=  7  madre=672 padre=679  (normal)  atributos: 9 9 8 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9
+[id=  780] gen=  7  madre=692 padre=681  (normal)  atributos: 9 9 9 9 8 9 9 9 9 8 9 8 9 9 9 8 8 8 8 9
+[id=  782] gen=  7  madre=622 padre=683  (normal)  atributos: 9 9 8 8 8 9 9 9 9 8 9 8 9 9 9 8 8 9 9 9
+[id=  784] gen=  7  madre=696 padre=685  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  786] gen=  7  madre=630 padre=687  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 9 8 9 8 9 9 8 9 9 8
+[id=  788] gen=  7  madre=620 padre=689  (normal)  atributos: 8 9 9 9 8 9 9 9 9 9 9 8 9 9 9 8 9 9 9 9
+[id=  790] gen=  7  madre=666 padre=691  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 9 8 9 9 8 9 9 9 8
+[id=  792] gen=  7  madre=612 padre=693  (normal)  atributos: 9 8 8 9 9 8 9 8 9 9 8 8 9 9 9 9 9 8 8 9
+[id=  794] gen=  7  madre=664 padre=695  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 8 9 9
+[id=  796] gen=  7  madre=642 padre=697  (normal)  atributos: 8 9 9 9 9 8 9 8 9 9 9 8 9 8 9 8 9 9 9 9
+[id=  798] gen=  7  madre=608 padre=699  (normal)  atributos: 9 9 9 9 9 8 9 9 9 9 9 9 9 8 9 9 9 9 9 9
+[id=  701] gen=  7  madre=616 padre=601  (normal)  atributos: 8 9 9 8 8 8 8 9 9 9 8 8 8 8 8 8 8 8 8 9
+[id=  703] gen=  7  madre=610 padre=603  (normal)  atributos: 8 9 9 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 8
+[id=  705] gen=  7  madre=600 padre=605  (normal)  atributos: 8 8 8 8 9 8 9 8 8 8 9 8 8 8 9 8 9 8 8 9
+[id=  707] gen=  7  madre=694 padre=607  (normal)  atributos: 8 8 8 9 9 8 9 8 9 8 8 8 8 9 8 9 8 8 8 8
+[id=  709] gen=  7  madre=626 padre=609  (normal)  atributos: 8 9 8 9 8 8 8 9 8 8 9 8 8 8 9 9 8 9 9 8
+[id=  711] gen=  7  madre=698 padre=611  (normal)  atributos: 8 8 9 9 8 8 8 8 8 8 9 8 8 9 9 8 8 9 8 8
+[id=  713] gen=  7  madre=678 padre=613  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 8 8 8 9 9 8 8 8 8 8
+[id=  715] gen=  7  madre=632 padre=615  (normal)  atributos: 8 9 8 8 8 8 8 8 8 8 8 8 8 8 9 8 9 9 8 8
+[id=  717] gen=  7  madre=640 padre=617  (normal)  atributos: 8 8 8 8 9 8 8 9 8 9 8 8 8 8 8 8 9 8 8 9
+[id=  719] gen=  7  madre=628 padre=619  (normal)  atributos: 8 8 8 9 8 8 8 9 8 8 8 9 8 9 9 8 9 8 8 8
+[id=  721] gen=  7  madre=618 padre=621  (normal)  atributos: 8 8 8 9 8 8 8 9 8 8 8 8 8 8 9 8 8 8 9 8
+[id=  723] gen=  7  madre=690 padre=623  (normal)  atributos: 8 8 8 9 8 8 8 8 8 9 8 8 8 8 8 8 8 8 9 8
+[id=  725] gen=  7  madre=680 padre=625  (normal)  atributos: 9 8 8 9 8 9 8 8 8 8 9 8 8 8 8 8 8 8 8 8
+[id=  727] gen=  7  madre=658 padre=627  (normal)  atributos: 9 8 8 8 9 9 9 9 8 8 9 8 9 8 8 8 8 8 8 8
+[id=  729] gen=  7  madre=674 padre=629  (normal)  atributos: 9 9 9 8 8 8 8 8 8 8 8 8 8 9 9 8 8 8 8 9
+[id=  731] gen=  7  madre=684 padre=631  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 8 8 8 9 9 8 8 8 8 9
+[id=  733] gen=  7  madre=636 padre=633  (normal)  atributos: 8 8 9 8 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  735] gen=  7  madre=604 padre=635  (normal)  atributos: 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  737] gen=  7  madre=644 padre=637  (normal)  atributos: 8 8 9 8 9 8 8 8 9 9 8 8 8 8 8 8 8 8 9 8
+[id=  739] gen=  7  madre=686 padre=639  (normal)  atributos: 8 8 8 8 8 8 8 8 9 9 8 8 8 9 8 9 9 8 8 8
+[id=  741] gen=  7  madre=662 padre=641  (normal)  atributos: 8 8 8 8 8 8 9 8 9 8 8 8 9 8 8 8 9 9 8 9
+[id=  743] gen=  7  madre=624 padre=643  (normal)  atributos: 8 8 8 8 8 9 8 8 8 8 8 9 8 8 8 8 8 8 8 8
+[id=  745] gen=  7  madre=646 padre=645  (normal)  atributos: 8 8 9 8 8 9 8 9 8 8 8 8 8 9 8 9 8 9 9 8
+[id=  747] gen=  7  madre=602 padre=647  (normal)  atributos: 8 8 8 8 9 8 8 9 8 8 8 8 8 8 8 8 8 9 9 8
+[id=  749] gen=  7  madre=660 padre=649  (normal)  atributos: 8 8 8 8 9 8 8 8 8 8 8 8 9 9 8 8 8 9 8 8
+[id=  751] gen=  7  madre=634 padre=651  (normal)  atributos: 8 9 8 8 8 8 8 8 8 9 8 8 9 8 8 8 8 8 9 8
+[id=  753] gen=  7  madre=676 padre=653  (normal)  atributos: 8 8 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8 9 8 8
+[id=  755] gen=  7  madre=688 padre=655  (normal)  atributos: 9 8 9 8 8 8 8 9 8 8 9 8 9 9 9 9 8 8 9 8
+[id=  757] gen=  7  madre=654 padre=657  (normal)  atributos: 9 9 9 8 8 8 9 8 8 9 8 8 8 8 8 8 8 9 8 8
+[id=  759] gen=  7  madre=668 padre=659  (normal)  atributos: 8 9 8 9 8 8 8 8 9 8 9 8 8 8 8 8 8 8 8 8
+[id=  761] gen=  7  madre=606 padre=661  (normal)  atributos: 8 8 8 8 9 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  763] gen=  7  madre=682 padre=663  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 9 8
+[id=  765] gen=  7  madre=652 padre=665  (normal)  atributos: 8 9 8 9 8 9 8 8 9 8 8 8 8 9 8 8 8 9 8 8
+[id=  767] gen=  7  madre=670 padre=667  (normal)  atributos: 8 8 8 9 9 8 8 8 8 8 9 8 8 8 9 9 8 8 8 8
+[id=  769] gen=  7  madre=614 padre=669  (normal)  atributos: 8 9 8 8 8 8 8 9 9 8 8 8 8 8 8 8 8 8 8 8
+[id=  771] gen=  7  madre=638 padre=671  (normal)  atributos: 8 8 8 8 8 8 9 8 8 8 8 8 8 9 8 8 8 8 8 8
+[id=  773] gen=  7  madre=650 padre=673  (normal)  atributos: 9 9 8 8 9 8 8 8 9 8 8 8 8 9 8 8 9 8 9 9
+[id=  775] gen=  7  madre=648 padre=675  (normal)  atributos: 8 9 8 8 8 9 8 8 8 8 9 8 8 8 9 8 9 9 9 8
+[id=  777] gen=  7  madre=656 padre=677  (normal)  atributos: 8 8 8 8 8 9 8 8 8 9 8 8 8 8 8 8 8 8 8 8
+[id=  779] gen=  7  madre=672 padre=679  (normal)  atributos: 8 8 8 9 8 8 8 9 8 8 8 8 8 8 8 9 8 8 8 8
+[id=  781] gen=  7  madre=692 padre=681  (normal)  atributos: 9 8 9 9 8 8 8 8 8 8 9 8 9 8 8 8 8 8 8 9
+[id=  783] gen=  7  madre=622 padre=683  (normal)  atributos: 9 8 8 8 9 8 8 9 9 8 8 8 8 8 8 8 8 8 8 8
+[id=  785] gen=  7  madre=696 padre=685  (normal)  atributos: 8 8 8 9 8 9 9 8 8 9 8 8 8 9 9 8 8 8 8 8
+[id=  787] gen=  7  madre=630 padre=687  (normal)  atributos: 8 8 9 8 9 8 9 8 8 8 9 8 9 8 8 8 8 8 8 8
+[id=  789] gen=  7  madre=620 padre=689  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 9 8 8 9 8 9 8 8 8 8
+[id=  791] gen=  7  madre=666 padre=691  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 9 8 8 8 8 8 9 8 8 9
+[id=  793] gen=  7  madre=612 padre=693  (normal)  atributos: 8 9 8 8 8 8 9 8 8 9 8 8 8 8 9 8 8 8 8 9
+[id=  795] gen=  7  madre=664 padre=695  (normal)  atributos: 8 8 9 8 9 8 8 8 8 8 8 8 9 9 8 8 8 8 8 8
+[id=  797] gen=  7  madre=642 padre=697  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8 9 8 8
+[id=  799] gen=  7  madre=608 padre=699  (normal)  atributos: 8 8 9 9 9 9 8 8 8 8 8 8 9 8 8 8 8 8 8 9
+  Mutaciones totales: hija(s)=139, hijo(s)=163
+
+== Generación 8
+  Parejas formadas (Hombre x Mujer) [* = relajado/pivote]:
+      H701 x M768  ->  HijM800 / HijH801 | mut(H1)=5 [2, 3, 13, 14, 15]  mut(H2)=5 [8, 13, 14, 17, 18]
+      H703 x M718  ->  HijM802 / HijH803 | mut(H1)=2 [0, 8]  mut(H2)=4 [1, 3, 7, 14]
+      H705 x M752  ->  HijM804 / HijH805 | mut(H1)=1 [6]  mut(H2)=2 [17, 19]
+      H707 x M792  ->  HijM806 / HijH807 | mut(H1)=1 [19]  mut(H2)=2 [5, 9]
+      H709 x M750  ->  HijM808 / HijH809 | mut(H1)=6 [0, 7, 9, 12, 15, 17]  mut(H2)=3 [1, 11, 19]
+      H711 x M782  ->  HijM810 / HijH811 | mut(H1)=4 [2, 5, 12, 16]  mut(H2)=3 [4, 6, 16]
+      H713 x M734  ->  HijM812 / HijH813 | mut(H1)=4 [4, 9, 10, 16]  mut(H2)=1 [13]
+      H715 x M724  ->  HijM814 / HijH815 | mut(H1)=3 [1, 7, 10]  mut(H2)=4 [0, 3, 4, 12]
+      H717 x M774  ->  HijM816 / HijH817 | mut(H1)=5 [2, 6, 7, 9, 11]  mut(H2)=1 [8]
+      H719 x M758  ->  HijM818 / HijH819 | mut(H1)=4 [2, 5, 18, 19]  mut(H2)=2 [2, 14]
+      H721 x M780  ->  HijM820 / HijH821 | mut(H1)=5 [6, 10, 12, 15, 19]  mut(H2)=1 [11]
+      H723 x M788  ->  HijM822 / HijH823 | mut(H1)=3 [1, 4, 17]  mut(H2)=3 [4, 5, 14]
+      H725 x M720  ->  HijM824 / HijH825 | mut(H1)=2 [13, 18]  mut(H2)=5 [3, 7, 9, 15, 17]
+      H727 x M754  ->  HijM826 / HijH827 | mut(H1)=2 [1, 14]  mut(H2)=4 [0, 9, 16, 19]
+      H729 x M702  ->  HijM828 / HijH829 | mut(H1)=5 [2, 5, 7, 10, 16]  mut(H2)=2 [1, 16]
+      H731 x M778  ->  HijM830 / HijH831 | mut(H1)=0 []  mut(H2)=3 [4, 10, 18]
+      H733 x M764  ->  HijM832 / HijH833 | mut(H1)=2 [1, 3]  mut(H2)=2 [2, 6]
+      H735 x M760  ->  HijM834 / HijH835 | mut(H1)=4 [0, 3, 7, 11]  mut(H2)=3 [4, 10, 18]
+      H737 x M704  ->  HijM836 / HijH837 | mut(H1)=2 [10, 17]  mut(H2)=2 [14, 15]
+      H739 x M716  ->  HijM838 / HijH839 | mut(H1)=7 [1, 2, 3, 4, 6, 10, 16]  mut(H2)=2 [11, 14]
+      H741 x M730  ->  HijM840 / HijH841 | mut(H1)=5 [6, 7, 13, 15, 19]  mut(H2)=4 [5, 16, 17, 18]
+      H743 x M748  ->  HijM842 / HijH843 | mut(H1)=2 [14, 15]  mut(H2)=2 [0, 12]
+      H745 x M706  ->  HijM844 / HijH845 | mut(H1)=2 [0, 15]  mut(H2)=5 [6, 8, 9, 11, 12]
+      H747 x M742  ->  HijM846 / HijH847 | mut(H1)=5 [1, 10, 14, 15, 19]  mut(H2)=2 [5, 16]
+      H749 x M794  ->  HijM848 / HijH849 | mut(H1)=8 [0, 2, 4, 5, 8, 15, 18, 19]  mut(H2)=2 [0, 15]
+      H751 x M798  ->  HijM850 / HijH851 | mut(H1)=4 [1, 2, 7, 14]  mut(H2)=7 [0, 1, 3, 8, 9, 12, 16]
+      H753 x M708  ->  HijM852 / HijH853 | mut(H1)=0 []  mut(H2)=5 [3, 4, 5, 7, 9]
+      H755 x M796  ->  HijM854 / HijH855 | mut(H1)=5 [0, 5, 11, 16, 19]  mut(H2)=3 [4, 15, 17]
+      H757 x M710  ->  HijM856 / HijH857 | mut(H1)=2 [4, 7]  mut(H2)=3 [0, 1, 18]
+      H759 x M736  ->  HijM858 / HijH859 | mut(H1)=2 [14, 18]  mut(H2)=5 [1, 2, 5, 18, 19]
+      H761 x M762  ->  HijM860 / HijH861 | mut(H1)=2 [8, 18]  mut(H2)=4 [4, 14, 16, 17]
+      H763 x M786  ->  HijM862 / HijH863 | mut(H1)=4 [0, 6, 10, 12]  mut(H2)=4 [1, 2, 9, 14]
+      H765 x M732  ->  HijM864 / HijH865 | mut(H1)=1 [8]  mut(H2)=2 [8, 13]
+      H767 x M756  ->  HijM866 / HijH867 | mut(H1)=4 [1, 14, 15, 16]  mut(H2)=2 [2, 4]
+      H769 x M726  ->  HijM868 / HijH869 | mut(H1)=4 [0, 6, 10, 18]  mut(H2)=5 [2, 6, 11, 12, 17]
+      H771 x M714  ->  HijM870 / HijH871 | mut(H1)=1 [12]  mut(H2)=3 [4, 8, 14]
+      H773 x M766  ->  HijM872 / HijH873 | mut(H1)=1 [9]  mut(H2)=4 [7, 10, 11, 18]
+      H775 x M744  ->  HijM874 / HijH875 | mut(H1)=3 [2, 15, 18]  mut(H2)=4 [2, 8, 15, 17]
+      H777 x M772  ->  HijM876 / HijH877 | mut(H1)=5 [2, 5, 8, 16, 17]  mut(H2)=1 [3]
+      H779 x M738  ->  HijM878 / HijH879 | mut(H1)=3 [7, 12, 18]  mut(H2)=5 [0, 1, 9, 14, 17]
+      H781 x M790  ->  HijM880 / HijH881 | mut(H1)=1 [2]  mut(H2)=2 [1, 5]
+      H783 x M700  ->  HijM882 / HijH883 | mut(H1)=3 [6, 12, 14]  mut(H2)=1 [9]
+      H785 x M770  ->  HijM884 / HijH885 | mut(H1)=4 [2, 12, 13, 14]  mut(H2)=4 [5, 10, 14, 18]
+      H787 x M740  ->  HijM886 / HijH887 | mut(H1)=2 [6, 14]  mut(H2)=2 [0, 3]
+      H789 x M728  ->  HijM888 / HijH889 | mut(H1)=2 [3, 16]  mut(H2)=3 [2, 4, 14]
+      H791 x M712  ->  HijM890 / HijH891 | mut(H1)=2 [6, 19]  mut(H2)=4 [0, 4, 6, 7]
+      H793 x M776  ->  HijM892 / HijH893 | mut(H1)=3 [9, 12, 19]  mut(H2)=1 [17]
+      H795 x M722  ->  HijM894 / HijH895 | mut(H1)=2 [8, 19]  mut(H2)=4 [0, 2, 9, 19]
+      H797 x M746  ->  HijM896 / HijH897 | mut(H1)=3 [9, 14, 16]  mut(H2)=1 [17]
+      H799 x M784  ->  HijM898 / HijH899 | mut(H1)=1 [12]  mut(H2)=2 [0, 17]
+
+===== GENERACIÓN 8 (n=100) =====
+[id=  800] gen=  8  madre=768 padre=701  (normal)  atributos: 8 9 8 8 9 9 9 9 9 9 8 8 9 9 8 9 9 9 9 9
+[id=  802] gen=  8  madre=718 padre=703  (normal)  atributos: 8 9 9 9 9 9 9 9 8 9 9 9 8 9 8 9 9 8 9 9
+[id=  804] gen=  8  madre=752 padre=705  (normal)  atributos: 8 9 9 9 9 8 9 9 9 9 9 9 9 8 9 8 9 9 9 9
+[id=  806] gen=  8  madre=792 padre=707  (normal)  atributos: 9 8 8 9 9 8 9 8 9 9 8 8 9 9 9 9 9 8 8 8
+[id=  808] gen=  8  madre=750 padre=709  (normal)  atributos: 8 9 8 9 8 8 9 9 8 8 9 9 9 8 9 9 9 8 9 8
+[id=  810] gen=  8  madre=782 padre=711  (normal)  atributos: 9 9 8 9 8 9 9 9 9 8 9 8 8 9 9 8 9 9 9 9
+[id=  812] gen=  8  madre=734 padre=713  (normal)  atributos: 9 9 9 8 9 8 9 8 9 8 8 8 8 9 9 9 9 9 8 9
+[id=  814] gen=  8  madre=724 padre=715  (normal)  atributos: 9 8 8 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 8 8
+[id=  816] gen=  8  madre=774 padre=717  (normal)  atributos: 9 9 8 8 9 9 9 9 9 8 9 8 9 9 9 8 9 9 9 9
+[id=  818] gen=  8  madre=758 padre=719  (normal)  atributos: 9 9 8 9 9 9 9 9 8 8 9 9 9 9 9 9 9 8 9 8
+[id=  820] gen=  8  madre=780 padre=721  (normal)  atributos: 9 9 9 9 8 9 9 9 9 8 9 8 8 9 9 8 8 8 9 9
+[id=  822] gen=  8  madre=788 padre=723  (normal)  atributos: 8 8 9 9 8 9 9 9 9 9 9 8 9 9 9 8 9 9 9 9
+[id=  824] gen=  8  madre=720 padre=725  (normal)  atributos: 9 9 9 9 9 9 8 8 9 9 9 9 9 9 8 9 9 9 9 9
+[id=  826] gen=  8  madre=754 padre=727  (normal)  atributos: 9 9 8 9 9 9 9 9 9 8 9 9 9 9 8 9 8 9 9 9
+[id=  828] gen=  8  madre=702 padre=729  (normal)  atributos: 9 9 9 9 9 8 9 8 8 9 9 8 9 9 9 9 9 8 9 9
+[id=  830] gen=  8  madre=778 padre=731  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  832] gen=  8  madre=764 padre=733  (normal)  atributos: 8 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9
+[id=  834] gen=  8  madre=760 padre=735  (normal)  atributos: 9 9 9 8 9 9 9 8 9 9 8 9 9 9 9 8 9 9 9 8
+[id=  836] gen=  8  madre=704 padre=737  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 8 9 8 9 9 8 8 9 9
+[id=  838] gen=  8  madre=716 padre=739  (normal)  atributos: 9 9 8 8 9 8 9 9 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  840] gen=  8  madre=730 padre=741  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 8 8 9 9 9 9 8
+[id=  842] gen=  8  madre=748 padre=743  (normal)  atributos: 8 9 9 9 9 9 9 9 8 8 8 9 9 9 8 9 8 9 9 8
+[id=  844] gen=  8  madre=706 padre=745  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 8 9 9 9
+[id=  846] gen=  8  madre=742 padre=747  (normal)  atributos: 9 8 9 9 9 9 8 9 9 9 8 9 8 8 9 8 8 9 9 8
+[id=  848] gen=  8  madre=794 padre=749  (normal)  atributos: 9 9 9 9 9 9 9 8 8 9 9 9 9 9 9 8 9 9 9 9
+[id=  850] gen=  8  madre=798 padre=751  (normal)  atributos: 9 9 8 9 9 8 9 8 9 9 9 9 9 8 9 9 9 9 9 9
+[id=  852] gen=  8  madre=708 padre=753  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9 8 9
+[id=  854] gen=  8  madre=796 padre=755  (normal)  atributos: 8 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9 9
+[id=  856] gen=  8  madre=710 padre=757  (normal)  atributos: 9 9 9 8 9 8 9 9 8 9 9 9 8 9 9 9 9 9 9 9
+[id=  858] gen=  8  madre=736 padre=759  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 8 9 8 9 9 8 9 9
+[id=  860] gen=  8  madre=762 padre=761  (normal)  atributos: 8 9 8 9 9 9 9 9 8 9 9 9 9 9 8 8 8 9 9 8
+[id=  862] gen=  8  madre=786 padre=763  (normal)  atributos: 8 9 9 9 9 9 8 9 9 9 9 8 9 8 9 9 8 9 9 8
+[id=  864] gen=  8  madre=732 padre=765  (normal)  atributos: 9 9 9 9 9 9 9 9 8 9 9 9 9 9 8 9 8 9 9 9
+[id=  866] gen=  8  madre=756 padre=767  (normal)  atributos: 9 9 9 9 9 8 9 8 9 9 9 9 9 9 8 9 8 8 9 9
+[id=  868] gen=  8  madre=726 padre=769  (normal)  atributos: 8 9 9 9 9 9 8 9 9 9 8 9 9 9 9 9 8 9 9 9
+[id=  870] gen=  8  madre=714 padre=771  (normal)  atributos: 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9 9
+[id=  872] gen=  8  madre=766 padre=773  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9
+[id=  874] gen=  8  madre=744 padre=775  (normal)  atributos: 9 9 8 9 9 9 9 9 9 8 9 9 8 9 9 9 9 9 8 8
+[id=  876] gen=  8  madre=772 padre=777  (normal)  atributos: 9 8 8 9 9 8 9 9 9 9 9 8 9 9 8 9 9 9 9 9
+[id=  878] gen=  8  madre=738 padre=779  (normal)  atributos: 8 9 9 9 8 9 9 8 9 9 9 9 8 9 9 9 9 9 9 9
+[id=  880] gen=  8  madre=790 padre=781  (normal)  atributos: 9 9 9 9 9 9 9 8 9 9 9 9 9 9 9 8 9 9 9 9
+[id=  882] gen=  8  madre=700 padre=783  (normal)  atributos: 9 9 9 9 9 9 8 9 9 9 9 8 9 9 8 9 9 8 9 8
+[id=  884] gen=  8  madre=770 padre=785  (normal)  atributos: 9 9 9 9 8 9 9 8 9 9 9 9 8 9 8 9 9 8 8 9
+[id=  886] gen=  8  madre=740 padre=787  (normal)  atributos: 9 9 9 8 9 9 8 8 9 9 9 9 9 9 8 9 9 9 9 9
+[id=  888] gen=  8  madre=728 padre=789  (normal)  atributos: 9 9 9 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8
+[id=  890] gen=  8  madre=712 padre=791  (normal)  atributos: 9 9 9 8 9 9 8 9 9 8 9 8 9 9 9 9 9 9 8 9
+[id=  892] gen=  8  madre=776 padre=793  (normal)  atributos: 8 9 9 9 9 9 9 9 9 9 8 9 9 9 9 9 9 8 9 8
+[id=  894] gen=  8  madre=722 padre=795  (normal)  atributos: 9 9 9 9 9 9 9 9 9 8 9 9 9 9 8 9 9 9 9 9
+[id=  896] gen=  8  madre=746 padre=797  (normal)  atributos: 9 9 8 8 9 9 9 9 9 8 9 8 9 8 8 9 8 9 9 8
+[id=  898] gen=  8  madre=784 padre=799  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 9 9 9
+[id=  801] gen=  8  madre=768 padre=701  (normal)  atributos: 8 9 9 8 8 8 8 8 9 9 8 8 8 9 8 8 8 8 8 9
+[id=  803] gen=  8  madre=718 padre=703  (normal)  atributos: 8 9 9 9 8 8 8 8 8 8 9 8 8 8 9 8 8 8 8 8
+[id=  805] gen=  8  madre=752 padre=705  (normal)  atributos: 8 8 8 8 9 8 9 8 8 8 9 8 8 8 9 8 8 8 8 8
+[id=  807] gen=  8  madre=792 padre=707  (normal)  atributos: 8 8 8 9 9 8 9 8 9 8 8 8 8 9 8 9 8 8 8 8
+[id=  809] gen=  8  madre=750 padre=709  (normal)  atributos: 8 9 8 8 8 8 8 9 8 8 9 8 8 8 9 9 8 8 9 8
+[id=  811] gen=  8  madre=782 padre=711  (normal)  atributos: 8 8 8 8 9 8 8 8 8 8 9 8 8 9 9 8 9 9 8 8
+[id=  813] gen=  8  madre=734 padre=713  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 8 8 8 8 8
+[id=  815] gen=  8  madre=724 padre=715  (normal)  atributos: 9 9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 8 8
+[id=  817] gen=  8  madre=774 padre=717  (normal)  atributos: 8 8 8 8 9 8 8 9 8 9 8 8 8 8 8 8 9 8 8 9
+[id=  819] gen=  8  madre=758 padre=719  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 8 9 8 9 9 8 8 8 8 8
+[id=  821] gen=  8  madre=780 padre=721  (normal)  atributos: 8 8 8 9 8 8 8 9 8 8 8 8 8 8 9 8 8 8 8 8
+[id=  823] gen=  8  madre=788 padre=723  (normal)  atributos: 8 8 8 9 8 8 8 8 8 9 8 8 8 8 9 8 8 8 9 8
+[id=  825] gen=  8  madre=720 padre=725  (normal)  atributos: 9 8 8 8 8 9 8 8 8 8 9 8 8 8 8 8 8 8 8 8
+[id=  827] gen=  8  madre=754 padre=727  (normal)  atributos: 9 8 8 8 9 9 9 9 8 9 9 8 9 8 8 8 8 8 8 9
+[id=  829] gen=  8  madre=702 padre=729  (normal)  atributos: 9 9 9 8 8 8 8 8 8 8 8 8 8 9 9 8 8 8 8 9
+[id=  831] gen=  8  madre=778 padre=731  (normal)  atributos: 8 8 8 8 9 8 8 8 8 8 8 8 8 9 8 8 8 8 8 9
+[id=  833] gen=  8  madre=764 padre=733  (normal)  atributos: 8 8 9 8 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  835] gen=  8  madre=760 padre=735  (normal)  atributos: 8 8 8 8 8 8 9 8 8 8 9 8 8 8 8 8 8 8 8 8
+[id=  837] gen=  8  madre=704 padre=737  (normal)  atributos: 8 8 9 8 9 8 8 8 9 9 8 8 8 8 8 9 8 8 8 8
+[id=  839] gen=  8  madre=716 padre=739  (normal)  atributos: 8 8 8 8 8 8 8 8 9 9 8 9 8 9 8 9 8 8 8 8
+[id=  841] gen=  8  madre=730 padre=741  (normal)  atributos: 8 8 8 8 8 8 9 8 9 8 8 8 8 8 8 8 9 9 8 9
+[id=  843] gen=  8  madre=748 padre=743  (normal)  atributos: 9 8 8 8 8 9 8 8 8 8 8 9 8 8 8 8 8 8 8 8
+[id=  845] gen=  8  madre=706 padre=745  (normal)  atributos: 8 8 9 8 8 9 8 8 9 8 8 9 8 9 8 9 8 9 9 8
+[id=  847] gen=  8  madre=742 padre=747  (normal)  atributos: 8 8 8 8 9 9 8 8 8 8 8 8 8 8 8 8 9 8 9 8
+[id=  849] gen=  8  madre=794 padre=749  (normal)  atributos: 8 8 8 8 9 8 8 8 8 8 8 8 9 9 8 8 8 8 8 8
+[id=  851] gen=  8  madre=798 padre=751  (normal)  atributos: 8 8 8 9 8 8 8 8 9 8 8 8 8 8 8 8 9 8 9 8
+[id=  853] gen=  8  madre=708 padre=753  (normal)  atributos: 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 8 9 8 8
+[id=  855] gen=  8  madre=796 padre=755  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 9 8 9 8 9 9 8 8 9 8
+[id=  857] gen=  8  madre=710 padre=757  (normal)  atributos: 8 9 9 8 8 8 9 8 8 9 8 8 8 8 8 8 8 9 9 8
+[id=  859] gen=  8  madre=736 padre=759  (normal)  atributos: 8 9 9 9 8 8 8 8 9 8 8 8 8 8 8 8 8 8 8 8
+[id=  861] gen=  8  madre=762 padre=761  (normal)  atributos: 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 9 8 8 8
+[id=  863] gen=  8  madre=786 padre=763  (normal)  atributos: 8 8 9 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 9 8
+[id=  865] gen=  8  madre=732 padre=765  (normal)  atributos: 8 9 8 9 8 9 8 8 8 8 8 8 8 8 8 8 8 9 8 8
+[id=  867] gen=  8  madre=756 padre=767  (normal)  atributos: 8 8 8 9 9 8 8 8 8 8 9 8 8 8 8 8 8 8 8 8
+[id=  869] gen=  8  madre=726 padre=769  (normal)  atributos: 8 9 8 8 8 8 9 8 9 8 8 8 9 8 8 8 8 8 8 8
+[id=  871] gen=  8  madre=714 padre=771  (normal)  atributos: 8 8 8 8 8 8 8 8 9 8 8 8 8 9 8 8 8 8 8 8
+[id=  873] gen=  8  madre=766 padre=773  (normal)  atributos: 9 8 8 8 9 8 8 8 9 8 8 9 8 9 8 8 8 8 8 9
+[id=  875] gen=  8  madre=744 padre=775  (normal)  atributos: 8 9 9 8 8 9 8 8 9 8 9 8 8 8 9 8 9 8 9 8
+[id=  877] gen=  8  madre=772 padre=777  (normal)  atributos: 8 8 8 8 8 9 8 8 8 9 8 8 8 8 8 8 8 8 8 8
+[id=  879] gen=  8  madre=738 padre=779  (normal)  atributos: 8 9 8 9 8 8 8 9 8 8 8 8 8 8 9 9 8 8 8 8
+[id=  881] gen=  8  madre=790 padre=781  (normal)  atributos: 9 9 9 9 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 8
+[id=  883] gen=  8  madre=700 padre=783  (normal)  atributos: 8 8 8 8 9 8 8 9 8 8 8 8 8 8 8 8 8 8 8 8
+[id=  885] gen=  8  madre=770 padre=785  (normal)  atributos: 8 8 8 9 8 9 9 8 8 9 8 8 8 9 9 8 8 8 9 8
+[id=  887] gen=  8  madre=740 padre=787  (normal)  atributos: 8 8 9 8 9 8 9 8 8 8 9 8 9 8 8 8 8 8 8 8
+[id=  889] gen=  8  madre=728 padre=789  (normal)  atributos: 8 8 9 8 9 8 8 8 8 8 9 8 8 9 9 9 8 8 8 8
+[id=  891] gen=  8  madre=712 padre=791  (normal)  atributos: 9 8 8 8 9 8 8 9 8 8 9 8 8 8 8 8 8 8 8 9
+[id=  893] gen=  8  madre=776 padre=793  (normal)  atributos: 8 9 8 8 8 8 8 8 8 9 8 8 8 8 8 8 8 8 8 9
+[id=  895] gen=  8  madre=722 padre=795  (normal)  atributos: 8 8 8 8 9 8 8 8 8 9 8 8 9 9 8 8 8 8 8 9
+[id=  897] gen=  8  madre=746 padre=797  (normal)  atributos: 8 8 8 8 8 8 8 8 8 8 9 8 8 8 8 8 8 9 8 8
+[id=  899] gen=  8  madre=784 padre=799  (normal)  atributos: 9 8 9 9 9 9 8 8 8 8 8 8 9 8 8 8 8 8 8 9
+  Mutaciones totales: hija(s)=153, hijo(s)=150
+
+>>> ¡Perfecto encontrado! Detalles del individuo:
+
+===== GENERACIÓN 8 (n=1) =====
+[id=  830] gen=  8  madre=778 padre=731  (normal)  atributos: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+>>> Emparejamiento: NORMAL  |  Verificación parentesco: NO parientes (válido)
+>>> Generaciones desde fundadores: 8
+>>> Generaciones desde su nacimiento: 0 (nació en gen 8)
+Generacion...  8
