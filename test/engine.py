@@ -1,27 +1,16 @@
-# test/engine.py
 from typing import List, Dict, Optional, Tuple
 from .variables import Params
 from collections import deque
 from genes.individual import gen_human, check_perfect, mix_humans_verbose
 import random as _r
-
-# {'id': int, 'genes': list[int], 'gen': int,
-#  'parents': (madre_id, padre_id),
-#  'grandparents': set[int],          # abuelos (gen - 2)
-#  'greatgrandparents': set[int],     # bisabuelos (gen - 3)
-#  'relaxed': bool}
 Person = Dict[str, object]
 
-# ---------- Scoring (heurística “mejores primero”) ----------
 def individual_score(genes: List[int]) -> int:
-    """Puntaje simple del individuo: suma de genes."""
     return sum(genes)
 
 def pair_score(w_genes: List[int], m_genes: List[int]) -> int:
-    """Puntaje de compatibilidad de pareja (mujer, hombre)."""
     return sum(w_genes) + sum(m_genes)
 
-# ---------- Modelo ----------
 def make_person(next_id: int, genes: list[int], gen: int,
                 parents: Tuple[Optional[int], Optional[int]] = (None, None),
                 gp: Optional[set] = None,                     # abuelos
