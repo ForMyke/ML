@@ -1,4 +1,3 @@
-# test/evo/matching.py
 from typing import List, Tuple, Optional
 from collections import deque
 import random as _r
@@ -6,7 +5,7 @@ from ..variables import Params
 from .models import Person
 from .lineage import are_related
 
-# --------- Heurística de calidad ----------
+# --------- Calidad ----------
 def individual_score(genes: List[int]) -> int:
     return sum(genes)
 
@@ -58,14 +57,6 @@ def hopcroft_karp(adj: List[List[int]], n_left: int, n_right: int) -> Tuple[dict
 
 # --------- Emparejamiento ----------
 def schedule_pairs(men: List[Person], women: List[Person], params: Params) -> List[Tuple[int, int, bool]]:
-    """
-    Empareja evitando parentesco hasta bisabuelos.
-    Heurística “mejores primero”:
-      - Para cada hombre, ordena sus aristas (mujeres permitidas) por mayor pair_score.
-      - En el post-proceso (unmatched), elige la mejor mujer disponible por score.
-    Respeta pivote: últimos 2 hombres se pueden emparejar sin restricción si es necesario.
-    Devuelve (idx_hombre, idx_mujer, relajado?).
-    """
     n = len(men)
 
     # Precompute scores
@@ -85,7 +76,7 @@ def schedule_pairs(men: List[Person], women: List[Person], params: Params) -> Li
         edges_scored.sort(key=lambda t: t[1], reverse=True)
         adj_scored.append(edges_scored)
 
-    # Adyacencia para HK (sólo índices), preservando el orden por score
+    # Adyacencia para HK , preservando el orden por score
     adj: List[List[int]] = [[j for (j, _) in edges] for edges in adj_scored]
 
     matching, unmatched = hopcroft_karp(adj, n, n)

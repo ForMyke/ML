@@ -21,7 +21,6 @@ def mix_and_make_children(pairs: List[Tuple[int, int, bool]],
 
     total_mut_c1 = total_mut_c2 = 0
 
-    print("  Parejas formadas (Hombre x Mujer) [* = relajado/pivote]:")
     for mi, wj, rel in pairs:
         m = men[mi]
         w = women[wj]
@@ -66,9 +65,7 @@ def mix_and_make_children(pairs: List[Tuple[int, int, bool]],
         total_mut_c2 += len(mut_idx_2)
 
         flag = "*" if rel else " "
-        print(f"    {flag} H{m['id']} x M{w['id']}  ->  HijM{child_w['id']} / HijH{child_m['id']}"
-              f" | mut(H1)={len(mut_idx_1)} {mut_idx_1}  mut(H2)={len(mut_idx_2)} {mut_idx_2}")
-
+       
         perfect = perfect or check_perfect(child_w["genes"], params) or check_perfect(child_m["genes"], params)
         next_women.append(child_w)
         next_men.append(child_m)
@@ -76,6 +73,5 @@ def mix_and_make_children(pairs: List[Tuple[int, int, bool]],
     # Imprime la población de la nueva generación
     if next_women and next_men:
         print_population(next_women + next_men, gen=next_women[0]["gen"])
-    print(f"  Mutaciones totales: hija(s)={total_mut_c1}, hijo(s)={total_mut_c2}")
 
     return next_men, next_women, perfect
